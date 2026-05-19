@@ -1,11 +1,10 @@
 "use client";
 import { useEffect, useState } from "react";
 import Link from "next/link";
-import ReactMarkdown from "react-markdown";
 
 export default function Home() {
   const [data, setData] = useState({ theories: [], exams: [] });
-  const [activeTab, setActiveTab] = useState("theory"); // 'theory' | 'chapter-quiz' | 'final-exam'
+  const [activeTab, setActiveTab] = useState("theory"); 
   const [selectedTheory, setSelectedTheory] = useState<any>(null);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
@@ -21,7 +20,7 @@ export default function Home() {
   const switchTab = (tab: string) => {
     setActiveTab(tab);
     setSelectedTheory(null);
-    setIsMobileMenuOpen(false); // Đóng menu trên mobile
+    setIsMobileMenuOpen(false); 
   };
 
   return (
@@ -73,8 +72,6 @@ export default function Home() {
 
       {/* MAIN CONTENT */}
       <div className="flex-1 flex flex-col h-full relative">
-        
-        {/* Header */}
         <header className="bg-white/80 backdrop-blur-md border-b border-gray-100 h-16 flex items-center px-6 md:px-8 z-10 sticky top-0">
           <button onClick={() => setIsMobileMenuOpen(true)} className="md:hidden text-gray-600 p-2 -ml-2 mr-2">
             <svg className="w-6 h-6" fill="none" stroke="currentColor" strokeWidth={2} viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" d="M4 6h16M4 12h16M4 18h16" /></svg>
@@ -92,7 +89,6 @@ export default function Home() {
             {/* --- TAB LÝ THUYẾT --- */}
             {activeTab === "theory" && !selectedTheory && (
               <div className="animate-fade-in">
-                {/* Banner */}
                 <div className="bg-[#c83021] rounded-2xl p-8 md:p-10 text-white shadow-sm mb-10 relative overflow-hidden">
                   <div className="absolute right-10 top-1/2 transform -translate-y-1/2 opacity-10">
                     <svg className="w-40 h-40" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2L1 12h3v9h6v-6h4v6h6v-9h3L12 2z"/></svg>
@@ -103,7 +99,6 @@ export default function Home() {
                   </p>
                 </div>
 
-                {/* Grid Chương */}
                 <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
                   {data.theories.map((th: any, index: number) => (
                     <div key={th.id} className="bg-white p-6 rounded-2xl shadow-[0_2px_10px_-3px_rgba(6,81,237,0.05)] border border-gray-100 hover:shadow-md transition flex flex-col h-full">
@@ -112,7 +107,7 @@ export default function Home() {
                       </div>
                       <h3 className="font-bold text-base text-gray-900 mb-2">{th.chapter}</h3>
                       <p className="text-gray-500 text-sm mb-6 flex-1 line-clamp-2">
-                        Nhấn vào chi tiết để xem đầy đủ nội dung lý thuyết trọng tâm của chương này.
+                        Nhấn vào chi tiết để xem đầy đủ nội dung lý thuyết trọng tâm.
                       </p>
                       <button onClick={() => setSelectedTheory(th)} className="text-indigo-600 font-medium text-sm hover:text-indigo-800 flex items-center w-fit transition-colors">
                         Chi tiết <span className="ml-1.5 font-bold">→</span>
@@ -123,7 +118,7 @@ export default function Home() {
               </div>
             )}
 
-            {/* --- CHI TIẾT LÝ THUYẾT --- */}
+            {/* --- CHI TIẾT LÝ THUYẾT (CẬP NHẬT GIAO DIỆN MỚI) --- */}
             {activeTab === "theory" && selectedTheory && (
               <div className="animate-fade-in">
                 <button onClick={() => setSelectedTheory(null)} className="mb-6 text-gray-500 hover:text-indigo-600 text-sm font-medium flex items-center transition">
@@ -131,15 +126,25 @@ export default function Home() {
                   Quay lại danh sách
                 </button>
                 <div className="bg-white p-8 md:p-10 rounded-2xl shadow-sm border border-gray-100">
-                  <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-8 border-b border-gray-100 pb-4">{selectedTheory.chapter}</h2>
-                  <div className="space-y-10">
+                  <h2 className="text-2xl md:text-3xl font-extrabold text-gray-900 mb-10 border-b border-gray-100 pb-6 uppercase">
+                    {selectedTheory.chapter}
+                  </h2>
+                  <div className="space-y-12">
                     {selectedTheory.sections && selectedTheory.sections.map((sec: any, idx: number) => (
-                      <div key={idx}>
-                        <h3 className="text-lg font-bold text-indigo-800 mb-4">{sec.title}</h3>
-                        <div className="prose prose-indigo max-w-none text-gray-600 leading-relaxed">
-                          <ReactMarkdown>{sec.content}</ReactMarkdown>
-                        </div>
-                      </div>
+                      <section key={idx} className="mb-8">
+                        {/* Style thẻ tiêu đề giống hệt hình */}
+                        <h3 className="flex items-center text-xl font-bold text-red-700 mb-5">
+                          <span className="bg-red-100 text-red-700 w-8 h-8 rounded-full flex items-center justify-center mr-3 text-sm shrink-0">
+                            {idx + 1}
+                          </span>
+                          {sec.title}
+                        </h3>
+                        {/* Render trực tiếp HTML */}
+                        <div 
+                          className="text-gray-700 leading-relaxed" 
+                          dangerouslySetInnerHTML={{ __html: sec.content }} 
+                        />
+                      </section>
                     ))}
                   </div>
                 </div>
