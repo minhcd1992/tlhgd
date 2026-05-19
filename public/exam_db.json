@@ -1,39 +1,83 @@
 {
   "theories": [
     {
-      "id": "th-01",
-      "chapter": "Động lực học chất điểm",
-      "content": "### 1. Định luật I Newton\nNếu một vật không chịu tác dụng của lực nào hoặc chịu tác dụng của các lực có hợp lực bằng không, thì vật đang đứng yên sẽ tiếp tục đứng yên, đang chuyển động thẳng đều sẽ tiếp tục chuyển động thẳng đều.\n\n### 2. Định luật II Newton\nGia tốc của một vật cùng hướng với lực tác dụng lên vật. Độ lớn của gia tốc tỉ lệ thuận với độ lớn của lực và tỉ lệ nghịch với khối lượng của vật.\n$$ \\vec{a} = \\frac{\\vec{F}}{m} $$"
+      "id": "ch-01",
+      "chapter": "Chương 1: Khái quát Tâm lý học lứa tuổi và Tâm lý học giáo dục",
+      "sections": [
+        {
+          "title": "1.1. Đối tượng và nhiệm vụ nghiên cứu",
+          "content": "Tâm lý học giáo dục nghiên cứu các quy luật tâm lý của quá trình dạy học và giáo dục. Nhiệm vụ cốt lõi là tối ưu hóa phương pháp sư phạm."
+        },
+        {
+          "title": "1.2. Sự phát triển tâm lý học sinh",
+          "content": "Các yếu tố ảnh hưởng: Bẩm sinh di truyền, môi trường, giáo dục và hoạt động cá nhân. Trong đó, giáo dục giữ vai trò chủ đạo."
+        }
+      ]
+    },
+    {
+      "id": "ch-02",
+      "chapter": "Chương 2: Tâm lý học hoạt động học tập",
+      "sections": [
+        {
+          "title": "2.1. Bản chất của hoạt động học",
+          "content": "Học tập là quá trình lĩnh hội tri thức, kỹ năng, kỹ xảo một cách tự giác và có mục đích."
+        }
+      ]
+    },
+    {
+      "id": "ch-03",
+      "chapter": "Chương 3: Tâm lý học giáo dục đạo đức",
+      "sections": []
+    },
+    {
+      "id": "ch-04",
+      "chapter": "Chương 4: Tâm lý học nhân cách người Thầy giáo",
+      "sections": []
+    },
+    {
+      "id": "ch-05",
+      "chapter": "Chương 5: Đánh giá trong giáo dục",
+      "sections": []
     }
   ],
   "exams": [
     {
-      "id": "de-01",
-      "chapter": "Động lực học chất điểm",
-      "title": "Kiểm tra 15 phút - Ba định luật Newton",
+      "id": "exam-ch1",
+      "type": "chapter",
+      "chapter": "Chương 1",
+      "title": "Ôn tập: Khái quát TLH Giáo dục",
       "time": 900,
       "questions": [
         {
           "id": 1,
-          "text": "Lực là đại lượng vectơ đặc trưng cho:",
+          "text": "Yếu tố nào giữ vai trò chủ đạo trong sự phát triển tâm lý con người?",
           "options": [
-            "Sự truyền chuyển động từ vật này sang vật khác.",
-            "Tác dụng của vật này lên vật khác.",
-            "Khả năng sinh công của vật.",
-            "Tốc độ biến thiên động lượng của vật."
-          ],
-          "correctIndex": 1
-        },
-        {
-          "id": 2,
-          "text": "Theo định luật II Newton, gia tốc của một vật:",
-          "options": [
-            "Tỉ lệ thuận với khối lượng của vật.",
-            "Tỉ lệ nghịch với lực tác dụng lên vật.",
-            "Cùng hướng với lực tác dụng lên vật.",
-            "Ngược hướng với lực tác dụng lên vật."
+            "Bẩm sinh, di truyền",
+            "Môi trường sống",
+            "Giáo dục",
+            "Hoạt động cá nhân"
           ],
           "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "id": "exam-final-1",
+      "type": "final",
+      "chapter": "Đề Tổng Hợp",
+      "title": "Đề thi thử kết thúc học phần số 01",
+      "time": 2700,
+      "questions": [
+        {
+          "id": 1,
+          "text": "Sự hình thành kỹ xảo mang lại ý nghĩa gì cho hoạt động học tập?",
+          "options": [
+            "Làm tăng sự mệt mỏi",
+            "Giải phóng ý thức khỏi các thao tác kỹ thuật",
+            "Giảm khả năng tư duy",
+            "Làm cho hành động chậm lại"
+          ],
+          "correctIndex": 1
         }
       ]
     }
