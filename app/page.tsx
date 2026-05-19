@@ -1,6 +1,7 @@
 "use client";
 import { useEffect, useState } from "react";
 import Link from "next/link";
+**import ReactMarkdown from "react-markdown"; // Nhập component mới**
 
 export default function Home() {
   const [data, setData] = useState({ theories: [], exams: [] });
@@ -58,9 +59,12 @@ export default function Home() {
                       {th.sections.map((sec: any, idx: number) => (
                         <div key={idx}>
                           <h3 className="text-lg font-bold text-slate-800 mb-2">{sec.title}</h3>
+                          {/* Kích hoạt typography ở đây */}
                           <div className="prose prose-indigo max-w-none text-slate-600">
-                            {/* Kích hoạt typography ở đây */}
-                            <p>{sec.content}</p>
+** {/* Sử dụng component ReactMarkdown để render nội dung */}**
+** <ReactMarkdown>**
+** {sec.content}**
+** </ReactMarkdown>**
                           </div>
                         </div>
                       ))}
