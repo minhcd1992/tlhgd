@@ -1,0 +1,41 @@
+{
+  "theories": [
+    {
+      "id": "th-01",
+      "chapter": "Động lực học chất điểm",
+      "content": "### 1. Định luật I Newton\nNếu một vật không chịu tác dụng của lực nào hoặc chịu tác dụng của các lực có hợp lực bằng không, thì vật đang đứng yên sẽ tiếp tục đứng yên, đang chuyển động thẳng đều sẽ tiếp tục chuyển động thẳng đều.\n\n### 2. Định luật II Newton\nGia tốc của một vật cùng hướng với lực tác dụng lên vật. Độ lớn của gia tốc tỉ lệ thuận với độ lớn của lực và tỉ lệ nghịch với khối lượng của vật.\n$$ \\vec{a} = \\frac{\\vec{F}}{m} $$"
+    }
+  ],
+  "exams": [
+    {
+      "id": "de-01",
+      "chapter": "Động lực học chất điểm",
+      "title": "Kiểm tra 15 phút - Ba định luật Newton",
+      "time": 900,
+      "questions": [
+        {
+          "id": 1,
+          "text": "Lực là đại lượng vectơ đặc trưng cho:",
+          "options": [
+            "Sự truyền chuyển động từ vật này sang vật khác.",
+            "Tác dụng của vật này lên vật khác.",
+            "Khả năng sinh công của vật.",
+            "Tốc độ biến thiên động lượng của vật."
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 2,
+          "text": "Theo định luật II Newton, gia tốc của một vật:",
+          "options": [
+            "Tỉ lệ thuận với khối lượng của vật.",
+            "Tỉ lệ nghịch với lực tác dụng lên vật.",
+            "Cùng hướng với lực tác dụng lên vật.",
+            "Ngược hướng với lực tác dụng lên vật."
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ]
+}
