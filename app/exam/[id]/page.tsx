@@ -32,13 +32,13 @@ export default function ExamPage() {
             [allQuestions[i], allQuestions[j]] = [allQuestions[j], allQuestions[i]];
           }
 
-          const randomQuestions = allQuestions.slice(0, 40);
+          const randomQuestions = allQuestions.slice(0, 45);
           
           const randomExam = {
             id: "random",
             title: "Đề Thi Thử Tổng Hợp Ngẫu Nhiên",
             chapter: "Kiểm tra kiến thức",
-            time: 3600, // 60 phút
+            time: 2400, // 40 phút
             questions: randomQuestions
           };
           

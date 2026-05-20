@@ -213,8 +213,8 @@ export default function Home() {
                           <span className="font-bold text-indigo-700 block">Đề Thi Thử Ngẫu Nhiên</span>
                           <span className="text-xs text-indigo-500">Hệ thống trộn câu hỏi từ tất cả các chương</span>
                         </td>
-                        <td className="px-6 py-4 text-center font-bold text-gray-900">40 Câu</td>
-                        <td className="px-6 py-4 text-center font-bold text-gray-900">60 Phút</td>
+                        <td className="px-6 py-4 text-center font-bold text-gray-900">45 Câu</td>
+                        <td className="px-6 py-4 text-center font-bold text-gray-900">40 Phút</td>
                         <td className="px-6 py-4 text-center">
                           {/* Đường link trỏ tới ID đặc biệt là 'random' */}
                           <Link href={`/exam/random`}>
