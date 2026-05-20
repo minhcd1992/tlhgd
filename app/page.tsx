@@ -1,229 +1,219 @@
 "use client";
 import { useEffect, useState } from "react";
-import { useParams, useRouter } from "next/navigation";
 import Link from "next/link";
 
-export default function ExamPage() {
-  const params = useParams();
-  const id = params?.id as string; // ← fix: cast rõ ràng thay vì dùng trực tiếp
-  const router = useRouter();
-  const [exam, setExam] = useState<any>(null);
-  const [error, setError] = useState<string | null>(null); // ← thêm state lỗi
-  const [currentQIndex, setCurrentQIndex] = useState(0);
-  const [selectedAnswers, setSelectedAnswers] = useState<{ [key: number]: number }>({});
-  const [isSubmitted, setIsSubmitted] = useState(false);
-  const [score, setScore] = useState(0);
+export default function Home() {
+  const [data, setData] = useState({ theories: [], exams: [] });
+  const [activeTab, setActiveTab] = useState("theory"); 
+  const [selectedTheory, setSelectedTheory] = useState<any>(null);
+  const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
   useEffect(() => {
-    if (!id) return; // ← guard: chờ id có giá trị mới fetch
-    
     fetch(`/exam_db.json?v=${new Date().getTime()}`)
-      .then((res) => {
-        if (!res.ok) throw new Error(`Không tìm thấy file: HTTP ${res.status}`);
-        return res.json();
-      })
-      .then((data) => {
-        const foundExam = data.exams.find((e: any) => e.id === id);
-        if (foundExam) {
-          setExam(foundExam);
-        } else {
-          console.warn("Không tìm thấy exam id:", id, "| Các id hiện có:", data.exams.map((e:any) => e.id));
-          setError(`Không tìm thấy đề thi với id: "${id}"`);
-        }
-      })
-      .catch((err) => {
-        console.error("Lỗi:", err);
-        setError(err.message);
-      });
-  }, [id]); // ← bỏ router ra khỏi dependency
+      .then((res) => res.json())
+      .then((data) => setData(data));
+  }, []);
 
-  // Màn hình lỗi (thay vì treo mãi)
-  if (error) return (
-    <div className="flex h-screen flex-col items-center justify-center gap-4 text-center px-6">
-      <p className="text-red-500 font-medium">{error}</p>
-      <Link href="/" className="text-indigo-600 text-sm underline">← Quay về trang chủ</Link>
-    </div>
-  );
+  const chapterExams = data.exams.filter((exam: any) => exam.type === "chapter");
+  const finalExams = data.exams.filter((exam: any) => exam.type === "final");
 
-  if (!exam) return (
-    <div className="flex h-screen items-center justify-center text-gray-500 font-medium">
-      Đang tải dữ liệu đề thi...
-    </div>
-  );
-
-  const currentQuestion = exam.questions[currentQIndex];
-
-  const handleSelectOption = (optionIndex: number) => {
-    if (isSubmitted) return;
-    setSelectedAnswers({ ...selectedAnswers, [currentQIndex]: optionIndex });
-  };
-
-  const handleSubmit = () => {
-    if (window.confirm("Bạn có chắc chắn muốn nộp bài không?")) {
-      let correctCount = 0;
-      exam.questions.forEach((q: any, index: number) => {
-        if (selectedAnswers[index] === q.correctIndex) correctCount++;
-      });
-      setScore(correctCount);
-      setIsSubmitted(true);
-      setCurrentQIndex(0);
-    }
+  const switchTab = (tab: string) => {
+    setActiveTab(tab);
+    setSelectedTheory(null);
+    setIsMobileMenuOpen(false); 
   };
 
   return (
-    <div className="flex flex-col h-screen bg-[#f8f9fa] text-gray-800 font-sans">
+    <div className="flex h-screen bg-[#f8f9fa] text-gray-800 font-sans overflow-hidden">
       
-      <header className="bg-white border-b border-gray-200 px-6 py-4 flex items-center justify-between sticky top-0 z-50 shadow-sm">
-        <div className="flex items-center gap-4">
-          <Link href="/">
-            <button className="w-10 h-10 flex items-center justify-center rounded-full bg-gray-100 text-gray-600 hover:bg-gray-200 transition">
-              <svg className="w-5 h-5" fill="none" stroke="currentColor" strokeWidth={2} viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" d="M10 19l-7-7m0 0l7-7m-7 7h18" /></svg>
-            </button>
-          </Link>
+      {/* SIDEBAR */}
+      <aside className={`w-64 bg-white border-r border-gray-100 z-50 flex-col h-full transition-transform duration-300 fixed md:relative ${isMobileMenuOpen ? "translate-x-0 flex" : "-translate-x-full md:translate-x-0 md:flex"}`}>
+        <div className="absolute top-2 right-2 md:hidden">
+          <button onClick={() => setIsMobileMenuOpen(false)} className="p-2 text-gray-500">
+            <svg className="w-6 h-6" fill="none" stroke="currentColor" strokeWidth={2} viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" /></svg>
+          </button>
+        </div>
+        
+        {/* Logo */}
+        <div className="p-6 flex items-center gap-3">
+          <div className="w-10 h-10 bg-indigo-600 rounded-xl flex items-center justify-center text-white shadow-sm">
+             <svg className="w-6 h-6" fill="none" stroke="currentColor" strokeWidth={2} viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" /></svg>
+          </div>
           <div>
-            <h1 className="font-bold text-gray-900 text-sm md:text-base">{exam.title}</h1>
-            <p className="text-xs text-gray-500 uppercase tracking-wider">{exam.chapter}</p>
+            <h1 className="font-bold text-gray-900 text-[15px] tracking-tight">Tâm Lý Học GD</h1>
+            <p className="text-[11px] text-gray-500 uppercase tracking-wider">Hệ thống ôn tập</p>
           </div>
         </div>
-        <div>
-          {!isSubmitted ? (
-            <button onClick={handleSubmit} className="px-6 py-2.5 bg-indigo-600 hover:bg-indigo-700 text-white text-sm font-bold rounded-lg shadow-sm transition-colors">
-              Nộp bài ngay
-            </button>
-          ) : (
-            <div className="px-5 py-2 bg-green-100 text-green-800 font-bold rounded-lg border border-green-200 flex items-center gap-2">
-              <svg className="w-5 h-5" fill="none" stroke="currentColor" strokeWidth={2} viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
-              Hoàn thành: {score}/{exam.questions.length}
-            </div>
-          )}
-        </div>
-      </header>
 
-      {!isSubmitted && (
-        <div className="w-full bg-gray-200 h-1.5">
-          <div className="bg-indigo-600 h-1.5 transition-all duration-300" style={{ width: `${(Object.keys(selectedAnswers).length / exam.questions.length) * 100}%` }}></div>
-        </div>
+        {/* Menu Navigation */}
+        <nav className="flex-1 overflow-y-auto py-2 space-y-1">
+          <p className="px-6 text-[11px] font-semibold text-gray-400 uppercase tracking-wider mb-2 mt-4">Học tập</p>
+          <button onClick={() => switchTab('theory')} className={`w-full flex items-center gap-3 px-6 py-3 text-sm transition-colors ${activeTab === 'theory' ? 'bg-indigo-50 text-indigo-700 border-l-4 border-indigo-600 font-semibold' : 'text-gray-600 hover:bg-gray-50 border-l-4 border-transparent'}`}>
+            <svg className="w-5 h-5" fill="none" stroke="currentColor" strokeWidth={2} viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z" /></svg>
+            <span>Kiến thức trọng tâm</span>
+          </button>
+          <button onClick={() => switchTab('chapter-quiz')} className={`w-full flex items-center gap-3 px-6 py-3 text-sm transition-colors ${activeTab === 'chapter-quiz' ? 'bg-indigo-50 text-indigo-700 border-l-4 border-indigo-600 font-semibold' : 'text-gray-600 hover:bg-gray-50 border-l-4 border-transparent'}`}>
+            <svg className="w-5 h-5" fill="none" stroke="currentColor" strokeWidth={2} viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01" /></svg>
+            <span>Trắc nghiệm Chương</span>
+          </button>
+
+          <p className="px-6 text-[11px] font-semibold text-gray-400 uppercase tracking-wider mb-2 mt-6">Kiểm tra</p>
+          <button onClick={() => switchTab('final-exam')} className={`w-full flex items-center gap-3 px-6 py-3 text-sm transition-colors ${activeTab === 'final-exam' ? 'bg-indigo-50 text-indigo-700 border-l-4 border-indigo-600 font-semibold' : 'text-gray-600 hover:bg-gray-50 border-l-4 border-transparent'}`}>
+            <svg className="w-5 h-5" fill="none" stroke="currentColor" strokeWidth={2} viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" d="M12 14l9-5-9-5-9 5 9 5z" /><path strokeLinecap="round" strokeLinejoin="round" d="M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z" /><path strokeLinecap="round" strokeLinejoin="round" d="M12 14v6" /></svg>
+            <span>Thi thử Cuối kỳ</span>
+          </button>
+        </nav>
+      </aside>
+
+      {/* BACKGROUND OVERLAY FOR MOBILE */}
+      {isMobileMenuOpen && (
+        <div className="fixed inset-0 bg-black/20 z-40 md:hidden" onClick={() => setIsMobileMenuOpen(false)} />
       )}
 
-      <div className="flex-1 flex overflow-hidden">
-        
-        <div className="w-72 bg-white border-r border-gray-200 p-6 overflow-y-auto hidden md:block">
-          <h3 className="text-xs font-bold text-gray-400 uppercase tracking-wider mb-4">
-            {isSubmitted ? "Bảng kết quả" : "Danh sách câu hỏi"}
-          </h3>
-          <div className="grid grid-cols-4 gap-2">
-            {exam.questions.map((_: any, idx: number) => {
-              const isAnswered = selectedAnswers[idx] !== undefined;
-              let btnClass = "w-10 h-10 rounded-lg text-sm font-medium flex items-center justify-center border transition-colors ";
-              if (!isSubmitted) {
-                if (idx === currentQIndex) btnClass += "bg-indigo-50 border-indigo-600 text-indigo-700 font-bold";
-                else if (isAnswered) btnClass += "bg-gray-100 border-gray-300 text-gray-700";
-                else btnClass += "bg-white border-gray-200 text-gray-500 hover:bg-gray-50";
-              } else {
-                const isCorrect = selectedAnswers[idx] === exam.questions[idx].correctIndex;
-                const isUnanswered = selectedAnswers[idx] === undefined;
-                if (idx === currentQIndex) btnClass += "ring-2 ring-offset-2 ring-indigo-500 ";
-                if (isUnanswered) btnClass += "bg-gray-100 border-gray-300 text-gray-400";
-                else if (isCorrect) btnClass += "bg-green-100 border-green-500 text-green-700 font-bold";
-                else btnClass += "bg-red-100 border-red-500 text-red-700 font-bold";
-              }
-              return (
-                <button key={idx} onClick={() => setCurrentQIndex(idx)} className={btnClass}>
-                  {idx + 1}
-                </button>
-              );
-            })}
-          </div>
-        </div>
+      {/* MAIN CONTENT */}
+      <div className="flex-1 flex flex-col h-full relative">
+        <header className="bg-white/80 backdrop-blur-md border-b border-gray-100 h-16 flex items-center px-6 md:px-8 z-10 sticky top-0">
+          <button onClick={() => setIsMobileMenuOpen(true)} className="md:hidden text-gray-600 p-2 -ml-2 mr-2">
+            <svg className="w-6 h-6" fill="none" stroke="currentColor" strokeWidth={2} viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" d="M4 6h16M4 12h16M4 18h16" /></svg>
+          </button>
+          <h2 className="font-medium text-gray-800 text-sm">
+            {activeTab === 'theory' && (selectedTheory ? 'Chi tiết Lý thuyết' : 'Tổng quan kiến thức')}
+            {activeTab === 'chapter-quiz' && 'Luyện tập theo chương'}
+            {activeTab === 'final-exam' && 'Đề thi cuối học phần'}
+          </h2>
+        </header>
 
-        <div className="flex-1 overflow-y-auto p-6 md:p-10">
-          <div className="max-w-3xl mx-auto">
+        <main className="flex-1 overflow-y-auto p-6 md:p-10">
+          <div className="max-w-5xl mx-auto">
             
-            <div className="mb-6 flex items-center justify-between">
-              <span className="text-sm font-bold text-indigo-600 bg-indigo-50 px-3 py-1 rounded-full uppercase tracking-wider">
-                Câu hỏi {currentQIndex + 1} / {exam.questions.length}
-              </span>
-              {isSubmitted && selectedAnswers[currentQIndex] === undefined && (
-                <span className="text-sm font-medium text-red-500">Chưa trả lời</span>
-              )}
-            </div>
-
-            <div className="bg-white p-8 rounded-2xl shadow-sm border border-gray-100 mb-8">
-              <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-8 leading-relaxed">
-                {currentQuestion.text}
-              </h2>
-
-              <div className="space-y-3">
-                {currentQuestion.options.map((opt: string, optIdx: number) => {
-                  const isSelected = selectedAnswers[currentQIndex] === optIdx;
-                  let optionClass = "w-full text-left p-4 rounded-xl border-2 transition-all flex items-start gap-3 ";
-                  let icon = <div className="w-5 h-5 rounded-full border-2 border-gray-300 shrink-0 mt-0.5" />;
-                  
-                  if (!isSubmitted) {
-                    if (isSelected) {
-                      optionClass += "border-indigo-600 bg-indigo-50 text-indigo-900 font-medium shadow-sm";
-                      icon = <div className="w-5 h-5 rounded-full border-4 border-indigo-600 shrink-0 mt-0.5 bg-white" />;
-                    } else {
-                      optionClass += "border-gray-100 bg-white text-gray-600 hover:border-gray-300 hover:bg-gray-50";
-                    }
-                  } else {
-                    const isCorrectOption = optIdx === currentQuestion.correctIndex;
-                    if (isCorrectOption) {
-                      optionClass += "border-green-500 bg-green-50 text-green-900 font-bold";
-                      icon = <svg className="w-6 h-6 text-green-600 shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" /></svg>;
-                    } else if (isSelected && !isCorrectOption) {
-                      optionClass += "border-red-400 bg-red-50 text-red-800 font-medium";
-                      icon = <svg className="w-6 h-6 text-red-500 shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM8.707 7.293a1 1 0 00-1.414 1.414L8.586 10l-1.293 1.293a1 1 0 101.414 1.414L10 11.414l1.293 1.293a1 1 0 001.414-1.414L11.414 10l1.293-1.293a1 1 0 00-1.414-1.414L10 8.586 8.707 7.293z" clipRule="evenodd" /></svg>;
-                    } else {
-                      optionClass += "border-gray-100 bg-gray-50 text-gray-400 opacity-60";
-                    }
-                  }
-
-                  return (
-                    <button key={optIdx} onClick={() => handleSelectOption(optIdx)} disabled={isSubmitted} className={optionClass}>
-                      {icon}
-                      <span className="leading-relaxed">{opt}</span>
-                    </button>
-                  );
-                })}
-              </div>
-
-              {/* EXPLAIN: chỉ hiện khi đã nộp bài VÀ câu đó có explain */}
-              {isSubmitted && currentQuestion.explain && (
-                <div className="mt-8 bg-blue-50 border-l-4 border-blue-500 p-5 rounded-r-xl">
-                  <div className="flex items-center gap-2 mb-2">
-                    <svg className="w-5 h-5 text-blue-600 shrink-0" fill="none" stroke="currentColor" strokeWidth={2} viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z" />
-                    </svg>
-                    <h4 className="font-bold text-blue-800 text-sm uppercase tracking-wider">Giải thích</h4>
+            {/* --- TAB LÝ THUYẾT --- */}
+            {activeTab === "theory" && !selectedTheory && (
+              <div className="animate-fade-in">
+                <div className="bg-[#c83021] rounded-2xl p-8 md:p-10 text-white shadow-sm mb-10 relative overflow-hidden">
+                  <div className="absolute right-10 top-1/2 transform -translate-y-1/2 opacity-10">
+                    <svg className="w-40 h-40" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2L1 12h3v9h6v-6h4v6h6v-9h3L12 2z"/></svg>
                   </div>
-                  <p className="text-sm text-blue-900 leading-relaxed ml-7">{currentQuestion.explain}</p>
+                  <h2 className="text-3xl font-bold mb-3 relative z-10">Xin chào!</h2>
+                  <p className="text-white/90 max-w-xl text-sm leading-relaxed relative z-10">
+                    Học phần Tâm Lý Học Giáo Dục gồm 5 chương lý thuyết cốt lõi. Hãy nắm chắc các nguyên lý để vận dụng tốt vào đề thi và thực tiễn sư phạm nhé.
+                  </p>
                 </div>
-              )}
 
-              {/* Thông báo khi câu không có explain */}
-              {isSubmitted && !currentQuestion.explain && (
-                <div className="mt-8 bg-gray-50 border border-gray-200 p-4 rounded-xl text-center">
-                  <p className="text-sm text-gray-400">Câu này chưa có giải thích chi tiết.</p>
+                <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+                  {data.theories.map((th: any, index: number) => (
+                    <div key={th.id} className="bg-white p-6 rounded-2xl shadow-[0_2px_10px_-3px_rgba(6,81,237,0.05)] border border-gray-100 hover:shadow-md transition flex flex-col h-full">
+                      <div className="w-10 h-10 bg-indigo-50 text-indigo-600 rounded-full flex items-center justify-center mb-5">
+                        <span className="font-bold">{index + 1}</span>
+                      </div>
+                      <h3 className="font-bold text-base text-gray-900 mb-2">{th.chapter}</h3>
+                      <p className="text-gray-500 text-sm mb-6 flex-1 line-clamp-2">
+                        Nhấn vào chi tiết để xem đầy đủ nội dung lý thuyết trọng tâm.
+                      </p>
+                      <button onClick={() => setSelectedTheory(th)} className="text-indigo-600 font-medium text-sm hover:text-indigo-800 flex items-center w-fit transition-colors">
+                        Chi tiết <span className="ml-1.5 font-bold">→</span>
+                      </button>
+                    </div>
+                  ))}
                 </div>
-              )}
-            </div>
+              </div>
+            )}
 
-            <div className="flex items-center justify-between pb-10">
-              <button onClick={() => setCurrentQIndex(Math.max(0, currentQIndex - 1))} disabled={currentQIndex === 0}
-                className={`px-6 py-3 rounded-xl text-sm font-bold flex items-center gap-2 transition ${currentQIndex === 0 ? 'bg-gray-100 text-gray-400 cursor-not-allowed' : 'bg-white text-gray-700 hover:bg-gray-50 border border-gray-200 shadow-sm'}`}>
-                <svg className="w-4 h-4" fill="none" stroke="currentColor" strokeWidth={2} viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" d="M15 19l-7-7 7-7" /></svg>
-                Câu trước
-              </button>
-              <button onClick={() => setCurrentQIndex(Math.min(exam.questions.length - 1, currentQIndex + 1))} disabled={currentQIndex === exam.questions.length - 1}
-                className={`px-6 py-3 rounded-xl text-sm font-bold flex items-center gap-2 transition ${currentQIndex === exam.questions.length - 1 ? 'bg-gray-100 text-gray-400 cursor-not-allowed' : 'bg-indigo-600 text-white hover:bg-indigo-700 shadow-sm'}`}>
-                Câu tiếp
-                <svg className="w-4 h-4" fill="none" stroke="currentColor" strokeWidth={2} viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" d="M9 5l7 7-7 7" /></svg>
-              </button>
-            </div>
+            {/* --- CHI TIẾT LÝ THUYẾT (CẬP NHẬT GIAO DIỆN MỚI) --- */}
+            {activeTab === "theory" && selectedTheory && (
+              <div className="animate-fade-in">
+                <button onClick={() => setSelectedTheory(null)} className="mb-6 text-gray-500 hover:text-indigo-600 text-sm font-medium flex items-center transition">
+                  <svg className="w-4 h-4 mr-1.5" fill="none" stroke="currentColor" strokeWidth={2} viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" d="M10 19l-7-7m0 0l7-7m-7 7h18" /></svg>
+                  Quay lại danh sách
+                </button>
+                <div className="bg-white p-8 md:p-10 rounded-2xl shadow-sm border border-gray-100">
+                  <h2 className="text-2xl md:text-3xl font-extrabold text-gray-900 mb-10 border-b border-gray-100 pb-6 uppercase">
+                    {selectedTheory.chapter}
+                  </h2>
+                  <div className="space-y-12">
+                    {selectedTheory.sections && selectedTheory.sections.map((sec: any, idx: number) => (
+                      <section key={idx} className="mb-8">
+                        {/* Style thẻ tiêu đề giống hệt hình */}
+                        <h3 className="flex items-center text-xl font-bold text-red-700 mb-5">
+                          <span className="bg-red-100 text-red-700 w-8 h-8 rounded-full flex items-center justify-center mr-3 text-sm shrink-0">
+                            {idx + 1}
+                          </span>
+                          {sec.title}
+                        </h3>
+                        {/* Render trực tiếp HTML */}
+                        <div 
+                          className="text-gray-700 leading-relaxed" 
+                          dangerouslySetInnerHTML={{ __html: sec.content }} 
+                        />
+                      </section>
+                    ))}
+                  </div>
+                </div>
+              </div>
+            )}
+
+            {/* --- TAB TRẮC NGHIỆM THEO CHƯƠNG --- */}
+            {activeTab === "chapter-quiz" && (
+              <div className="animate-fade-in">
+                <div className="mb-8">
+                  <h3 className="text-2xl font-bold text-gray-900 mb-2">Trắc nghiệm theo chương</h3>
+                  <p className="text-gray-500 text-sm">Hệ thống câu hỏi giúp củng cố kiến thức từng phần.</p>
+                </div>
+                <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+                  {chapterExams.map((exam: any) => (
+                    <div key={exam.id} className="bg-white p-6 rounded-2xl shadow-[0_2px_10px_-3px_rgba(6,81,237,0.05)] border border-gray-100 flex flex-col h-full">
+                      <span className="text-[10px] font-bold text-indigo-600 bg-indigo-50 px-2.5 py-1 rounded-sm uppercase tracking-wide w-fit">{exam.chapter}</span>
+                      <h3 className="font-bold text-base text-gray-900 mt-4 mb-2">{exam.title}</h3>
+                      <p className="text-gray-500 text-sm mb-6 flex-1">Thời gian: {exam.time / 60} phút • {exam.questions.length} câu</p>
+                      <Link href={`/exam/${exam.id}`} className="mt-auto">
+                        <button className="w-full bg-gray-50 hover:bg-gray-100 text-gray-700 font-semibold py-2.5 px-4 rounded-lg transition-colors text-sm flex items-center justify-center gap-1.5 border border-gray-200">
+                          Ôn tập ngay <span>→</span>
+                        </button>
+                      </Link>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {/* --- TAB THI THỬ CUỐI KỲ --- */}
+            {activeTab === "final-exam" && (
+              <div className="animate-fade-in flex flex-col items-center justify-center min-h-[60vh]">
+                <div className="text-center mb-8">
+                  <h2 className="text-2xl font-bold text-gray-900 mb-2">ĐỀ THI KẾT THÚC HỌC PHẦN</h2>
+                  <p className="text-gray-500 text-sm">Môn: Tâm Lý Học Giáo Dục</p>
+                </div>
+                <div className="w-full max-w-2xl bg-white rounded-2xl shadow-sm border border-gray-100 overflow-hidden mb-8">
+                  <table className="w-full text-sm text-left text-gray-600">
+                    <thead className="text-xs text-gray-500 uppercase bg-gray-50 border-b border-gray-100">
+                      <tr>
+                        <th className="px-6 py-4 font-medium">Nội dung</th>
+                        <th className="px-6 py-4 font-medium text-center">Số câu</th>
+                        <th className="px-6 py-4 font-medium text-center">Thời gian</th>
+                      </tr>
+                    </thead>
+                    <tbody className="divide-y divide-gray-100">
+                      {finalExams.map((exam: any) => (
+                        <tr key={exam.id} className="hover:bg-gray-50">
+                          <td className="px-6 py-4">{exam.title}</td>
+                          <td className="px-6 py-4 text-center font-bold text-gray-900">{exam.questions.length} Câu</td>
+                          <td className="px-6 py-4 text-center font-bold text-gray-900">{exam.time / 60} Phút</td>
+                          <td className="px-6 py-4 text-right">
+                            <Link href={`/exam/${exam.id}`}>
+                              <button className="bg-[#c83021] hover:bg-red-700 text-white text-xs font-semibold py-2 px-4 rounded transition-colors shadow-sm">
+                                Bắt đầu thi
+                              </button>
+                            </Link>
+                          </td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            )}
 
           </div>
-        </div>
+        </main>
       </div>
     </div>
   );
