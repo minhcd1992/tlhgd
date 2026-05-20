@@ -118,7 +118,7 @@ export default function Home() {
               </div>
             )}
 
-            {/* --- CHI TIẾT LÝ THUYẾT (CẬP NHẬT GIAO DIỆN MỚI) --- */}
+            {/* --- CHI TIẾT LÝ THUYẾT --- */}
             {activeTab === "theory" && selectedTheory && (
               <div className="animate-fade-in">
                 <button onClick={() => setSelectedTheory(null)} className="mb-6 text-gray-500 hover:text-indigo-600 text-sm font-medium flex items-center transition">
@@ -132,14 +132,12 @@ export default function Home() {
                   <div className="space-y-12">
                     {selectedTheory.sections && selectedTheory.sections.map((sec: any, idx: number) => (
                       <section key={idx} className="mb-8">
-                        {/* Style thẻ tiêu đề giống hệt hình */}
                         <h3 className="flex items-center text-xl font-bold text-red-700 mb-5">
                           <span className="bg-red-100 text-red-700 w-8 h-8 rounded-full flex items-center justify-center mr-3 text-sm shrink-0">
                             {idx + 1}
                           </span>
                           {sec.title}
                         </h3>
-                        {/* Render trực tiếp HTML */}
                         <div 
                           className="text-gray-700 leading-relaxed" 
                           dangerouslySetInnerHTML={{ __html: sec.content }} 
@@ -189,15 +187,17 @@ export default function Home() {
                         <th className="px-6 py-4 font-medium">Nội dung</th>
                         <th className="px-6 py-4 font-medium text-center">Số câu</th>
                         <th className="px-6 py-4 font-medium text-center">Thời gian</th>
+                        <th className="px-6 py-4 font-medium text-center">Thao tác</th>
                       </tr>
                     </thead>
                     <tbody className="divide-y divide-gray-100">
+                      {/* HIỂN THỊ CÁC ĐỀ CỐ ĐỊNH TRONG JSON (NẾU CÓ) */}
                       {finalExams.map((exam: any) => (
                         <tr key={exam.id} className="hover:bg-gray-50">
                           <td className="px-6 py-4">{exam.title}</td>
                           <td className="px-6 py-4 text-center font-bold text-gray-900">{exam.questions.length} Câu</td>
                           <td className="px-6 py-4 text-center font-bold text-gray-900">{exam.time / 60} Phút</td>
-                          <td className="px-6 py-4 text-right">
+                          <td className="px-6 py-4 text-center">
                             <Link href={`/exam/${exam.id}`}>
                               <button className="bg-[#c83021] hover:bg-red-700 text-white text-xs font-semibold py-2 px-4 rounded transition-colors shadow-sm">
                                 Bắt đầu thi
@@ -206,6 +206,24 @@ export default function Home() {
                           </td>
                         </tr>
                       ))}
+                      
+                      {/* DÒNG TẠO ĐỀ THI NGẪU NHIÊN 40 CÂU */}
+                      <tr className="hover:bg-indigo-50/50 bg-indigo-50/20 transition-colors">
+                        <td className="px-6 py-4">
+                          <span className="font-bold text-indigo-700 block">Đề Thi Thử Ngẫu Nhiên</span>
+                          <span className="text-xs text-indigo-500">Hệ thống trộn câu hỏi từ tất cả các chương</span>
+                        </td>
+                        <td className="px-6 py-4 text-center font-bold text-gray-900">40 Câu</td>
+                        <td className="px-6 py-4 text-center font-bold text-gray-900">60 Phút</td>
+                        <td className="px-6 py-4 text-center">
+                          {/* Đường link trỏ tới ID đặc biệt là 'random' */}
+                          <Link href={`/exam/random`}>
+                            <button className="bg-indigo-600 hover:bg-indigo-700 text-white text-xs font-semibold py-2 px-4 rounded transition-colors shadow-sm">
+                              Tạo đề & Thi ngay
+                            </button>
+                          </Link>
+                        </td>
+                      </tr>
                     </tbody>
                   </table>
                 </div>
