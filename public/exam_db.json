@@ -1563,6 +1563,1215 @@
       ]
     },
     {
+      "id": "exam-ch3",
+      "type": "chapter",
+      "chapter": "Chương 3",
+      "title": "Ôn tập: Cơ sở tâm lý của hoạt động dạy học",
+      "time": 900,
+      "questions": [
+        {
+          "id": 1,
+          "text": "Mô hình dạy học nào dưới đây là mô hình dạy học cổ điển nhất, được xây dựng dựa trên nền tảng của thuyết liên tưởng?",
+          "options": [
+            "Mô hình học tập nhận thức xã hội.",
+            "Mô hình dạy học tạo tác.",
+            "Mô hình dạy học thông báo.",
+            "Mô hình học tập khám phá."
+          ],
+          "correctIndex": 2,
+          "explain": "Mô hình dạy học thông báo là mô hình dạy học cổ điển nhất, được xây dựng dựa trên nền tảng của thuyết liên tưởng. Trong đó, giáo viên cung cấp tri thức có sẵn, còn người học sử dụng các giác quan và trí nhớ để thu nhận, liên kết và khôi phục hình ảnh."
+        },
+        {
+          "id": 2,
+          "text": "Trong Tâm lý học giáo dục, phương pháp học tập \"thử và sai\" thuộc mô hình dạy học nào?",
+          "options": [
+            "Mô hình học tập nhận thức xã hội.",
+            "Mô hình dạy học điều kiện hoá cổ điển.",
+            "Mô hình dạy học tạo tác.",
+            "Mô hình học tập khám phá."
+          ],
+          "correctIndex": 2,
+          "explain": "Phương pháp thử và sai thuộc mô hình dạy học tạo tác của B.F. Skinner. Trong mô hình này, những phản ứng sai sẽ bị loại bỏ, những phản ứng đúng sau những lần cố gắng (thử - sai) sẽ được củng cố và tăng cường."
+        },
+        {
+          "id": 3,
+          "text": "Quan điểm cho rằng: \"Trẻ em không làm những điều mà người lớn nói nhưng lại làm cái mà chúng thấy người lớn làm\" đề cập đến thuyết học tập nào?",
+          "options": [
+            "Thuyết học tập nhận thức xã hội của A. Bandura.",
+            "Lý thuyết kiến tạo nhận thức của J. Piaget.",
+            "Học thuyết lịch sử - văn hóa của L.S. Vygotsky.",
+            "Thuyết hành vi tạo tác của B.F. Skinner."
+          ],
+          "correctIndex": 0,
+          "explain": "Thuyết học tập nhận thức xã hội của A. Bandura nhấn mạnh rằng hành vi có thể được hình thành dựa trên việc quan sát và bắt chước hành vi của người khác (người làm mẫu) chứ không chỉ qua huấn luyện trực tiếp bằng lời nói."
+        },
+        {
+          "id": 4,
+          "text": "Dựa trên lý thuyết kiến tạo nhận thức của J. Piaget, nhà tâm lý học J. Bruner đã đề xuất mô hình dạy học nào?",
+          "options": [
+            "Mô hình dạy học chương trình hóa.",
+            "Mô hình dạy học điều khiển hành vi.",
+            "Mô hình dạy học hành động học tập khám phá.",
+            "Mô hình dạy học thông báo."
+          ],
+          "correctIndex": 2,
+          "explain": "Dựa trên lý thuyết kiến tạo nhận thức của J. Piaget, J. Bruner đã xây dựng mô hình dạy học dựa vào hành động học tập khám phá, yêu cầu người học tự giác hành động tìm tòi, khám phá đối tượng học tập."
+        },
+        {
+          "id": 5,
+          "text": "Thuyết học tập \"Vùng phát triển gần nhất\" của L.S. Vygotsky đề cập đến mức độ phát triển nào của người học?",
+          "options": [
+            "Mức độ mà học sinh có thể tự mình giải quyết vấn đề bằng vốn tri thức hiện có.",
+            "Mức độ mà học sinh cần có sự tổ chức, hướng dẫn và giúp đỡ của người lớn thì mới giải quyết được vấn đề.",
+            "Mức độ mà học sinh hoàn toàn không thể tiếp thu dù có sự hướng dẫn.",
+            "Mức độ học sinh học tập ngẫu nhiên trong đời sống hàng ngày."
+          ],
+          "correctIndex": 1,
+          "explain": "Vùng phát triển gần nhất (ZPD) là mức độ mà ở đó học sinh chưa thể tự giải quyết vấn đề, nhưng dưới sự hướng dẫn của người lớn (người dạy), các em có thể tiếp thu và đạt tới một trình độ phát triển cao hơn."
+        },
+        {
+          "id": 6,
+          "text": "Đâu là khái niệm ĐÚNG NHẤT về \"Hoạt động dạy\" theo phương thức nhà trường?",
+          "options": [
+            "Là hoạt động truyền đạt tri thức một chiều từ giáo viên sang học sinh.",
+            "Là hoạt động giao tiếp thông thường giữa người lớn và trẻ em trong gia đình.",
+            "Là hoạt động của giáo viên tổ chức và điều khiển hoạt động của người học nhằm giúp họ lĩnh hội nền văn hóa xã hội, tạo ra sự phát triển tâm lý, hình thành nhân cách.",
+            "Là hoạt động chỉ diễn ra thông qua việc hướng dẫn học sinh đọc sách giáo khoa."
+          ],
+          "correctIndex": 2,
+          "explain": "Hoạt động dạy mang tính chuyên nghiệp, là hoạt động của giáo viên tổ chức và điều khiển hoạt động của người học nhằm giúp họ lĩnh hội nền văn hóa xã hội, tạo ra sự phát triển tâm lý và hình thành nhân cách."
+        },
+        {
+          "id": 7,
+          "text": "Phân tích mục đích của hoạt động dạy theo phương thức nhà trường, nhận định nào dưới đây là chính xác?",
+          "options": [
+            "Mục đích cuối cùng của hoạt động dạy là truyền đạt kinh nghiệm cho người dạy.",
+            "Mục đích cuối cùng của hoạt động dạy là hướng đến sự phát triển của người học.",
+            "Mục đích cuối cùng của hoạt động dạy là giúp giáo viên sáng tạo ra tri thức mới.",
+            "Mục đích cuối cùng của hoạt động dạy là hoàn thành chương trình môn học có tính pháp quy."
+          ],
+          "correctIndex": 1,
+          "explain": "Ở bậc trung học, nhiệm vụ của giáo viên không phải là sáng tạo tri thức mới. Mục đích cuối cùng của hoạt động dạy là hướng tới sự phát triển toàn diện của người học thông qua việc tổ chức tái tạo các tri thức đã được chọn lọc."
+        },
+        {
+          "id": 8,
+          "text": "Khác với học tập ngẫu nhiên trong đời sống hàng ngày, hoạt động học (theo phương thức nhà trường) mang tính chất gì?",
+          "options": [
+            "Người học không cần ý thức rõ về mục đích học tập.",
+            "Được điều khiển bởi mục đích tự giác là lĩnh hội tri thức, kỹ năng, kỹ xảo một cách khoa học, có hệ thống.",
+            "Lĩnh hội những kinh nghiệm rời rạc, ngẫu nhiên từ môi trường sống.",
+            "Không cần sự hỗ trợ của các phương pháp giảng dạy."
+          ],
+          "correctIndex": 1,
+          "explain": "Hoạt động học là hoạt động đặc thù, được định hướng, tổ chức và điều khiển bởi mục đích tự giác nhằm lĩnh hội các tri thức khoa học đã được hệ thống hóa, khái quát hóa chứ không phải kinh nghiệm rời rạc, ngẫu nhiên."
+        },
+        {
+          "id": 9,
+          "text": "Đối tượng của hoạt động học là gì?",
+          "options": [
+            "Các tài liệu học tập và phương pháp giảng dạy của giáo viên.",
+            "Những kinh nghiệm sống trong gia đình.",
+            "Hệ thống các tri thức, kỹ năng, kỹ xảo tương ứng với tri thức đó mà người học cần tái tạo lại trong đầu óc mình.",
+            "Việc thay đổi hoạt động của giáo viên."
+          ],
+          "correctIndex": 2,
+          "explain": "Đối tượng của hoạt động học chính là hệ thống các tri thức, kỹ năng, kỹ xảo tương ứng tồn tại khách quan bên ngoài mà người học có nhu cầu tái tạo lại trong đầu óc của mình thông qua hoạt động."
+        },
+        {
+          "id": 10,
+          "text": "Bản chất cốt lõi nhất của hoạt động học là gì?",
+          "options": [
+            "Hoạt động học hướng vào làm thay đổi, phát triển chính chủ thể học (người học).",
+            "Hoạt động học hướng vào làm thay đổi đối tượng học (thay đổi kho tàng tri thức nhân loại).",
+            "Hoạt động học hướng vào việc tạo ra các sản phẩm vật chất cho xã hội.",
+            "Hoạt động học hướng vào làm thay đổi phương pháp dạy của giáo viên."
+          ],
+          "correctIndex": 0,
+          "explain": "Trong các hoạt động khác (như lao động), con người làm biến đổi đối tượng. Nhưng trong hoạt động học, mục đích không phải làm thay đổi tri thức nhân loại mà hướng vào làm thay đổi, phát triển chính bản thân chủ thể học (người học thu nhận tri thức, hình thành năng lực)."
+        },
+        {
+          "id": 11,
+          "text": "Dựa trên sơ đồ cấu trúc của hoạt động học tập, thành tố \"Hành động học tập\" (ở tuyến chủ thể) gắn liền tương ứng với thành tố nào ở tuyến đối tượng?",
+          "options": [
+            "Động cơ học tập.",
+            "Mục đích học tập.",
+            "Phương tiện học tập.",
+            "Kết quả học tập."
+          ],
+          "correctIndex": 1,
+          "explain": "Theo sơ đồ cấu trúc hoạt động học tập của A.N. Leontiev, Hoạt động học tập được thúc đẩy bởi Động cơ học tập; Hành động học tập gắn liền với Mục đích học tập; và Thao tác học tập phụ thuộc vào Phương tiện học tập."
+        },
+        {
+          "id": 12,
+          "text": "Theo các nhà tâm lý học, động cơ học tập thường được chia thành 2 nhóm chính nào?",
+          "options": [
+            "Động cơ bên trong và động cơ bên ngoài.",
+            "Động cơ thực tiễn và động cơ lý luận.",
+            "Động cơ hoàn thiện tri thức và động cơ quan hệ xã hội.",
+            "Động cơ cá nhân và động cơ tập thể."
+          ],
+          "correctIndex": 2,
+          "explain": "Trong các công trình nghiên cứu liên quan đến học tập, người ta thường nhắc đến hai loại động cơ học tập chính: nhóm động cơ hoàn thiện tri thức và nhóm động cơ quan hệ xã hội."
+        },
+        {
+          "id": 13,
+          "text": "Nhóm động cơ học tập nào dưới đây được đánh giá là \"tối ưu\" theo quan điểm sư phạm và không gây ra sức ép tâm lý cho chủ thể khi học tập?",
+          "options": [
+            "Động cơ quan hệ xã hội.",
+            "Động cơ hoàn thiện tri thức.",
+            "Động cơ thi đua, thi cử.",
+            "Động cơ khẳng định vị thế cá nhân."
+          ],
+          "correctIndex": 1,
+          "explain": "Đặc điểm của động cơ hoàn thiện tri thức là không gây ra sức ép tâm lý. Nỗ lực vượt khó hoàn toàn xuất phát từ sự khát khao chiếm lĩnh tri thức, từ niềm vui được học tập. Do đó, nó được đánh giá là tối ưu theo quan điểm sư phạm và giáo viên cần ưu tiên phát huy."
+        },
+        {
+          "id": 14,
+          "text": "Việc khám phá những kiến thức khoa học là sự say mê của Trung, khi giải được một bài tập Toán hay Hóa đều làm em rất thích thú. Trung đang được kích thích bởi loại động cơ học tập nào?",
+          "options": [
+            "Động cơ học tập bên ngoài.",
+            "Động cơ quan hệ xã hội.",
+            "Động cơ hoàn thiện tri thức (động cơ bên trong).",
+            "Động cơ vì điểm số và thành tích."
+          ],
+          "correctIndex": 2,
+          "explain": "Động cơ hoàn thiện tri thức thể hiện qua sự say mê, thích thú khi hiểu bài, khao khát mở rộng hiểu biết và giải quyết các nhiệm vụ nhận thức. Nó xuất phát từ chính bản thân đối tượng học tập."
+        },
+        {
+          "id": 15,
+          "text": "Theo nhà tâm lý học V.V. Davudov, những hành động học tập nào dưới đây đóng vai trò quan trọng nhất trong việc hình thành khái niệm khoa học?",
+          "options": [
+            "Phân tích, đánh giá, tự kiểm tra.",
+            "Phân tích, mô hình hóa, cụ thể hóa.",
+            "Phân tích, tổng hợp, so sánh.",
+            "Phân tích, khái quát hóa, hệ thống hóa."
+          ],
+          "correctIndex": 1,
+          "explain": "V.V. Davudov đề nghị các hành động phân tích, mô hình hóa và cụ thể hóa là những hành động học tập quan trọng nhất để hình thành khái niệm theo nguyên lý phát triển."
+        },
+        {
+          "id": 16,
+          "text": "Hành động \"mô hình hóa\" trong hoạt động học tập có chức năng chính là gì?",
+          "options": [
+            "Giúp phát hiện nguồn gốc xuất phát của khái niệm.",
+            "Giúp người học diễn đạt logic tổng quát của khái niệm dưới hình thức trực quan.",
+            "Giúp học sinh vận dụng phương thức hành động chung vào giải quyết vấn đề cụ thể.",
+            "Giúp đánh giá lại toàn bộ quá trình lĩnh hội tri thức."
+          ],
+          "correctIndex": 1,
+          "explain": "Hành động mô hình hóa giúp con người diễn đạt logic khái niệm một cách trực quan thông qua mô hình vật thật, mô hình tượng trưng hoặc mô hình mã hóa."
+        },
+        {
+          "id": 17,
+          "text": "Trong quá trình dạy học môn Toán, việc sử dụng \"sơ đồ đoạn thẳng\" hoặc \"công thức, ký hiệu\" để mô tả các mối quan hệ cho thấy khái niệm đang tồn tại dưới hình thức nào?",
+          "options": [
+            "Hình thức vật chất.",
+            "Hình thức mã hóa.",
+            "Hình thức tinh thần.",
+            "Hình thức tâm lý cá thể."
+          ],
+          "correctIndex": 1,
+          "explain": "Khái niệm tồn tại ở ba hình thức: vật chất, mã hóa và tinh thần. Sơ đồ, mô hình, ký hiệu, công thức... chính là hình thức mã hóa của khái niệm."
+        },
+        {
+          "id": 18,
+          "text": "Theo quy trình chung, bước ĐẦU TIÊN để tổ chức quá trình hình thành khái niệm khoa học cho học sinh là gì?",
+          "options": [
+            "Tổ chức cho học sinh hành động để phát hiện dấu hiệu bản chất.",
+            "Dẫn dắt học sinh vạch ra những nét bản chất của khái niệm.",
+            "Làm nảy sinh nhu cầu nhận thức ở học sinh (tạo tình huống có vấn đề).",
+            "Luyện tập vận dụng khái niệm vào thực tiễn."
+          ],
+          "correctIndex": 2,
+          "explain": "Bước đầu tiên là làm nảy sinh nhu cầu nhận thức ở học sinh bằng cách đặt các em vào \"tình huống có vấn đề\", kích thích óc tò mò và sự ham thích khám phá cái mới."
+        },
+        {
+          "id": 19,
+          "text": "Trong các bước hình thành khái niệm, bước nào đóng vai trò quan trọng giúp học sinh xác định rõ ràng nội hàm của khái niệm (tính chính xác trong lĩnh hội phụ thuộc vào bước này)?",
+          "options": [
+            "Bước 1: Làm nảy sinh nhu cầu nhận thức.",
+            "Bước 2: Tổ chức hành động qua đó phát hiện các dấu hiệu.",
+            "Bước 3: Dẫn dắt học sinh vạch ra những nét bản chất và làm chúng ý thức được những dấu hiệu bản chất đó.",
+            "Bước 5: Hệ thống hóa khái niệm."
+          ],
+          "correctIndex": 2,
+          "explain": "Ở bước 3, giáo viên dẫn dắt học sinh vạch ra những nét bản chất của khái niệm và làm chúng ý thức được các dấu hiệu bản chất đó. Tính chính xác trong lĩnh hội khái niệm phụ thuộc vào bước này."
+        },
+        {
+          "id": 20,
+          "text": "Khái niệm nào được định nghĩa là \"Hành động đã được củng cố và tự động hóa\", có tính chất tiết kiệm (không có động tác thừa), điêu luyện và giảm sự kiểm soát của ý thức?",
+          "options": [
+            "Tri thức.",
+            "Khái niệm.",
+            "Kỹ năng.",
+            "Kỹ xảo."
+          ],
+          "correctIndex": 3,
+          "explain": "Kỹ xảo là hành động đã được củng cố và tự động hóa. Khi đạt đến mức độ tự động hóa, hành động trở nên bao quát, tiết kiệm (không có động tác thừa), điêu luyện (giảm kiểm soát của ý thức) và có tốc độ nhanh."
+        },
+        {
+          "id": 21,
+          "text": "Khái niệm \"Tính tích cực nhận thức\" được hiểu là gì?",
+          "options": [
+            "Là sự nỗ lực ghi nhớ tất cả những tri thức mà giáo viên truyền đạt.",
+            "Là thái độ cải tạo của chủ thể đối với khách thể, thông qua việc huy động ở mức độ cao các chức năng tâm lý nhằm giải quyết các nhiệm vụ nhận thức.",
+            "Là trạng thái học sinh luôn hăng hái giơ tay phát biểu ý kiến trong mọi giờ học.",
+            "Là khả năng tự giác làm bài tập về nhà mà không cần ai nhắc nhở."
+          ],
+          "correctIndex": 1,
+          "explain": "Theo giáo trình, tính tích cực nhận thức là thái độ cải tạo của chủ thể đối với khách thể, thông qua việc huy động ở mức độ cao các chức năng tâm lý nhằm giải quyết các nhiệm vụ nhận thức. Nó là một phẩm chất tâm lý của cá nhân trong hoạt động nhận thức."
+        },
+        {
+          "id": 22,
+          "text": "Biểu hiện nào dưới đây được xem là cốt lõi nhất, thể hiện bản chất BÊN TRONG của \"học tập tích cực\"?",
+          "options": [
+            "Có nhu cầu, hứng thú học tập và bộc lộ cảm xúc vui vẻ.",
+            "Tự giác hoàn thành bài tập về nhà đúng hạn.",
+            "Mạnh dạn và tự tin thể hiện quan điểm, chính kiến cá nhân trước lớp.",
+            "Sự tiến hành tích cực các thao tác tư duy, đặc biệt là tư duy phê phán, tư duy sáng tạo và sự nỗ lực ý chí để giải quyết vấn đề."
+          ],
+          "correctIndex": 3,
+          "explain": "Mặc dù các phương án đều là biểu hiện của học tập tích cực, nhưng cốt lõi nhất không chỉ bộc lộ qua biểu hiện bên ngoài mà phải là biểu hiện bên trong, thể hiện trong chính quá trình tư duy của chủ thể (hành động tìm tòi, tư duy phê phán, tư duy sáng tạo, nỗ lực ý chí,...)."
+        },
+        {
+          "id": 23,
+          "text": "Đặc điểm nào sau đây ĐÚNG với phương pháp \"Dạy học tích cực\"?",
+          "options": [
+            "Chú trọng diễn giảng khi dạy để học sinh tiếp thu nội dung bài học nhiều hơn.",
+            "Xem trọng và tạo điều kiện khuyến khích người học tự lực khám phá những điều chưa biết trên cơ sở những điều đã biết.",
+            "Giáo viên luôn luôn cung cấp bài mẫu cho học sinh làm theo để đảm bảo tính chính xác.",
+            "Bỏ qua đặc điểm cá nhân, vốn kinh nghiệm của học sinh để áp dụng một chuẩn mực chung."
+          ],
+          "correctIndex": 1,
+          "explain": "Dạy học tích cực hướng đến tổ chức các hoạt động và khuyến khích người học tự lực khám phá những điều chưa biết dựa trên những điều đã biết. Qua đó, tính tự chủ, sáng tạo có cơ hội bộc lộ và rèn luyện. Các phương án A, C, D là cách dạy học thụ động, truyền thống."
+        },
+        {
+          "id": 24,
+          "text": "Trong quá trình tổ chức hoạt động dạy học tích cực, nguyên tắc \"tương tác\" được thể hiện như thế nào?",
+          "options": [
+            "Tăng cường thúc đẩy các mối quan hệ tương tác đa chiều (người dạy – người học; người học – người học; môi trường – người dạy – người học...).",
+            "Chỉ tập trung vào sự tương tác một chiều từ giáo viên truyền đạt kiến thức đến học sinh.",
+            "Phân công nhiệm vụ, trách nhiệm tùy theo tính sẵn sàng của người học.",
+            "Thiết kế các tình huống có vấn đề để thúc đẩy sự phát triển nhận thức."
+          ],
+          "correctIndex": 0,
+          "explain": "Nguyên tắc tương tác trong dạy học tích cực nhấn mạnh việc tăng cường và thúc đẩy các mối quan hệ tương tác đa chiều. Phương án C là nguyên tắc tham gia hợp tác, phương án D là nguyên tắc phát triển."
+        },
+        {
+          "id": 25,
+          "text": "Mục tiêu quan trọng được ƯU TIÊN HÀNG ĐẦU khi giáo viên tiến hành quản lý lớp học là gì?",
+          "options": [
+            "Đảm bảo lớp học luôn giữ trật tự tuyệt đối trong mọi tình huống.",
+            "Hạn chế, phòng ngừa các hành vi gây rối và bạo lực học đường.",
+            "Giúp người học dành nhiều thời gian thực sự hiệu quả cho hoạt động học tập (tăng cường thời gian học tập thực sự).",
+            "Xây dựng mối quan hệ tốt đẹp giữa giáo viên và phụ huynh học sinh."
+          ],
+          "correctIndex": 2,
+          "explain": "Mục tiêu hàng đầu của việc quản lý lớp học là giúp người học dành nhiều thời gian cho hoạt động học tập (tăng cường thời gian học tập thực sự hiệu quả). Mục tiêu thứ hai mới là hạn chế, phòng ngừa các vấn đề có thể xảy ra."
+        },
+        {
+          "id": 26,
+          "text": "Theo quan điểm hiện đại (tiếp cận theo nghĩa rộng), khái niệm \"Trí tuệ\" được hiểu như thế nào?",
+          "options": [
+            "Là khả năng hoạt động lao động chân tay và học tập của cá nhân.",
+            "Đồng nhất hoàn toàn với năng lực tư duy trừu tượng.",
+            "Là chỉ số thông minh (IQ) bẩm sinh của con người và không thể thay đổi.",
+            "Là một cấu trúc động, tổ hợp các thuộc tính tâm lý giúp cá nhân hành động hợp lý, thích ứng và giải quyết hiệu quả những tình huống mới."
+          ],
+          "correctIndex": 3,
+          "explain": "Quan điểm hiện đại lý giải trí tuệ (nghĩa rộng) như là một tổ hợp thuộc tính tâm lý giúp cá nhân hành động hợp lý trong những tình huống mới, đảm bảo sự thích ứng và cải tạo hiện thực. Quan điểm đồng nhất trí tuệ với tư duy trừu tượng là tiếp cận theo nghĩa hẹp."
+        },
+        {
+          "id": 27,
+          "text": "Sự phát triển trí tuệ ở người học được biểu hiện ở sự thay đổi về khía cạnh nào?",
+          "options": [
+            "Sự tăng lên đơn thuần về số lượng tri thức khoa học mà học sinh ghi nhớ được.",
+            "Sự phát triển thể chất và não bộ của học sinh.",
+            "Sự thay đổi về cấu trúc nội dung tri thức (cái được phản ánh) và sự thay đổi về phương thức phản ánh (cách tiếp cận, thao tác tư duy).",
+            "Sự thay đổi điểm số qua các bài kiểm tra."
+          ],
+          "correctIndex": 2,
+          "explain": "Đặc trưng của phát triển trí tuệ là sự thay đổi cả về cấu trúc nội dung (cái được phản ánh) và về phương thức phản ánh (phương pháp, cách tiếp cận). Không thể nói phát triển trí tuệ chỉ đơn thuần là sự tăng lên về số lượng tri thức."
+        },
+        {
+          "id": 28,
+          "text": "Khi giải một bài toán hình học, học sinh A trình bày một lời giải rất dài dòng với nhiều bước không cần thiết; ngược lại, học sinh B có thể giải quyết nhanh chóng bằng số bước ngắn nhất, bỏ qua các thao tác rườm rà. Chỉ số phát triển trí tuệ nào ở học sinh A cần được rèn luyện thêm?",
+          "options": [
+            "Tính phê phán của trí tuệ.",
+            "Tính tiết kiệm của tư duy.",
+            "Tốc độ của sự định hướng trí tuệ (sự nhanh trí).",
+            "Tính mềm dẻo của trí tuệ."
+          ],
+          "correctIndex": 1,
+          "explain": "Tính tiết kiệm của tư duy biểu hiện ở số lần lập luận cần và đủ để đi đến kết quả. Người có chỉ số này cao thường dùng số bước đi ít hơn, tránh được sự rườm rà. Lời giải dài dòng chứng tỏ tính tiết kiệm tư duy chưa cao."
+        },
+        {
+          "id": 29,
+          "text": "Chỉ sau hai lần giải các bài tập cùng loại, học sinh đã nắm được \"cách giải tổng quát\" của loại bài tập đó. Điều này chứng tỏ sự phát triển cao của chỉ số trí tuệ nào?",
+          "options": [
+            "Tính tiết kiệm của tư duy.",
+            "Tính mềm dẻo của trí tuệ.",
+            "Tốc độ khái quát hóa.",
+            "Tính phê phán của trí tuệ."
+          ],
+          "correctIndex": 2,
+          "explain": "Tốc độ khái quát hóa (chóng hiểu, chóng biết) biểu hiện ở số lần luyện tập cần thiết để hình thành một hành động khái quát. Chỉ cần ít lần luyện tập đã rút ra được quy luật/cách giải tổng quát là biểu hiện của tốc độ khái quát hóa cao."
+        },
+        {
+          "id": 30,
+          "text": "Khả năng biến thiên cách giải quyết vấn đề cho phù hợp với sự thay đổi của điều kiện, đề cập cùng một hiện tượng theo nhiều quan điểm khác nhau là biểu hiện của phẩm chất trí tuệ nào?",
+          "options": [
+            "Tính mềm dẻo của trí tuệ.",
+            "Tốc độ định hướng trí tuệ.",
+            "Tính phê phán của trí tuệ.",
+            "Tốc độ khái quát hóa."
+          ],
+          "correctIndex": 0,
+          "explain": "Tính mềm dẻo của trí tuệ biểu hiện ở sự dễ dàng xây dựng lại hoạt động cho thích hợp với điều kiện thay đổi, kỹ năng biến thiên cách giải quyết, không bị ràng buộc bởi tâm thế sáo mòn."
+        },
+        {
+          "id": 31,
+          "text": "Theo quan điểm Tâm lý học giáo dục, nhận định nào dưới đây phản ánh ĐÚNG NHẤT mối quan hệ giữa hoạt động dạy học và sự phát triển trí tuệ?",
+          "options": [
+            "Dạy học chỉ cung cấp tri thức, không làm thay đổi hay phát triển trí tuệ.",
+            "Dạy học luôn đi sau sự phát triển trí tuệ của người học.",
+            "Dạy học và sự phát triển trí tuệ có quan hệ chặt chẽ, ảnh hưởng qua lại lẫn nhau.",
+            "Trí tuệ phát triển hoàn toàn độc lập với quá trình dạy học theo quy luật sinh học."
+          ],
+          "correctIndex": 2,
+          "explain": "Dạy học và sự phát triển trí tuệ có quan hệ chặt chẽ, ảnh hưởng qua lại lẫn nhau. Quá trình dạy học làm cho hệ thống tri thức và năng lực tư duy biến đổi về chất và lượng. Ngược lại, trí tuệ phát triển lại giúp người học tích cực, độc lập và học tập tốt hơn."
+        },
+        {
+          "id": 32,
+          "text": "Trong dạy học, muốn phát triển trí tuệ cho học sinh, giáo viên cần phải đặc biệt chú trọng điều gì?",
+          "options": [
+            "Chỉ cần cung cấp cho học sinh một khối lượng tri thức khoa học khổng lồ.",
+            "Chỉ cần rèn luyện các thao tác tư duy mà không cần bận tâm đến nội dung bài học.",
+            "Giao thật nhiều bài tập về nhà để học sinh tự làm và tự rút kinh nghiệm.",
+            "Phải chú trọng cả việc vun bồi hệ thống tri thức khoa học lẫn việc trang bị các phương pháp học tập, làm việc hiệu quả và rèn luyện thao tác tư duy."
+          ],
+          "correctIndex": 3,
+          "explain": "Đặc trưng của phát triển trí tuệ là sự thay đổi cả về \"cấu trúc nội dung\" (tri thức) và \"phương thức phản ánh\" (cách tiếp cận, thao tác tư duy). Do đó, giáo viên phải chú trọng trang bị đồng thời cả hệ thống tri thức khoa học và phương pháp tư duy, làm việc hiệu quả cho người học."
+        },
+        {
+          "id": 33,
+          "text": "Khi bàn về các hướng dạy học phát triển trí tuệ, lý thuyết \"Cấu trúc trí tuệ đa nhân tố\" (nhấn mạnh việc phát triển không chỉ trí thông minh logic hay ngôn ngữ mà còn cả âm nhạc, không gian, vận động, giao tiếp...) là của nhà khoa học nào?",
+          "options": [
+            "J. Piaget.",
+            "D. Goleman.",
+            "H. Gardner.",
+            "E.C. Tolman."
+          ],
+          "correctIndex": 2,
+          "explain": "H. Gardner là tác giả của thuyết trí tuệ đa nhân tố. Dựa trên thuyết này, hướng dạy học hiện đại chú trọng phát triển nhiều loại hình thông minh khác nhau của học sinh (như âm nhạc, không gian, vận động cơ thể, giao tiếp liên nhân cách...) chứ không chỉ giới hạn ở logic hay ngôn ngữ."
+        },
+        {
+          "id": 34,
+          "text": "Theo nhà tâm lý học Daniel Goleman, \"Trí tuệ cảm xúc\" (Emotional Intelligence) được định nghĩa là gì?",
+          "options": [
+            "Khả năng giải quyết các bài toán logic phức tạp trong thời gian ngắn nhất.",
+            "Khả năng nhận dạng cảm xúc, hiểu được ý nghĩa của chúng và nhận ra tác động của chúng đối với những người xung quanh.",
+            "Khả năng ghi nhớ và tái hiện thông tin cảm tính một cách chính xác tuyệt đối.",
+            "Khả năng vượt qua các bài kiểm tra trắc nghiệm tâm lý."
+          ],
+          "correctIndex": 1,
+          "explain": "Theo D. Goleman, trí tuệ cảm xúc là khả năng nhận dạng cảm xúc, hiểu được ý nghĩa của chúng và nhận ra tác động của chúng đối với những người xung quanh; bao hàm cả việc thấu hiểu cảm xúc của mọi người để kiểm soát các mối quan hệ hiệu quả hơn."
+        },
+        {
+          "id": 35,
+          "text": "Theo phân loại của D. Goleman, lĩnh vực nào dưới đây KHÔNG THUỘC 5 lĩnh vực chính của trí tuệ cảm xúc?",
+          "options": [
+            "Hiểu rõ chính mình (Nhận thức xúc cảm).",
+            "Kiểm soát bản thân (Làm chủ cảm xúc).",
+            "Khả năng tư duy trừu tượng và logic.",
+            "Biết cảm thông (Nhận biết xúc cảm của người khác)."
+          ],
+          "correctIndex": 2,
+          "explain": "Khả năng tư duy trừu tượng và logic thuộc về trí tuệ nhận thức (IQ). 5 lĩnh vực chính của trí tuệ cảm xúc theo Goleman bao gồm: Hiểu rõ chính mình, Kiểm soát bản thân, Tự tạo động lực, Biết cảm thông và Kiểm soát các mối quan hệ."
+        },
+        {
+          "id": 36,
+          "text": "Trong môi trường học đường, hoạt động \"dạy học sinh biết đặt mình vào vị trí của người khác, phát triển kỹ năng lắng nghe tích cực\" nhằm mục đích phát triển khía cạnh nào của trí tuệ cảm xúc?",
+          "options": [
+            "Sự tự thúc đẩy, tự tạo động lực.",
+            "Tăng cường sự đồng cảm, lý giải các xúc cảm.",
+            "Chế ngự sự tức giận của bản thân.",
+            "Ý thức về nguyên nhân gây ra cảm xúc của mình."
+          ],
+          "correctIndex": 1,
+          "explain": "Việc đặt mình vào vị trí của người khác và phát triển kỹ năng lắng nghe tích cực là những biện pháp trực tiếp nhằm tăng cường sự đồng cảm và khả năng lý giải xúc cảm của người khác."
+        },
+        {
+          "id": 37,
+          "text": "Nhà tâm lý học E.L. Thorndike đã định nghĩa \"Trí tuệ xã hội\" (Social Intelligence) là gì?",
+          "options": [
+            "Là năng lực để hiểu và quản lý, kiểm soát con người, để hành động một cách khôn ngoan trong các tương tác xã hội.",
+            "Là năng lực giải quyết các vấn đề toán học và khoa học tự nhiên.",
+            "Là khả năng kiềm chế sự tức giận khi bị người khác khiêu khích.",
+            "Là kỹ năng ghi nhớ khuôn mặt và tên gọi của tất cả những người đã gặp."
+          ],
+          "correctIndex": 0,
+          "explain": "E.L. Thorndike là người đầu tiên xác định nội hàm khái niệm này. Ông định nghĩa trí tuệ xã hội là năng lực để hiểu và quản lý, kiểm soát con người (đàn ông, đàn bà, con trai, con gái), để hành động một cách khôn ngoan trong các tương tác xã hội."
+        },
+        {
+          "id": 38,
+          "text": "Trí tuệ xã hội của cá nhân được hình thành và phát triển chủ yếu thông qua con đường nào?",
+          "options": [
+            "Do bẩm sinh di truyền quyết định hoàn toàn.",
+            "Quá trình cá nhân tham gia vào các hoạt động có tương tác xã hội.",
+            "Sự phát triển tự nhiên của hệ thần kinh khi đến tuổi trưởng thành.",
+            "Quá trình đọc thuộc lòng lý thuyết trong sách vở về giao tiếp."
+          ],
+          "correctIndex": 1,
+          "explain": "Trí tuệ xã hội không có sẵn mà được hình thành, phát triển trong quá trình cá nhân tham gia vào các hoạt động có tương tác xã hội. Nó chịu sự chế ước to lớn của đời sống xã hội, bối cảnh kinh tế, văn hóa, chuẩn mực đạo đức."
+        },
+        {
+          "id": 39,
+          "text": "Để phát triển trí tuệ xã hội cho người học một cách hiệu quả, nguyên tắc/biện pháp nào dưới đây là QUAN TRỌNG NHẤT?",
+          "options": [
+            "Chỉ cần cung cấp thật nhiều sách lý thuyết về kỹ năng giao tiếp cho học sinh đọc.",
+            "Tách biệt học sinh khỏi môi trường xã hội để tránh những ảnh hưởng xấu.",
+            "Phải dựa trên hoạt động và trải nghiệm của chính bản thân chủ thể thông qua tương tác xã hội và các chương trình rèn luyện cụ thể.",
+            "Yêu cầu học sinh tự suy ngẫm trong phòng kín để tự nhận ra cách ứng xử."
+          ],
+          "correctIndex": 2,
+          "explain": "Các nghiên cứu chỉ ra rằng trí tuệ xã hội có thể rèn luyện được. Để phát triển nó, cần tác động vào cá nhân và môi trường, nhưng đặc biệt quan trọng nhất là phải dựa trên \"hoạt động và trải nghiệm của chính bản thân chủ thể\" khi tiến hành rèn luyện, tương tác."
+        },
+        {
+          "id": 40,
+          "text": "Một lớp học được tổ chức cho học sinh làm việc hợp tác theo nhóm. Khi có bất đồng xảy ra, giáo viên khuyến khích học sinh nói thẳng nhưng không xung đột, đồng thời dạy các em kỹ năng \"nghe tích cực\". Hoạt động này của giáo viên chủ yếu nhằm mục đích gì?",
+          "options": [
+            "Để giáo viên đỡ mất thời gian giảng bài.",
+            "Giáo dục, phát triển trí tuệ cảm xúc và kỹ năng giải quyết xung đột cho người học.",
+            "Chỉ để đánh giá xem ai là người có lỗi trong nhóm.",
+            "Để kiểm tra trí nhớ của học sinh về nội dung bài học."
+          ],
+          "correctIndex": 1,
+          "explain": "Việc dạy học sinh hợp tác, trao đổi thẳng thắn về cuộc xung đột, rèn luyện kỹ năng nghe tích cực và giải quyết bất đồng là một trong những biện pháp cụ thể và hiệu quả để giáo dục, phát triển trí tuệ cảm xúc trong trường học."
+        },
+        {
+          "id": 41,
+          "text": "Theo thuyết liên tưởng, con đường hình thành tâm lý người là gì?",
+          "options": [
+            "Sự tương tác giữa di truyền và môi trường.",
+            "Sự liên kết các cảm giác và ý tưởng.",
+            "Sự đấu tranh giữa các mặt đối lập bên trong cá nhân.",
+            "Sự bắt chước hành vi của người lớn một cách vô thức."
+          ],
+          "correctIndex": 1,
+          "explain": "Thuyết liên tưởng cho rằng tâm lý được cấu thành từ các cảm giác. Các cấu thành cao hơn như biểu tượng, ý nghĩ, xúc cảm... xuất hiện dựa trên sự liên tưởng của các cảm giác. Con đường hình thành tâm lý người là sự liên kết các cảm giác và ý tưởng."
+        },
+        {
+          "id": 42,
+          "text": "Trong mô hình dạy học thông báo (dựa trên nền tảng thuyết liên tưởng), người học chủ yếu sử dụng các chức năng tâm lý nào để thu nhận và lưu giữ tri thức?",
+          "options": [
+            "Tư duy trừu tượng và tưởng tượng sáng tạo.",
+            "Tư duy logic và óc phê phán.",
+            "Các giác quan và trí nhớ.",
+            "Ý chí và tình cảm đạo đức."
+          ],
+          "correctIndex": 2,
+          "explain": "Theo mô hình dạy học thông báo, giáo viên cung cấp tri thức có sẵn; người học sử dụng các giác quan để thu nhận các hình ảnh cảm tính, sau đó sử dụng các cơ chế của trí nhớ để lưu giữ và khôi phục kinh nghiệm đó trong tình huống cần thiết."
+        },
+        {
+          "id": 43,
+          "text": "Đâu là hạn chế lớn nhất của mô hình dạy học theo điều kiện hóa cổ điển (đại diện J. Watson)?",
+          "options": [
+            "Không giúp người học hình thành được các phản xạ, kỹ năng đơn giản.",
+            "Chỉ tập trung vào phát triển trí thông minh logic của người học.",
+            "Đòi hỏi quá nhiều thời gian và phương tiện kỹ thuật phức tạp.",
+            "Quá nhấn mạnh tác động trực tiếp từ người điều khiển, bỏ qua yếu tố chủ thể của người học."
+          ],
+          "correctIndex": 3,
+          "explain": "Hạn chế của mô hình này là quá nhấn mạnh tác động trực tiếp từ phía người điều khiển (môi trường/kích thích) nên yếu tố chủ thể của người học (kinh nghiệm, nhu cầu, tính tích cực) đã bị bỏ qua, khiến người học trở nên thụ động."
+        },
+        {
+          "id": 44,
+          "text": "Trong lý thuyết hành vi tạo tác của B.F. Skinner, yếu tố nào được xem là quyết định việc nảy sinh và thực hiện hành vi tạo tác?",
+          "options": [
+            "Nhu cầu của chủ thể.",
+            "Phản xạ không điều kiện bẩm sinh.",
+            "Sự bắt chước hành vi của người mẫu.",
+            "Kích thích có điều kiện từ tự nhiên."
+          ],
+          "correctIndex": 0,
+          "explain": "Phản xạ tạo tác đáp ứng nhu cầu của chủ thể và thể hiện tính tích cực, chủ động đối với kích thích từ môi trường. Trong đó, yếu tố nhu cầu của chủ thể được xem là yếu tố quyết định việc nảy sinh phản xạ này."
+        },
+        {
+          "id": 45,
+          "text": "B.F. Skinner đã phát biểu công thức \"Kích thích -> Củng cố -> Hành vi lặp lại\" và nhấn mạnh rằng nếu kiểm soát được yếu tố nào thì sẽ kiểm soát được hành vi của người học?",
+          "options": [
+            "Môi trường.",
+            "Củng cố.",
+            "Nhận thức.",
+            "Trí nhớ."
+          ],
+          "correctIndex": 1,
+          "explain": "Theo B.F. Skinner, củng cố là những kết quả làm cho hành vi được xuất hiện với tần số cao hơn. Không có củng cố trực tiếp thì không thể có hành vi tạo tác. Ông nhấn mạnh, nếu kiểm soát được củng cố thì sẽ kiểm soát được hành vi."
+        },
+        {
+          "id": 46,
+          "text": "Thuật ngữ \"Sự học ngầm\" (latent learning) - quá trình học diễn ra nhưng không thể quan sát được từ bên ngoài - là khái niệm thuộc về mô hình học tập của nhà tâm lý học nào?",
+          "options": [
+            "B.F. Skinner.",
+            "A. Bandura.",
+            "E.C. Tolman.",
+            "J. Piaget."
+          ],
+          "correctIndex": 2,
+          "explain": "Trong mô hình học tập nhận thức của E.C. Tolman, ông cho rằng sự học ngầm là quá trình học diễn ra nhưng không thể quan sát được thông qua hành vi bên ngoài ngay lập tức."
+        },
+        {
+          "id": 47,
+          "text": "Theo mô hình học tập nhận thức xã hội của A. Bandura, có 4 nhân tố quan trọng nhất tham gia vào quá trình học tập thông qua quan sát, bao gồm:",
+          "options": [
+            "Cảm giác, tri giác, trí nhớ và tư duy.",
+            "Động cơ, mục đích, hành động và thao tác.",
+            "Kích thích, phản ứng, củng cố và điều chỉnh.",
+            "Chú ý, ghi nhớ, các quá trình tái tạo vận động và các quá trình động cơ."
+          ],
+          "correctIndex": 3,
+          "explain": "Theo thuyết học tập nhận thức xã hội của Bandura, có 4 nhân tố quan trọng nhất tham gia vào quá trình học tập quan sát bao gồm: chú ý, ghi nhớ, các quá trình tái tạo vận động và các quá trình động cơ."
+        },
+        {
+          "id": 48,
+          "text": "Dựa trên lý thuyết kiến tạo nhận thức của J. Piaget, \"Cấu trúc nhận thức\" (schema) của cá nhân có chức năng cốt lõi là gì?",
+          "options": [
+            "Loại bỏ các phản ứng sai thông qua cơ chế \"thử và sai\".",
+            "Tạo ra sự ghi nhớ máy móc các sự kiện vật lý.",
+            "Phản ánh các mối quan hệ xã hội thông qua sự bắt chước ngôn ngữ.",
+            "Tạo ra sự thích ứng của cá thể với các kích thích của môi trường dựa trên cơ chế đồng hóa và điều ứng."
+          ],
+          "correctIndex": 3,
+          "explain": "Theo Piaget, học tập là quá trình cá nhân kiến tạo tri thức cho mình. Cấu trúc nhận thức có chức năng tạo ra sự thích ứng của cá thể với các kích thích của môi trường, dựa trên hai cơ chế là đồng hóa và điều ứng."
+        },
+        {
+          "id": 49,
+          "text": "Trong mô hình dạy học học tập khám phá do J. Bruner đề xuất, \"cấu trúc nhận thức tối ưu\" cần có các đặc tính quan trọng nào?",
+          "options": [
+            "Tính tiết kiệm, khả năng sản sinh ra cái mới và sức mạnh của cấu trúc.",
+            "Tính trực quan, tính máy móc và tính liên tưởng.",
+            "Tính logic, tính ngôn ngữ và tính xã hội.",
+            "Tính chủ quan, tính khái quát và tính phức tạp."
+          ],
+          "correctIndex": 0,
+          "explain": "Theo Bruner, cấu trúc nhận thức tối ưu cần có 3 đặc tính: tính tiết kiệm (khả năng đơn giản hóa), khả năng sản sinh ra cái mới (hiểu biết sâu rộng hơn) và sức mạnh của cấu trúc (khả năng vận dụng kiến thức vào giải quyết tình huống khác nhau)."
+        },
+        {
+          "id": 50,
+          "text": "Theo học thuyết lịch sử - văn hóa của L.S. Vygotsky, sự khác biệt cốt lõi giữa chức năng tâm lý cấp thấp và chức năng tâm lý cấp cao là gì?",
+          "options": [
+            "Chức năng cấp thấp do giáo dục tạo ra, chức năng cấp cao do di truyền quyết định.",
+            "Chức năng cấp thấp là quan hệ trực tiếp giữa kích thích và phản ứng; chức năng cấp cao là quan hệ gián tiếp thông qua \"công cụ tâm lý\".",
+            "Chức năng cấp thấp chỉ có ở động vật, chức năng cấp cao chỉ có ở trẻ em.",
+            "Chức năng cấp thấp sử dụng tư duy trừu tượng, chức năng cấp cao sử dụng tư duy trực quan."
+          ],
+          "correctIndex": 1,
+          "explain": "Chức năng tâm lý cấp thấp (trình độ tự nhiên) đặc trưng bởi quan hệ trực tiếp (A -> B). Chức năng tâm lý cấp cao (trình độ văn hóa) đặc trưng bởi quan hệ gián tiếp thông qua kích thích phương tiện (công cụ ký hiệu/tâm lý), tạo nên cấu trúc 3 thành phần (A -> X -> B)."
+        },
+        {
+          "id": 51,
+          "text": "Điểm khác biệt cốt lõi giữa \"học trong đời sống thường ngày\" (học ngẫu nhiên) và \"hoạt động học theo phương thức nhà trường\" là gì?",
+          "options": [
+            "Học ngẫu nhiên cần áp dụng phương pháp phức tạp, hoạt động học thì không.",
+            "Hoạt động học được điều khiển bởi mục đích tự giác là lĩnh hội tri thức, kỹ năng, kỹ xảo một cách khoa học, có hệ thống.",
+            "Học ngẫu nhiên chỉ hình thành thái độ, hoạt động học chỉ hình thành kỹ năng vận động.",
+            "Hoạt động học diễn ra tự phát, mọi lúc mọi nơi mà không cần kế hoạch."
+          ],
+          "correctIndex": 1,
+          "explain": "Hoạt động học là hoạt động đặc thù được định hướng, tổ chức có kế hoạch và được điều khiển bởi mục đích tự giác nhằm lĩnh hội các tri thức khoa học đã được hệ thống hóa, khái quát hóa, phân biệt hoàn toàn với việc học ngẫu nhiên thu nhặt kinh nghiệm rời rạc trong đời sống."
+        },
+        {
+          "id": 52,
+          "text": "Hoạt động dạy và hoạt động học có mối quan hệ như thế nào trong quá trình sư phạm?",
+          "options": [
+            "Hoạt động dạy chỉ hỗ trợ hoạt động học khi người học yêu cầu.",
+            "Hai hoạt động này tồn tại độc lập, không ảnh hưởng đến nhau.",
+            "Hoạt động dạy và hoạt động học tồn tại song song, gắn kết, hỗ trợ nhau, tạo thành một chỉnh thể thống nhất (hoạt động kép).",
+            "Hoạt động học quyết định hoàn toàn nội dung của hoạt động dạy."
+          ],
+          "correctIndex": 2,
+          "explain": "Trong quá trình sư phạm, hoạt động dạy và hoạt động học song hành, tạo thành một hoạt động kép. Người dạy thiết kế, tổ chức, điều khiển; còn người học tự giác hành động để chiếm lĩnh đối tượng. Cả hai cùng hướng tới mục đích phát triển người học."
+        },
+        {
+          "id": 53,
+          "text": "Khi nói về việc \"hoạt động học được điều khiển một cách có ý thức nhằm tiếp thu tri thức\", ý nào sau đây thể hiện rõ nhất vai trò \"có ý thức\" của người dạy?",
+          "options": [
+            "Người dạy chỉ cần truyền đạt kiến thức từ sách giáo khoa một cách chính xác.",
+            "Người dạy phải có ý thức rõ trách nhiệm của mình trong việc tổ chức và thiết kế các nhiệm vụ học tập để định hướng người học.",
+            "Người dạy không cần quan tâm đến cách trình bày mà chỉ quan tâm đến điểm số.",
+            "Người dạy chỉ cần đóng vai trò là người giám sát kỷ luật lớp học."
+          ],
+          "correctIndex": 1,
+          "explain": "Cụm từ “được điều khiển” mang ý nghĩa có một chủ thể bên ngoài điều khiển (giáo viên). Người dạy phải có ý thức rõ trách nhiệm của mình trong việc thiết kế, tổ chức các nhiệm vụ học tập, khơi dậy tính tự giác ở học sinh để quá trình lĩnh hội diễn ra hiệu quả."
+        },
+        {
+          "id": 54,
+          "text": "Để hình thành \"động cơ hoàn thiện tri thức\" (nhóm động cơ bên trong) cho học sinh, giáo viên nên ƯU TIÊN thực hiện biện pháp nào sau đây?",
+          "options": [
+            "Tổ chức các cuộc thi có nhiều phần thưởng vật chất giá trị cao.",
+            "Thường xuyên so sánh kết quả học tập của học sinh với nhau để tạo áp lực cạnh tranh.",
+            "Tạo ra các nhiệm vụ học tập mang tính thử thách, mới lạ, khơi gợi sự tò mò và mong muốn khám phá kiến thức khoa học.",
+            "Nhấn mạnh việc học tập để làm hài lòng gia đình và nhà trường."
+          ],
+          "correctIndex": 2,
+          "explain": "Động cơ hoàn thiện tri thức nảy sinh từ chính sự hấp dẫn của đối tượng học tập. Giáo viên khơi dậy nhóm động cơ này bằng cách thiết kế các bài giảng súc tích, hấp dẫn, tạo tình huống có vấn đề để kích thích óc tò mò và khao khát chiếm lĩnh tri thức của học sinh."
+        },
+        {
+          "id": 55,
+          "text": "Trong các hành động học tập nhằm hình thành khái niệm, hành động \"cụ thể hóa\" có chức năng chính là gì?",
+          "options": [
+            "Phát hiện nguồn gốc xuất phát của khái niệm.",
+            "Diễn đạt logic của khái niệm một cách trực quan thông qua sơ đồ.",
+            "Giúp học sinh vận dụng phương thức hành động chung (khái quát) vào việc giải quyết những vấn đề, bài tập cụ thể.",
+            "Giúp học sinh tự đánh giá lại toàn bộ quá trình nhận thức của bản thân."
+          ],
+          "correctIndex": 2,
+          "explain": "Hành động phân tích giúp phát hiện mối quan hệ tổng quát, hành động mô hình hóa giúp diễn đạt mối quan hệ đó, còn hành động cụ thể hóa giúp học sinh triển khai quan hệ tổng quát, trừu tượng vào việc giải quyết các trường hợp/bài tập cụ thể."
+        },
+        {
+          "id": 56,
+          "text": "Khi một hành động học tập được rèn luyện và đạt đến mức độ trở thành \"kỹ xảo\", hành động đó sẽ có đặc điểm nổi bật nào?",
+          "options": [
+            "Trở nên bao quát, tiết kiệm (không có động tác thừa), điêu luyện và giảm bớt sự kiểm soát của ý thức.",
+            "Luôn luôn cần sự tập trung chú ý cao độ của ý thức trong từng chi tiết.",
+            "Đòi hỏi rất nhiều thời gian và các thao tác rườm rà.",
+            "Có thể thực hiện được ngay mà không cần trải qua quá trình làm thử và rút kinh nghiệm."
+          ],
+          "correctIndex": 0,
+          "explain": "Kỹ xảo là hành động đã được củng cố và tự động hóa. Ở giai đoạn tự động hóa, hành động mang tính chất tiết kiệm (không thừa động tác), điêu luyện (giảm sự kiểm soát của ý thức), có tốc độ nhanh và chất lượng cao."
+        },
+        {
+          "id": 57,
+          "text": "Trong mô hình dạy học \"học tập khám phá\" của J. Bruner, ông quan niệm như thế nào về sự \"thưởng – phạt\" đối với người học?",
+          "options": [
+            "Thưởng - phạt là yếu tố duy nhất tạo ra động cơ học tập.",
+            "Giáo viên phải trả lại chức năng ban thưởng của sự thành công hay thất bại cho chính bản thân người học (để họ tự trải nghiệm).",
+            "Sự trừng phạt nghiêm khắc sẽ giúp học sinh ghi nhớ tri thức lâu hơn.",
+            "Giáo viên luôn phải sử dụng phần thưởng vật chất để duy trì hoạt động học tập."
+          ],
+          "correctIndex": 1,
+          "explain": "Theo J. Bruner, thành công hay thất bại là kết quả của nhiệm vụ học tập. Ông nhấn mạnh vấn đề quan trọng của dạy học là phải trả lại chức năng ban thưởng của sự thành công hay thất bại cho chính người học tự nhận thức và điều chỉnh."
+        },
+        {
+          "id": 58,
+          "text": "Việc sắp xếp chỗ ngồi trong lớp học theo \"nhóm nhỏ\" hoặc \"theo vòng tròn\" mang lại ưu thế lớn nhất cho dạng hoạt động nào?",
+          "options": [
+            "Giúp học sinh làm việc độc lập dễ dàng hơn.",
+            "Thuận lợi cho giáo viên khi thuyết trình, giảng giải một chiều.",
+            "Tạo điều kiện thuận lợi cho các hoạt động nhóm, trao đổi, chia sẻ tài liệu và hợp tác giữa người học.",
+            "Giúp học sinh tập trung tối đa vào bục giảng và bàn giáo viên."
+          ],
+          "correctIndex": 2,
+          "explain": "Bố trí lớp học theo nhóm nhỏ hay vòng tròn rất thuận lợi cho các hoạt động làm việc hợp tác, chia sẻ và thảo luận. Tuy nhiên, nó lại không phù hợp cho các hoạt động thuyết trình truyền thống."
+        },
+        {
+          "id": 59,
+          "text": "Theo lý thuyết học tập nhận thức của E.C. Tolman, hành vi của cá thể (R) bị chi phối bởi các \"biến trung gian\" (O) bao gồm những yếu tố nào?",
+          "options": [
+            "Các kích thích từ môi trường bên ngoài đơn thuần.",
+            "Động cơ tâm lý, di truyền, sự luyện tập/dạy học từ trước và tuổi tác.",
+            "Sự củng cố vật chất từ người dạy.",
+            "Các phản xạ không điều kiện mang tính bẩm sinh."
+          ],
+          "correctIndex": 1,
+          "explain": "Tolman đề xuất công thức S - O - R. Trong đó O là các biến trung gian gắn với cơ thể, định hướng hành vi. Ông chỉ ra 5 biến trung gian: kích thích môi trường, động cơ tâm lý, di truyền, sự dạy học từ trước và tuổi tác."
+        },
+        {
+          "id": 60,
+          "text": "Trong quy trình 6 bước hình thành khái niệm khoa học cho học sinh, mục đích của việc giáo viên đưa học sinh vào \"tình huống có vấn đề\" ở bước đầu tiên là gì?",
+          "options": [
+            "Để kiểm tra bài cũ và cho điểm học sinh.",
+            "Để làm nảy sinh nhu cầu nhận thức, kích thích óc tò mò và sự ham thích khám phá cái mới ở học sinh.",
+            "Để duy trì trật tự và sự im lặng tuyệt đối trong lớp.",
+            "Để kiểm tra chỉ số thông minh logic của học sinh."
+          ],
+          "correctIndex": 1,
+          "explain": "Bước đầu tiên trong việc hình thành khái niệm là làm nảy sinh nhu cầu nhận thức. Bằng cách tạo ra \"tình huống có vấn đề\", giáo viên tạo ra mâu thuẫn giữa cái đã biết và cái chưa biết, qua đó kích thích sự tò mò và hứng thú của học sinh."
+        },
+        {
+          "id": 61,
+          "text": "Điểm khác biệt lớn nhất của \"Học ngẫu nhiên\" (học trong đời sống thường ngày) so với hoạt động học theo phương thức nhà trường là gì?",
+          "options": [
+            "Học ngẫu nhiên có mục đích, chương trình và nội dung xác định.",
+            "Học ngẫu nhiên thường đi kèm theo một hoạt động khác, mà sự lĩnh hội tri thức, kỹ năng, kỹ xảo không phải là mục đích chính của hoạt động đó.",
+            "Học ngẫu nhiên giúp lĩnh hội hệ thống tri thức khoa học được kiểm chứng.",
+            "Học ngẫu nhiên đòi hỏi phải áp dụng những phương pháp tích cực."
+          ],
+          "correctIndex": 1,
+          "explain": "Học trong đời sống thường ngày mang tính chất ngẫu nhiên, việc học được kèm theo khi con người thực hiện một hoạt động với mục đích khác. Trong khi đó, hoạt động học theo phương thức nhà trường được điều khiển bởi mục đích tự giác là lĩnh hội tri thức, kỹ năng một cách có hệ thống."
+        },
+        {
+          "id": 62,
+          "text": "Mục đích cốt lõi của hoạt động dạy theo phương thức nhà trường là gì?",
+          "options": [
+            "Sáng tạo ra các tri thức khoa học mới cho nhân loại.",
+            "Làm cho học sinh chiếm lĩnh nền văn hoá - xã hội, tạo ra sự phát triển tâm lý, hình thành nhân cách.",
+            "Đánh giá khả năng nhận thức và IQ của người học.",
+            "Truyền đạt thông tin để người học ghi nhớ máy móc."
+          ],
+          "correctIndex": 1,
+          "explain": "Mục đích của hoạt động dạy là tổ chức và điều khiển hoạt động của người học, nhằm giúp họ lĩnh hội nền văn hóa xã hội (các tri thức, kỹ năng đã được chọn lọc), từ đó tạo ra sự phát triển tâm lý và hình thành nhân cách."
+        },
+        {
+          "id": 63,
+          "text": "Đặc điểm nào dưới đây là biểu hiện của \"Động cơ hoàn thiện tri thức\" ở người học?",
+          "options": [
+            "Sự say mê học tập do sự hấp dẫn, lôi cuốn bởi chính bản thân tri thức và phương pháp giành lấy tri thức đó.",
+            "Sự nỗ lực học tập để được bạn bè thán phục và cha mẹ khen ngợi.",
+            "Sự cố gắng học tập nhằm thỏa mãn tính hiếu danh, khẳng định vị thế.",
+            "Sự khao khát đạt điểm cao để nhận phần thưởng vật chất."
+          ],
+          "correctIndex": 0,
+          "explain": "Động cơ hoàn thiện tri thức xuất phát từ lòng khao khát mở rộng tri thức, mong muốn có nhiều hiểu biết và say mê với việc giải quyết các nhiệm vụ nhận thức. Các phương án B, C, D thuộc về nhóm động cơ quan hệ xã hội."
+        },
+        {
+          "id": 64,
+          "text": "Nếu hoạt động học tập của học sinh được thúc đẩy CHỦ YẾU bởi nhóm \"động cơ quan hệ xã hội\" thì diễn biến tâm lý thường thấy là gì?",
+          "options": [
+            "Học sinh thường không say sưa, không có khát vọng học tập trong mọi hoàn cảnh.",
+            "Học sinh vẫn có thể say sưa học tập, nhưng sự say sưa đó thường do sự hấp dẫn, lôi cuốn của một \"cái khác\" (điểm số, phần thưởng, lời khen...) nằm ngoài mục đích trực tiếp của việc học.",
+            "Học sinh không bao giờ gặp phải những căng thẳng tâm lý hay xung đột nội tâm.",
+            "Học sinh tự giác học tập hoàn toàn vì sự đam mê khoa học."
+          ],
+          "correctIndex": 1,
+          "explain": "Động cơ quan hệ xã hội thúc đẩy việc học không vì bản thân tri thức mà vì các yếu tố khác (khen thưởng, tránh bị phạt, khẳng định mình). Do đó, học sinh vẫn có thể say sưa học, nhưng là vì bị lôi cuốn bởi những \"cái khác\" nằm ngoài mục đích chiếm lĩnh tri thức."
+        },
+        {
+          "id": 65,
+          "text": "Bản chất của quá trình hình thành khái niệm khoa học cho học sinh trong dạy học là gì?",
+          "options": [
+            "Quá trình chuyển hoá trực tiếp khái niệm từ đầu giáo viên sang đầu học sinh.",
+            "Quá trình giáo viên mô tả, giảng giải để học sinh học thuộc lòng các định nghĩa.",
+            "Quá trình giáo viên tổ chức, điều khiển hoạt động học của học sinh nhằm giúp các em tự tác động vào đối tượng, tách những thuộc tính bản chất để khái quát thành khái niệm cho bản thân.",
+            "Quá trình học sinh tự mình mò mẫm tìm ra tri thức mà không cần sự định hướng của giáo viên."
+          ],
+          "correctIndex": 2,
+          "explain": "Việc lĩnh hội khái niệm không thể theo cách giáo viên \"rót\" tri thức vào đầu học sinh. Thực chất, đó là quá trình giáo viên tổ chức, điều khiển hoạt động học để học sinh tự hành động với đối tượng, phát hiện và tái tạo lại những năng lực thực tiễn được gửi gắm trong khái niệm đó."
+        },
+        {
+          "id": 66,
+          "text": "Khái niệm \"Kỹ năng\" trong Tâm lý học giáo dục được định nghĩa như thế nào?",
+          "options": [
+            "Là những thao tác được lặp đi lặp lại một cách máy móc không cần suy nghĩ.",
+            "Là khả năng vận dụng kiến thức (bao gồm tri thức, khái niệm, phương pháp...) để giải quyết những nhiệm vụ hay bài tập khác nhau.",
+            "Là hành động đã được củng cố và tự động hóa cao độ.",
+            "Là những phản xạ không điều kiện bẩm sinh của con người."
+          ],
+          "correctIndex": 1,
+          "explain": "Kỹ năng là khả năng vận dụng kiến thức (những tri thức, cách thức, phương pháp đã lĩnh hội) để giải quyết các nhiệm vụ thực tiễn. Kỹ năng khác với kỹ xảo (hành động đã tự động hóa)."
+        },
+        {
+          "id": 67,
+          "text": "Yếu tố nào được xem là \"cơ sở nền tảng\" bắt buộc phải có để hình thành kỹ năng cho học sinh?",
+          "options": [
+            "Năng khiếu bẩm sinh của người học.",
+            "Tri thức và phương pháp đã học (Kỹ năng là sản phẩm của tri thức).",
+            "Sự nhanh trí và khả năng giao tiếp của học sinh.",
+            "Sự bắt chước các hành vi của người khác."
+          ],
+          "correctIndex": 1,
+          "explain": "Kỹ năng phải được hiểu trước hết là sản phẩm của tri thức. Kỹ năng được hình thành trên cơ sở người học đã nắm vững những tri thức, khái niệm và phương pháp tương ứng."
+        },
+        {
+          "id": 68,
+          "text": "Sự phát triển trí tuệ ở người học được biểu hiện cụ thể ở sự thay đổi về các phương diện nào?",
+          "options": [
+            "Sự gia tăng đơn thuần về số lượng tri thức khoa học mà người học ghi nhớ được.",
+            "Sự thay đổi cấu trúc của tri thức (cái được phản ánh) và sự thay đổi về phương thức phản ánh tri thức (cách tiếp cận, thao tác tư duy).",
+            "Sự phát triển của các cơ quan giác quan và hệ thần kinh ngoại biên.",
+            "Sự tăng lên của điểm số và thành tích học tập qua các kỳ thi."
+          ],
+          "correctIndex": 1,
+          "explain": "Đặc trưng của phát triển trí tuệ là sự thay đổi cả về \"cấu trúc nội dung\" (các đơn vị tri thức được sắp xếp lại, mở rộng, sâu sắc hơn) và về \"phương thức phản ánh\" (cách tiếp cận, thao tác tư duy mới, sáng tạo hơn)."
+        },
+        {
+          "id": 69,
+          "text": "Theo các nhà Tâm lý học sư phạm, mối quan hệ giữa \"dạy học\" và \"sự phát triển trí tuệ\" được thể hiện như thế nào?",
+          "options": [
+            "Dạy học luôn luôn đi sau và phụ thuộc hoàn toàn vào sự phát triển trí tuệ có sẵn của người học.",
+            "Dạy học và sự phát triển trí tuệ là hai quá trình độc lập, không ảnh hưởng lẫn nhau.",
+            "Dạy học bao giờ cũng gắn liền với sự phát triển trí tuệ, chúng có quan hệ chặt chẽ, ảnh hưởng qua lại lẫn nhau.",
+            "Dạy học chỉ làm tăng số lượng kiến thức chứ không thể làm thay đổi chỉ số thông minh (IQ)."
+          ],
+          "correctIndex": 2,
+          "explain": "Dạy học và sự phát triển trí tuệ có quan hệ hữu cơ. Quá trình dạy học làm cho hệ thống tri thức và năng lực tư duy của học sinh biến đổi về chất và lượng. Ngược lại, trí tuệ phát triển lại giúp học sinh học tập tốt hơn."
+        },
+        {
+          "id": 70,
+          "text": "Trong quá trình giải toán, học sinh A luôn tìm ra cách giải ngắn gọn nhất, tránh được những bước đi sai lệch hoặc rườm rà. Học sinh A đang thể hiện sự phát triển cao ở chỉ số trí tuệ nào?",
+          "options": [
+            "Tốc độ khái quát hóa.",
+            "Tính tiết kiệm của tư duy.",
+            "Tính mềm dẻo của trí tuệ.",
+            "Tốc độ định hướng trí tuệ."
+          ],
+          "correctIndex": 1,
+          "explain": "Tính tiết kiệm của tư duy biểu hiện ở số lần lập luận cần và đủ để đi đến kết quả. Người có chỉ số này cao thường dùng số bước đi ít hơn người khác, tránh được những bước sai hoặc các thao tác rườm rà."
+        },
+        {
+          "id": 71,
+          "text": "Khi một học sinh nỗ lực học tập chủ yếu để tránh bị cha mẹ la mắng, hoặc để nhận được phần thưởng, học sinh đó đang bị chi phối bởi loại động cơ nào?",
+          "options": [
+            "Động cơ hoàn thiện tri thức.",
+            "Động cơ quan hệ xã hội (động cơ bên ngoài).",
+            "Động cơ nhận thức.",
+            "Động cơ bên trong."
+          ],
+          "correctIndex": 1,
+          "explain": "Khi sự nỗ lực học tập không xuất phát từ khát khao chiếm lĩnh bản thân tri thức mà vì các yếu tố khác như khen thưởng, tránh bị phạt, khẳng định mình... thì đó là động cơ quan hệ xã hội."
+        },
+        {
+          "id": 72,
+          "text": "Sơ đồ, ký hiệu, hay các công thức toán học mà giáo viên sử dụng trên bảng là biểu hiện của khái niệm đang tồn tại dưới hình thức nào?",
+          "options": [
+            "Hình thức vật chất.",
+            "Hình thức tinh thần (tâm lý cá thể).",
+            "Hình thức mã hóa.",
+            "Hình thức trừu tượng hóa."
+          ],
+          "correctIndex": 2,
+          "explain": "Khái niệm tồn tại ở ba hình thức cơ bản. Trong đó, mô hình \"mã hóa\" hoàn toàn có tính quy ước (tước bỏ yếu tố trực quan), chỉ giữ lại mối liên hệ logic thuần khiết, ví dụ như công thức, ký hiệu, sơ đồ."
+        },
+        {
+          "id": 73,
+          "text": "Trong hoạt động học tập, hành động \"tự kiểm tra\" và \"tự đánh giá\" có chức năng chính là gì?",
+          "options": [
+            "Giúp học sinh lĩnh hội nội dung tri thức mới một cách nhanh chóng.",
+            "Kiểm tra và đánh giá lại chính quá trình lĩnh hội tri thức của bản thân để điều chỉnh cho phù hợp.",
+            "Cung cấp cơ sở để giáo viên ghi điểm vào sổ liên lạc.",
+            "So sánh năng lực của mình với các bạn học sinh giỏi trong lớp."
+          ],
+          "correctIndex": 1,
+          "explain": "Hành động tự kiểm tra và tự đánh giá là những hành động học tập đặc biệt. Chúng không nhằm mục đích lĩnh hội tri thức mới mà nhằm mục đích kiểm tra, đối chiếu và đánh giá lại quá trình lĩnh hội, giúp học sinh lường trước thuận lợi/khó khăn và điều chỉnh hành động."
+        },
+        {
+          "id": 74,
+          "text": "Theo lý thuyết của L.S. Vygotsky, nguyên tắc \"dạy học phát triển\" được hiểu như thế nào là đúng nhất?",
+          "options": [
+            "Dạy học luôn đi sau và phụ thuộc vào sự phát triển sinh lý tự nhiên của trẻ.",
+            "Dạy học hoàn toàn tách biệt, không liên quan đến sự phát triển trí tuệ.",
+            "Dạy học phải đi trước, đón đầu và định hướng sự phát triển bằng cách hướng người học vào \"vùng phát triển gần nhất\".",
+            "Dạy học chỉ dựa trên những bài tập mà học sinh đã có thể tự làm được một mình."
+          ],
+          "correctIndex": 2,
+          "explain": "Dạy học và phát triển có quan hệ hữu cơ. Dạy học phải đi trước, đón đầu và định hướng sự phát triển. Thông qua việc tổ chức các nhiệm vụ ở \"vùng phát triển gần nhất\", người dạy giúp người học đạt tới trình độ phát triển cao hơn."
+        },
+        {
+          "id": 75,
+          "text": "Một hành động học tập khi được rèn luyện đạt đến mức độ \"Kỹ xảo\" (tự động hóa) thì sẽ KHÔNG CÓ đặc điểm nào sau đây?",
+          "options": [
+            "Tính bao quát, bớt dần các mục tiêu bộ phận.",
+            "Điêu luyện, giảm sự kiểm soát cố ý của ý thức.",
+            "Tiết kiệm, không có động tác thừa.",
+            "Đòi hỏi sự tập trung chú ý cao độ và mất rất nhiều năng lượng để thực hiện."
+          ],
+          "correctIndex": 3,
+          "explain": "Kỹ xảo là hành động đã được củng cố và tự động hóa. Khi đạt mức độ này, hành động có tốc độ nhanh, tiết kiệm (không có động tác thừa) và đặc biệt là giảm sự kiểm soát của ý thức (không đòi hỏi tập trung cao độ để nhớ từng bước nhỏ nữa)."
+        },
+        {
+          "id": 76,
+          "text": "Trong Tâm lý học sư phạm, bản chất \"hoạt động học hướng vào làm thay đổi chính mình\" được hiểu là gì?",
+          "options": [
+            "Mục đích của hoạt động học là làm thay đổi kho tàng tri thức của nhân loại.",
+            "Hoạt động học tạo ra sản phẩm vật chất trực tiếp cho xã hội.",
+            "Chủ thể (người học) thu nhận tri thức, hình thành năng lực để làm biến đổi và phát triển chính bản thân mình.",
+            "Làm thay đổi phương pháp giảng dạy của giáo viên trên lớp."
+          ],
+          "correctIndex": 2,
+          "explain": "Khác với lao động là làm biến đổi đối tượng vật chất, mục đích của hoạt động học là làm thay đổi, phát triển chính chủ thể học. Người học thông qua việc tiếp thu tri thức, kỹ năng sẽ tự làm phong phú và hoàn thiện năng lực của bản thân."
+        },
+        {
+          "id": 77,
+          "text": "Chỉ số \"Tốc độ của sự định hướng trí tuệ\" (còn gọi là sự nhanh trí) ở người học được biểu hiện cụ thể như thế nào?",
+          "options": [
+            "Sự dễ dàng xây dựng lại hoạt động cho thích hợp với điều kiện thay đổi.",
+            "Sự nhanh chóng tìm ra hướng giải quyết cho các nhiệm vụ, bài tập không giống với mẫu đã được học.",
+            "Số lần luyện tập rất ít mà đã hình thành được hành động khái quát.",
+            "Số bước lập luận ngắn gọn, tránh được các thao tác rườm rà."
+          ],
+          "correctIndex": 1,
+          "explain": "Tốc độ của sự định hướng trí tuệ (sự nhanh trí) biểu hiện ở việc nhanh chóng tìm ra hướng giải quyết cho những bài tập/nhiệm vụ mới, khác với mẫu đã học (hay gặp trong các cuộc thi \"câu đố trí tuệ\")."
+        },
+        {
+          "id": 78,
+          "text": "Trong quá trình học sinh lĩnh hội khái niệm khoa học, người giáo viên đóng vai trò gì?",
+          "options": [
+            "Đóng vai trò là người chuyển hóa trực tiếp khái niệm từ đầu mình sang đầu học sinh.",
+            "Đóng vai trò tổ chức, điều khiển hoạt động học của học sinh, giúp các em tự hành động để tái tạo lại khái niệm cho bản thân.",
+            "Đóng vai trò thụ động, để học sinh tự do mò mẫm tìm ra chân lý.",
+            "Đóng vai trò là người cung cấp các định nghĩa sẵn có để học sinh học thuộc lòng."
+          ],
+          "correctIndex": 1,
+          "explain": "Việc lĩnh hội khái niệm không thể theo cách giáo viên \"rót\" tri thức vào đầu học sinh. Thực chất, giáo viên đóng vai trò tổ chức, điều khiển học sinh hành động trực tiếp với đối tượng để tự bóc tách thuộc tính bản chất và xây dựng khái niệm."
+        },
+        {
+          "id": 79,
+          "text": "Khi giáo viên thiết kế một bài toán đòi hỏi học sinh phải sử dụng \"sơ đồ đoạn thẳng\" để biểu diễn các đại lượng. Học sinh đang sử dụng hành động học tập nào?",
+          "options": [
+            "Hành động cụ thể hóa.",
+            "Hành động phân tích.",
+            "Hành động mô hình hóa.",
+            "Hành động tự kiểm tra."
+          ],
+          "correctIndex": 2,
+          "explain": "Hành động mô hình hóa giúp diễn đạt logic khái niệm một cách trực quan thông qua mô hình vật thật, tượng trưng hoặc mã hóa. \"Sơ đồ đoạn thẳng\" là một ví dụ điển hình của mô hình tượng trưng trong hành động mô hình hóa."
+        },
+        {
+          "id": 80,
+          "text": "Khi thiết kế bài giảng theo \"dạy học tích cực\", nguyên tắc nào sau đây đòi hỏi giáo viên phải liên tục thúc đẩy sự phát triển nhận thức, trí tuệ và nhân cách của người học (dạy học đi trước sự phát triển)?",
+          "options": [
+            "Nguyên tắc tham gia hợp tác.",
+            "Nguyên tắc phát triển.",
+            "Nguyên tắc tương tác.",
+            "Nguyên tắc cá nhân hóa."
+          ],
+          "correctIndex": 1,
+          "explain": "Dựa trên quan điểm về vùng phát triển gần nhất, nguyên tắc phát triển trong dạy học tích cực nhấn mạnh dạy học phải đi trước, đón đầu và kéo theo sự phát triển, thông qua việc thiết kế các \"tình huống có vấn đề\" liên tục thúc đẩy nhận thức của người học."
+        },
+        {
+          "id": 81,
+          "text": "Vai trò chính của giáo viên trong quá trình \"tái tạo tri thức\" cho người học được thể hiện như thế nào?",
+          "options": [
+            "Trực tiếp cung cấp toàn bộ kiến thức cho học sinh ghi nhớ.",
+            "Yêu cầu học sinh ghi nhớ chính xác những gì giáo viên truyền đạt mà không cần giải thích.",
+            "Sử dụng tri thức đã chọn lọc như là công cụ để tổ chức và hướng dẫn học sinh tự xây dựng lại kiến thức đó.",
+            "Chỉ tập trung vào việc kiểm tra mức độ thuộc bài của học sinh."
+          ],
+          "correctIndex": 2,
+          "explain": "Trong hoạt động dạy, giáo viên không làm nhiệm vụ sáng tạo tri thức mới mà phải sử dụng tri thức đã được chọn lọc như là nguyên vật liệu, phương tiện để tổ chức và điều khiển học sinh tự hành động, qua đó tái tạo lại tri thức đó trong mỗi người học."
+        },
+        {
+          "id": 82,
+          "text": "Trong cuộc sống hàng ngày, việc con người nắm được những tri thức, kỹ năng, kỹ xảo thông qua việc thực hiện một hoạt động nào đó (mà không có chủ đích học từ trước) được gọi là gì?",
+          "options": [
+            "Học ngẫu nhiên.",
+            "Hoạt động học.",
+            "Hoạt động tự học.",
+            "Học kỹ năng."
+          ],
+          "correctIndex": 0,
+          "explain": "Học ngẫu nhiên (học trong đời sống thường ngày) là việc học thường đi kèm theo một hoạt động khác, mà sự lĩnh hội tri thức, kỹ năng, kỹ xảo không phải là mục đích chính của hoạt động đó."
+        },
+        {
+          "id": 83,
+          "text": "Trong cấu trúc của hoạt động học tập, \"Hành động phân tích\" mang lại tác dụng gì cho người học?",
+          "options": [
+            "Giúp học sinh diễn đạt logic tổng quát của khái niệm dưới hình thức trực quan.",
+            "Giúp học sinh vận dụng phương thức hành động chung vào việc giải quyết những bài tập cụ thể.",
+            "Giúp phát hiện nguồn gốc xuất phát của khái niệm và phát hiện mối quan hệ tổng quát.",
+            "Giúp học sinh kiểm tra lại quá trình lĩnh hội của bản thân."
+          ],
+          "correctIndex": 2,
+          "explain": "Hành động phân tích giúp phát hiện nguồn gốc xuất phát của khái niệm, phát hiện mối quan hệ tổng quát và là phương tiện quan trọng nhất giúp đi sâu vào đối tượng."
+        },
+        {
+          "id": 84,
+          "text": "Trong quy trình hình thành khái niệm, bước \"hệ thống hóa khái niệm\" được thực hiện nhằm mục đích chủ yếu nào?",
+          "options": [
+            "Để học sinh học thuộc lòng định nghĩa một cách máy móc.",
+            "Đưa khái niệm mới vào hệ thống các khái niệm đã học, giúp học sinh nắm vững khái niệm một cách vững chắc và vận dụng logic.",
+            "Để tạo ra các nhiệm vụ học tập mới khó hơn.",
+            "Để kiểm tra trí nhớ ngắn hạn của học sinh."
+          ],
+          "correctIndex": 1,
+          "explain": "Ở bước hệ thống hóa khái niệm, giáo viên hướng dẫn học sinh hệ thống hóa lại các khái niệm đã học, đưa khái niệm mới vào hệ thống khái niệm cũ thì khái niệm mới lĩnh hội sẽ càng trở nên vững chắc hơn."
+        },
+        {
+          "id": 85,
+          "text": "Theo Tâm lý học giáo dục, sự phát triển trí tuệ của học sinh không chỉ đơn thuần là sự tăng lên về số lượng tri thức, mà còn được biểu hiện rõ nhất ở sự thay đổi về:",
+          "options": [
+            "Thể chất và trọng lượng não bộ.",
+            "Điểm số các bài kiểm tra cuối kì.",
+            "Cấu trúc của tri thức được phản ánh và phương thức phản ánh tri thức.",
+            "Khả năng ghi nhớ máy móc các sự kiện lịch sử."
+          ],
+          "correctIndex": 2,
+          "explain": "Đặc trưng của phát triển trí tuệ là sự thay đổi cả về \"cấu trúc nội dung\" (cái được phản ánh/tri thức) và về \"phương thức phản ánh\" (phương pháp, cách tiếp cận nội dung, thao tác tư duy)."
+        },
+        {
+          "id": 86,
+          "text": "Một giáo viên nhận thấy học sinh của mình thường gặp khó khăn và lúng túng khi giải các bài toán không theo một khuôn mẫu nhất định đã được học. Dựa trên các chỉ số phát triển trí tuệ, học sinh này đang yếu ở chỉ số nào?",
+          "options": [
+            "Tốc độ khái quát hóa.",
+            "Tính tiết kiệm của tư duy.",
+            "Tính mềm dẻo của trí tuệ.",
+            "Tốc độ của sự định hướng trí tuệ (sự nhanh trí)."
+          ],
+          "correctIndex": 3,
+          "explain": "Tốc độ của sự định hướng trí tuệ (sự nhanh trí) được biểu hiện ở sự nhanh chóng tìm ra hướng giải quyết cho các nhiệm vụ, bài tập mới, không giống với mẫu đã được học."
+        },
+        {
+          "id": 87,
+          "text": "Khi giải một bài toán hình học, một học sinh trình bày một lời giải rất dài dòng với nhiều bước thừa, lập luận không cần thiết. Chỉ số phát triển trí tuệ nào của học sinh này cần được rèn luyện thêm?",
+          "options": [
+            "Tính tiết kiệm của tư duy.",
+            "Tính phê phán của trí tuệ.",
+            "Tính mềm dẻo của trí tuệ.",
+            "Tốc độ của sự định hướng trí tuệ."
+          ],
+          "correctIndex": 0,
+          "explain": "Tính tiết kiệm của tư duy biểu hiện ở số lần các lập luận cần và đủ để đi đến kết quả. Lời giải dài dòng, nhiều bước thừa chứng tỏ học sinh chưa có tính tiết kiệm của tư duy cao."
+        },
+        {
+          "id": 88,
+          "text": "Trong quá trình học tập, \"tính tích cực nhận thức\" của người học được thể hiện rõ nét nhất thông qua biểu hiện nào?",
+          "options": [
+            "Chỉ làm theo đúng các yêu cầu của giáo viên mà không cần hiểu rõ nhiệm vụ.",
+            "Tập trung vào việc ghi nhớ thông tin một cách máy móc để làm bài thi.",
+            "Thông qua việc huy động cao các chức năng tâm lý để giải quyết nhiệm vụ nhận thức, bộc lộ sự hứng thú, chủ động và sáng tạo.",
+            "Luôn luôn trật tự và ngồi im lặng trong suốt tiết học."
+          ],
+          "correctIndex": 2,
+          "explain": "Tính tích cực nhận thức là thái độ cải tạo của chủ thể, thông qua việc huy động ở mức độ cao các chức năng tâm lý để giải quyết các nhiệm vụ nhận thức một cách chủ động, độc lập, nỗ lực và sáng tạo."
+        },
+        {
+          "id": 89,
+          "text": "Theo D. Goleman, để giáo dục và phát triển \"trí tuệ cảm xúc\" cho học sinh, việc dạy học sinh biết \"đặt mình vào vị trí người khác và phát triển kỹ năng lắng nghe tích cực\" nhằm mục đích gì?",
+          "options": [
+            "Giúp học sinh tự tạo động lực cho bản thân.",
+            "Giúp học sinh chế ngự sự tức giận và ít bốc đồng.",
+            "Tăng cường sự đồng cảm và lý giải các xúc cảm của người khác.",
+            "Giúp học sinh ý thức được nguyên nhân gây ra xúc cảm của chính mình."
+          ],
+          "correctIndex": 2,
+          "explain": "Đặt mình vào vị trí người khác và phát triển kỹ năng lắng nghe tích cực là những biểu hiện và biện pháp nhằm tăng cường sự đồng cảm, khả năng thấu hiểu và lý giải xúc cảm của người khác."
+        },
+        {
+          "id": 90,
+          "text": "Khi nghiên cứu về khả năng phát triển Trí tuệ xã hội (SQ) cho học sinh, các nhà tâm lý học hiện đại (như D. Goleman) đã khẳng định điều gì?",
+          "options": [
+            "Trí tuệ xã hội là bẩm sinh và hoàn toàn không thể thay đổi bằng giáo dục.",
+            "Chỉ cần học sinh đọc nhiều sách về giao tiếp thì trí tuệ xã hội sẽ tự động phát triển.",
+            "Trí tuệ xã hội có thể được phát triển thông qua những bài tập rèn luyện mang tính cụ thể, dựa trên sự tương tác và trải nghiệm thực tế của cá nhân.",
+            "Trí tuệ xã hội sẽ tự nhiên xuất hiện khi con người bước vào tuổi trưởng thành."
+          ],
+          "correctIndex": 2,
+          "explain": "Các nghiên cứu chỉ ra rằng trí tuệ xã hội có thể rèn luyện được. Những bài tập rèn luyện mang tính cụ thể, phù hợp và đặc biệt phải dựa trên hoạt động, trải nghiệm của chính bản thân chủ thể sẽ giúp phát triển các năng lực xã hội này."
+        },
+        {
+          "id": 91,
+          "text": "Việc sắp xếp chỗ ngồi trong lớp học theo \"kiểu truyền thống\" (toàn bộ học sinh ngồi theo hàng dọc/ngang, đối diện bục giảng) có ưu điểm lớn nhất đối với dạng hoạt động nào?",
+          "options": [
+            "Tạo điều kiện thuận lợi nhất cho các hoạt động thảo luận nhóm.",
+            "Hỗ trợ tốt nhất cho học tập hợp tác và chia sẻ tài liệu giữa học sinh.",
+            "Thuận lợi cho việc trình bày của giáo viên, duy trì trật tự và khuyến khích người học làm việc độc lập.",
+            "Giúp học sinh tự do đi lại và tương tác liên tục với nhau trong giờ học."
+          ],
+          "correctIndex": 2,
+          "explain": "Cách sắp xếp truyền thống tạo điều kiện cho người học làm việc độc lập, thuận lợi cho việc trình bày của giáo viên, khuyến khích tập trung vào người trình bày và giúp duy trì trật tự lớp học dễ dàng hơn. Tuy nhiên, nó lại kém hiệu quả với hoạt động nhóm."
+        },
+        {
+          "id": 92,
+          "text": "Theo Weinstein, biện pháp nào dưới đây KHÔNG thuộc nhóm các biện pháp giúp \"tăng cường thời gian học tập thực sự hiệu quả\" trong công tác quản lý lớp học?",
+          "options": [
+            "Duy trì hoạt động hiệu quả.",
+            "Giảm thiểu thời gian chuyển tiếp giữa các hoạt động.",
+            "Đề cao trách nhiệm của người học.",
+            "Tăng cường thời gian cho học sinh giải trí tự do trong giờ học."
+          ],
+          "correctIndex": 3,
+          "explain": "Mục tiêu hàng đầu của quản lý lớp học là tăng cường thời gian học tập hiệu quả. Để đạt được, Weinstein đề xuất 3 biện pháp: Duy trì hoạt động hiệu quả, giảm thiểu thời gian chuyển tiếp và đề cao trách nhiệm của người học."
+        },
+        {
+          "id": 93,
+          "text": "Dựa trên quan điểm của chủ nghĩa duy vật biện chứng, khi nghiên cứu về \"Trí tuệ\" của cá nhân, nhận định nào dưới đây là CHƯA CHÍNH XÁC?",
+          "options": [
+            "Trí tuệ có chức năng đáp ứng mối quan hệ tác động qua lại giữa chủ thể với môi trường, tạo ra sự thích ứng.",
+            "Trí tuệ được hình thành và biểu hiện trong hoạt động của chủ thể.",
+            "Sự phát triển của trí tuệ chỉ chịu sự chế ước của yếu tố văn hóa - xã hội mà không chịu ảnh hưởng của yếu tố sinh lý.",
+            "Trí tuệ là yếu tố tâm lý có tính độc lập tương đối với các yếu tố tâm lý khác."
+          ],
+          "correctIndex": 2,
+          "explain": "Theo quan điểm duy vật biện chứng, sự phát triển của trí tuệ không chỉ chịu sự chế ước của yếu tố văn hóa - xã hội mà còn chịu ảnh hưởng to lớn của yếu tố sinh học của cơ thể."
+        },
+        {
+          "id": 94,
+          "text": "Theo hướng dạy học phát triển trí tuệ dựa trên thuyết \"Trí tuệ đa nhân tố\" (H. Gardner), bước ĐẦU TIÊN để phát triển một loại hình tiềm năng trí tuệ cho người học là gì?",
+          "options": [
+            "Phải làm quen với những phương pháp thúc đẩy, hiện thực hóa tiềm năng.",
+            "Phải loại bỏ những cản trở trên con đường phát triển tiềm năng.",
+            "Phải có cơ hội làm việc với những người thầy giỏi.",
+            "Phải có sự cam kết cá nhân để phát triển tiềm năng."
+          ],
+          "correctIndex": 1,
+          "explain": "Dạy học theo thuyết trí tuệ đa nhân tố cần ít nhất 4 bước. Bước 1 đầu tiên là: Phải loại bỏ những cản trở trên con đường phát triển tiềm năng. Sau đó mới đến làm quen phương pháp, làm việc với thầy giỏi và cam kết cá nhân."
+        },
+        {
+          "id": 95,
+          "text": "Trong giáo dục trí tuệ cảm xúc cho học sinh (theo D. Goleman), việc rèn luyện cho học sinh \"tăng cường năng lực tập trung chú ý cao hơn, ít bốc đồng hơn, làm chủ bản thân\" thuộc về nội dung giáo dục nào?",
+          "options": [
+            "Ý thức về xúc cảm của bản thân.",
+            "Chế ngự xúc cảm.",
+            "Sử dụng có ích các xúc cảm.",
+            "Tăng cường sự đồng cảm."
+          ],
+          "correctIndex": 2,
+          "explain": "Daniel Goleman chỉ ra rằng nội dung \"Sử dụng có ích các xúc cảm\" chính là việc hướng dẫn học sinh tăng cường năng lực tập trung chú ý cao hơn, ít bốc đồng hơn và biết cách làm chủ bản thân."
+        },
+        {
+          "id": 96,
+          "text": "Trí tuệ xã hội (Social Intelligence) của con người ĐƯỢC HÌNH THÀNH chủ yếu thông qua con đường nào?",
+          "options": [
+            "Di truyền sinh lý từ thế hệ trước quy định sẵn.",
+            "Quá trình cá nhân tham gia vào các hoạt động có tương tác xã hội.",
+            "Quá trình tự suy ngẫm độc lập trong môi trường khép kín.",
+            "Đọc thật nhiều sách lý thuyết về kỹ năng giao tiếp."
+          ],
+          "correctIndex": 1,
+          "explain": "Trí tuệ xã hội không có sẵn bẩm sinh mà được hình thành, phát triển trong quá trình cá nhân tham gia vào các hoạt động có tương tác xã hội, và nó chịu sự chế ước to lớn của đời sống xã hội, bối cảnh kinh tế, văn hóa."
+        },
+        {
+          "id": 97,
+          "text": "Theo mô hình dạy học điều kiện hóa cổ điển (đại diện J. Watson), để duy trì hoặc dập tắt một hành vi đã có của người học, người giáo viên cần phải làm gì?",
+          "options": [
+            "Củng cố hoặc làm mất các điều kiện tạo ra kích thích.",
+            "Giải quyết mâu thuẫn giữa \"cái tôi muốn\" và \"cái tôi có thể\".",
+            "Xây dựng một cấu trúc nhận thức mới trong bộ não học sinh.",
+            "Hình thành thế giới quan khoa học."
+          ],
+          "correctIndex": 0,
+          "explain": "Theo nguyên lý của điều kiện hóa cổ điển, việc hình thành và củng cố các hành vi được điều khiển trực tiếp bởi kích thích. Do đó, việc duy trì hoặc dập tắt hành vi đã có thực hiện bằng cách củng cố hoặc làm mất các điều kiện tạo ra kích thích."
+        },
+        {
+          "id": 98,
+          "text": "Khi nhận định \"Hoạt động học được điều khiển một cách có ý thức nhằm tiếp thu tri thức\", cụm từ \"được điều khiển\" nhấn mạnh đến trách nhiệm của đối tượng nào?",
+          "options": [
+            "Ban giám hiệu nhà trường.",
+            "Chủ thể người học (tự điều khiển bản thân hoàn toàn).",
+            "Chủ thể người dạy (giáo viên).",
+            "Phụ huynh học sinh."
+          ],
+          "correctIndex": 2,
+          "explain": "Cụm từ “được điều khiển” mang ý nghĩa bị động, cho thấy có một chủ thể bên ngoài điều khiển, đó chính là người dạy (giáo viên). Nó nhắc nhở rằng giáo viên phải có ý thức rõ trách nhiệm của mình trong việc tổ chức, thiết kế các nhiệm vụ học tập cho học sinh."
+        },
+        {
+          "id": 99,
+          "text": "Theo lý thuyết hoạt động, động cơ học tập của học sinh được hình thành như thế nào?",
+          "options": [
+            "Động cơ học tập có sẵn ngay từ khi học sinh ra đời.",
+            "Động cơ tự động xuất hiện khi học sinh cầm sách giáo khoa lên đọc.",
+            "Động cơ học tập không tự có mà phải được hình thành dần dần trong quá trình học sinh tham gia chiếm lĩnh đối tượng học tập dưới sự tổ chức, điều khiển của giáo viên.",
+            "Động cơ chỉ được hình thành khi phụ huynh hứa tặng phần thưởng vật chất."
+          ],
+          "correctIndex": 2,
+          "explain": "Động cơ học tập không tự có mà chúng phải được hình thành dần dần trong quá trình học sinh tham gia chiếm lĩnh đối tượng học tập (tri thức, kỹ năng) dưới sự tổ chức và điều khiển của giáo viên."
+        },
+        {
+          "id": 100,
+          "text": "Theo Tâm lý học giáo dục, điều kiện chủ quan QUAN TRỌNG ĐẦU TIÊN mà học sinh cần có để hình thành được \"Kỹ năng\" giải quyết bài tập là gì?",
+          "options": [
+            "Phải có năng khiếu bẩm sinh xuất sắc về môn học đó.",
+            "Phải được thực hành hành động đó một cách tự động hóa, không cần suy nghĩ.",
+            "Cần có những tri thức sâu sắc, vững chắc về kiến thức, khái niệm và phương pháp tương ứng (vì kỹ năng là sản phẩm của tri thức).",
+            "Cần có sự giám sát liên tục 24/24 của phụ huynh."
+          ],
+          "correctIndex": 2,
+          "explain": "Kỹ năng phải được hiểu trước hết là sản phẩm của tri thức. Để hình thành kỹ năng, học sinh cần có tri thức sâu sắc, nắm vững những tri thức, khái niệm và phương pháp tương ứng để từ đó vận dụng vào giải quyết nhiệm vụ thực tiễn."
+        }
+      ]
+    },
+    {
       "id": "exam-final-1",
       "type": "final",
       "chapter": "Đề Tổng Hợp",
