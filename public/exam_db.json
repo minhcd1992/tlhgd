@@ -108,19 +108,728 @@
       "id": "exam-ch1",
       "type": "chapter",
       "chapter": "Chương 1",
-      "title": "Ôn tập: Khái quát TLH Giáo dục",
+      "title": "Ôn tập: Nhập môn Tâm lý học Giáo dục",
       "time": 900,
       "questions": [
         {
           "id": 1,
-          "text": "Yếu tố nào giữ vai trò chủ đạo trong sự phát triển tâm lý con người?",
+          "text": "Đối tượng nghiên cứu chính của Tâm lý học giáo dục là gì?",
           "options": [
-            "Bẩm sinh, di truyền",
-            "Môi trường sống",
-            "Giáo dục",
-            "Hoạt động cá nhân"
+            "Sự phát triển tâm lý của cá nhân qua các giai đoạn lứa tuổi từ bào thai đến tuổi già.",
+            "Các quy luật nảy sinh, biến đổi, phát triển của các hiện tượng tâm lý trong quá trình dạy học và giáo dục.",
+            "Các hiện tượng tâm lý đám đông, dư luận xã hội trong học đường.",
+            "Bản chất sinh lý của các hiện tượng tâm lý người."
           ],
-          "correctIndex": 2
+          "correctIndex": 1,
+          "explain": "Tâm lý học giáo dục nghiên cứu các quy luật nảy sinh, biến đổi, phát triển của các hiện tượng tâm lý trong quá trình dạy học, giáo dục cũng như mối quan hệ giữa sự phát triển tâm lý cá nhân với các điều kiện khác nhau của quá trình này."
+        },
+        {
+          "id": 2,
+          "text": "Đâu KHÔNG phải là nhiệm vụ nghiên cứu của Tâm lý học giáo dục?",
+          "options": [
+            "Xác định cơ sở tâm lý học của hoạt động dạy học và giáo dục.",
+            "Xác định quy luật lĩnh hội tri thức, kỹ năng, kỹ xảo của người học.",
+            "Nghiên cứu, phát minh ra các thiết bị công nghệ và cơ sở vật chất mới cho trường học.",
+            "Cung cấp cơ sở tâm lý cho các hoạt động giáo dục gia đình và cộng đồng."
+          ],
+          "correctIndex": 2,
+          "explain": "Việc phát triển công nghệ hay cơ sở vật chất không thuộc nhiệm vụ nghiên cứu của Tâm lý học giáo dục."
+        },
+        {
+          "id": 3,
+          "text": "Nhà tâm lý học nào sau đây là người tiên phong đặt nền móng cho Tâm lý học giáo dục bằng cách ứng dụng lý thuyết hành vi và nghiên cứu thực nghiệm?",
+          "options": [
+            "Jean Piaget.",
+            "William James.",
+            "Alfred Binet.",
+            "Edward Thorndike."
+          ],
+          "correctIndex": 3,
+          "explain": "Edward Thorndike – nhà Tâm lý học hành vi nổi tiếng, là một trong những người tiên phong đặt nền móng cho Tâm lý học giáo dục bằng việc tiến hành các nghiên cứu thực nghiệm và xây dựng các mô hình học tập."
+        },
+        {
+          "id": 4,
+          "text": "Thành tựu nghiên cứu của chuyên ngành Tâm lý học nào tạo ra nền tảng giúp giáo viên thiết kế hoạt động dạy học, giáo dục phù hợp với từng lứa tuổi?",
+          "options": [
+            "Tâm lý học nhận thức.",
+            "Tâm lý học phát triển.",
+            "Tâm lý học xã hội.",
+            "Tâm lý học lâm sàng."
+          ],
+          "correctIndex": 1,
+          "explain": "Tâm lý học phát triển nghiên cứu tâm lý qua từng giai đoạn lứa tuổi, cung cấp cơ sở để hoạt động dạy học, giáo dục phù hợp với đặc điểm của từng thời kỳ phát triển."
+        },
+        {
+          "id": 5,
+          "text": "Trong Tâm lý học giáo dục hiện đại, 3 khuynh hướng nghiên cứu cơ bản bao gồm:",
+          "options": [
+            "Nghiên cứu mô tả, nghiên cứu tương quan, nghiên cứu thực nghiệm.",
+            "Nghiên cứu quan sát, nghiên cứu phỏng vấn, nghiên cứu trắc nghiệm.",
+            "Nghiên cứu thực nghiệm, nghiên cứu trường hợp, nghiên cứu lịch sử.",
+            "Nghiên cứu mô tả, nghiên cứu xã hội học, nghiên cứu hành vi."
+          ],
+          "correctIndex": 0,
+          "explain": "Trong Tâm lý học giáo dục hiện đại, có 3 khuynh hướng nghiên cứu cơ bản là nghiên cứu mô tả, nghiên cứu tương quan và nghiên cứu thực nghiệm."
+        },
+        {
+          "id": 6,
+          "text": "Đặc điểm nổi bật của phương pháp quan sát là gì?",
+          "options": [
+            "Sử dụng các câu hỏi đã được chuẩn hóa để đo lường.",
+            "Cho phép xác nhận mối quan hệ nhân quả.",
+            "Tri giác có chủ định và ghi chép lại các hành vi, cử chỉ, lời nói của khách thể.",
+            "Phân tích chuyên sâu về một cá nhân hay một tập thể."
+          ],
+          "correctIndex": 2,
+          "explain": "Quan sát là phương pháp thu thập dữ liệu bằng cách tri giác có chủ định và ghi chép lại các hành vi, cử chỉ, hành động, lời nói của khách thể."
+        },
+        {
+          "id": 7,
+          "text": "Phương pháp trắc nghiệm trong Tâm lý học giáo dục đòi hỏi công cụ nghiên cứu phải đáp ứng tối thiểu 3 yêu cầu nào sau đây?",
+          "options": [
+            "Độ dài, độ khó và độ phân biệt.",
+            "Độ tin cậy, độ phổ biến và tính dễ sử dụng.",
+            "Độ tin cậy, độ giá trị (hiệu lực) và được chuẩn hóa.",
+            "Tính khách quan, tính chủ quan và tính thực tiễn."
+          ],
+          "correctIndex": 2,
+          "explain": "Trắc nghiệm là phương pháp sử dụng công cụ đã được tiêu chuẩn hóa, đòi hỏi tối thiểu 3 yêu cầu: độ tin cậy, độ giá trị và được chuẩn hóa."
+        },
+        {
+          "id": 8,
+          "text": "Nếu một nhà nghiên cứu muốn tìm hiểu chuyên sâu, chi tiết và phong phú về một học sinh cá biệt trong lớp, họ nên sử dụng phương pháp nào?",
+          "options": [
+            "Phương pháp trắc nghiệm.",
+            "Phương pháp điều tra bằng phiếu hỏi.",
+            "Phương pháp nghiên cứu tương quan.",
+            "Phương pháp nghiên cứu trường hợp."
+          ],
+          "correctIndex": 3,
+          "explain": "Nghiên cứu trường hợp là phương pháp tìm hiểu và phân tích chuyên sâu một trường hợp nhất định (một cá nhân, tập thể, lớp học...), cung cấp thông tin sống động, phong phú."
+        },
+        {
+          "id": 9,
+          "text": "Điểm khác biệt quan trọng nhất giữa nghiên cứu tương quan và nghiên cứu thực nghiệm là gì?",
+          "options": [
+            "Nghiên cứu tương quan cho phép xác định mối quan hệ nhân quả, còn thực nghiệm thì không.",
+            "Nghiên cứu thực nghiệm cho phép kiểm chứng và xác định mối quan hệ nhân quả, còn nghiên cứu tương quan thì không.",
+            "Nghiên cứu tương quan thao tác trực tiếp lên biến số độc lập, còn thực nghiệm thì không.",
+            "Cả hai nghiên cứu đều không thể đưa ra dự báo."
+          ],
+          "correctIndex": 1,
+          "explain": "Nghiên cứu tương quan chỉ mô tả mối liên hệ giữa các biến số để đưa ra dự báo nhưng không xác nhận quan hệ nhân quả. Trong khi đó, thực nghiệm thao tác biến độc lập để xác định mối quan hệ nhân quả lên biến phụ thuộc."
+        },
+        {
+          "id": 10,
+          "text": "Trong phương pháp nghiên cứu thực nghiệm, \"biến độc lập\" được hiểu là:",
+          "options": [
+            "Biến số chịu ảnh hưởng của các yếu tố khác.",
+            "Biến số kết quả mà nhà nghiên cứu muốn đo lường.",
+            "Biến số được nhà nghiên cứu thao tác, thay đổi một cách có chủ ý để xem xét tác động của nó.",
+            "Biến số gây nhiễu trong quá trình nghiên cứu."
+          ],
+          "correctIndex": 2,
+          "explain": "Biến độc lập là biến số được nhà nghiên cứu thao tác một cách có chủ ý trong quá trình thực nghiệm, còn biến phụ thuộc là biến số được giả định chịu tác động của biến độc lập."
+        },
+        {
+          "id": 11,
+          "text": "Thành tựu nghiên cứu của chuyên ngành Tâm lý học nào tạo ra cơ sở để người dạy tổ chức hoạt động dạy học, giáo dục dựa vào nhóm, vào tập thể và sử dụng tập thể như một môi trường, phương tiện giáo dục hiệu quả?",
+          "options": [
+            "Tâm lý học phát triển.",
+            "Tâm lý học nhận thức.",
+            "Tâm lý học khác biệt.",
+            "Tâm lý học xã hội."
+          ],
+          "correctIndex": 3,
+          "explain": "Tâm lý học xã hội nghiên cứu đặc điểm tâm lý của nhóm xã hội, cung cấp cơ sở để người dạy tổ chức dạy học, hỗ trợ tâm lý dựa vào nhóm, tập thể."
+        },
+        {
+          "id": 12,
+          "text": "Việc ứng dụng các kết quả nghiên cứu của Tâm lý học khác biệt giúp ích gì cho Tâm lý học giáo dục?",
+          "options": [
+            "Giúp tìm hiểu các quy luật nhận thức chung của con người để tổ chức dạy học.",
+            "Bổ sung cơ sở lý luận và đưa ra biện pháp nâng cao chất lượng dạy học đặt trọng tâm vào cá nhân, đảm bảo sự phát triển tối ưu cho người học.",
+            "Cung cấp nền tảng lý thuyết về sự phát triển tâm lý theo từng giai đoạn lứa tuổi.",
+            "Giúp xác định các giai đoạn khủng hoảng tâm lý ở người học."
+          ],
+          "correctIndex": 1,
+          "explain": "Tâm lý học khác biệt nghiên cứu sự khác biệt tâm lý giữa các cá nhân, từ đó giúp Tâm lý học giáo dục cá biệt hóa quá trình dạy học, hướng đến sự phát triển toàn diện và tối ưu cho từng người học."
+        },
+        {
+          "id": 13,
+          "text": "Phân tích vai trò của Tâm lý học phát triển đối với Tâm lý học giáo dục, nhận định nào dưới đây là chính xác nhất?",
+          "options": [
+            "Tâm lý học phát triển chỉ cung cấp kiến thức về đặc điểm tuổi học sinh.",
+            "Tâm lý học phát triển giúp hiểu rõ các giai đoạn phát triển để thiết kế hoạt động dạy học phù hợp với từng độ tuổi.",
+            "Tâm lý học phát triển nghiên cứu sâu hơn về nhận thức học đường.",
+            "Tâm lý học phát triển thay thế hoàn toàn vai trò của Tâm lý học giáo dục."
+          ],
+          "correctIndex": 1,
+          "explain": "Thành tựu của Tâm lý học phát triển tạo nền tảng để Tâm lý học giáo dục thiết kế, tổ chức các hoạt động dạy học, hỗ trợ tâm lý phù hợp với đặc điểm của từng lứa tuổi."
+        },
+        {
+          "id": 14,
+          "text": "Nhà giáo dục học, tâm lý học nào được xem là người sáng lập ra nền Tâm lý học giáo dục Liên Bang Nga với tác phẩm nổi tiếng \"Con người là đối tượng của giáo dục\"?",
+          "options": [
+            "L.S. Vygotsky.",
+            "A.N. Leontiev.",
+            "K.D. Usinxki.",
+            "J. Piaget."
+          ],
+          "correctIndex": 2,
+          "explain": "K.D. Usinxki (1824 - 1870) là nhà giáo dục dân chủ Nga vĩ đại, người sáng lập ra nền Tâm lý học giáo dục Liên Bang Nga với tác phẩm kinh điển \"Con người là đối tượng của giáo dục\" xuất bản năm 1867."
+        },
+        {
+          "id": 15,
+          "text": "Alfred Binet đã có đóng góp quan trọng nào cho Tâm lý học giáo dục trong giai đoạn 1879 - 1920?",
+          "options": [
+            "Xây dựng lý thuyết kiến tạo nhận thức.",
+            "Sáng tạo ra trắc nghiệm trí tuệ đầu tiên để đánh giá và phân biệt trẻ có trí tuệ bình thường với trẻ chậm phát triển.",
+            "Đề xuất mô hình học tập khám phá.",
+            "Ứng dụng thuyết hành vi vào dạy học chương trình hóa."
+          ],
+          "correctIndex": 1,
+          "explain": "Alfred Binet là tác giả của trắc nghiệm trí tuệ đầu tiên (thang đo Binet – Simon) giúp phân loại trí tuệ trẻ em và nhấn mạnh giáo viên cần nhận thức được sự khác biệt của người học."
+        },
+        {
+          "id": 16,
+          "text": "Đặc điểm nổi bật của phương pháp điều tra bằng phiếu hỏi trong nghiên cứu Tâm lý học giáo dục là gì?",
+          "options": [
+            "Cung cấp dữ liệu chi tiết, chuyên sâu về một cá nhân cụ thể.",
+            "Cho phép xác định mối quan hệ nhân quả giữa các biến số.",
+            "Thu thập ý kiến chủ quan của một số đông khách thể, trên diện rộng, trong thời gian ngắn.",
+            "Thu thập dữ liệu trực tiếp bằng cách ghi chép lại hành vi, cử chỉ của khách thể."
+          ],
+          "correctIndex": 2,
+          "explain": "Điều tra bằng phiếu hỏi giúp thu thập thông tin trên diện rộng trong thời gian ngắn, mang tính chủ động cao nhưng dữ liệu thu được thường là ý kiến chủ quan của khách thể."
+        },
+        {
+          "id": 17,
+          "text": "Điểm khác biệt cơ bản giữa phương pháp quan sát và phương pháp điều tra bằng phiếu hỏi trong nghiên cứu Tâm lý học giáo dục là:",
+          "options": [
+            "Quan sát mang tính chủ quan cao, phiếu hỏi thì khách quan tuyệt đối.",
+            "Quan sát chủ yếu áp dụng với nhóm, phiếu hỏi chỉ áp dụng cá nhân.",
+            "Quan sát thu thập hành vi trực tiếp, phiếu hỏi thu thập ý kiến chủ quan.",
+            "Quan sát được dùng cho học sinh, phiếu hỏi dùng cho giáo viên."
+          ],
+          "correctIndex": 2,
+          "explain": "Phương pháp quan sát tri giác và ghi chép lại hành vi trực tiếp của khách thể, trong khi điều tra bằng phiếu hỏi thu thập ý kiến, quan điểm chủ quan của họ thông qua các câu hỏi."
+        },
+        {
+          "id": 18,
+          "text": "Nếu một nhà nghiên cứu muốn tìm hiểu mối liên hệ giữa mức độ tự tin và kết quả học tập của học sinh, phương pháp nghiên cứu nào là phù hợp nhất?",
+          "options": [
+            "Phương pháp nghiên cứu tương quan.",
+            "Phương pháp nghiên cứu mô tả.",
+            "Phương pháp nghiên cứu thực nghiệm.",
+            "Phương pháp phỏng vấn sâu."
+          ],
+          "correctIndex": 0,
+          "explain": "Nghiên cứu tương quan tập trung mô tả mối liên hệ giữa hai hay nhiều biến số (ở đây là \"mức độ tự tin\" và \"kết quả học tập\") để đưa ra dự báo, nhưng không xác nhận quan hệ nhân quả."
+        },
+        {
+          "id": 19,
+          "text": "Phân tích sự khác biệt về dữ liệu thu được giữa nghiên cứu trường hợp và nghiên cứu tương quan trong Tâm lý học giáo dục cho thấy:",
+          "options": [
+            "Trường hợp cung cấp dữ liệu định lượng, tương quan cung cấp dữ liệu định tính.",
+            "Trường hợp đi sâu vào một cá nhân/tập thể, tương quan xử lý mối liên hệ giữa các biến trên diện rộng.",
+            "Trường hợp mang tính bao quát, tương quan mang tính cụ thể.",
+            "Trường hợp chỉ dùng cho học sinh yếu, tương quan dùng cho học sinh khá."
+          ],
+          "correctIndex": 1,
+          "explain": "Nghiên cứu trường hợp đi sâu phân tích một trường hợp cụ thể (cá nhân, tập thể) mang lại dữ liệu phong phú, sống động. Còn nghiên cứu tương quan xác định mối liên hệ giữa các biến số, thường được tiến hành trên tập khách thể rộng lớn hơn."
+        },
+        {
+          "id": 20,
+          "text": "Khi thiết kế bài giảng, giáo viên muốn đo lường khả năng ghi nhớ từ vựng tiếng Anh của học sinh một cách khách quan, được tiêu chuẩn hóa. Phương pháp phù hợp nhất là:",
+          "options": [
+            "Phương pháp trắc nghiệm.",
+            "Phương pháp phỏng vấn.",
+            "Phương pháp quan sát.",
+            "Phương pháp nghiên cứu trường hợp."
+          ],
+          "correctIndex": 0,
+          "explain": "Trắc nghiệm là phương pháp sử dụng công cụ đã được tiêu chuẩn hóa để đo lường tâm lý một cách khách quan, đáp ứng các yêu cầu về độ tin cậy và độ giá trị."
+        },
+        {
+          "id": 21,
+          "text": "Đối tượng nghiên cứu của Tâm lý học giáo dục KHÔNG PHẢI là:",
+          "options": [
+            "Các quy luật nảy sinh, biến đổi của các hiện tượng tâm lý trong quá trình dạy học và giáo dục.",
+            "Sự phát triển của các hiện tượng tâm lý trong quá trình dạy học và giáo dục.",
+            "Mối quan hệ giữa sự phát triển tâm lý cá nhân với các điều kiện khác nhau của quá trình dạy học và giáo dục.",
+            "Bản chất và các quy luật của quá trình giáo dục con người."
+          ],
+          "correctIndex": 3,
+          "explain": "Tâm lý học giáo dục nghiên cứu các quy luật nảy sinh, biến đổi, phát triển của các hiện tượng tâm lý trong quá trình dạy học, giáo dục, chứ không nghiên cứu bản chất và quy luật của chính quá trình giáo dục con người (đây là đối tượng của Giáo dục học)."
+        },
+        {
+          "id": 22,
+          "text": "Các nhiệm vụ nghiên cứu của Tâm lý học giáo dục được thực hiện nhằm mục đích bao trùm nào dưới đây?",
+          "options": [
+            "Đảm bảo sự phát triển tối ưu của người học.",
+            "Đảm bảo hiệu quả của việc triển khai các kỹ thuật dạy học.",
+            "Đảm bảo các nguyên tắc trong giao tiếp sư phạm.",
+            "Đảm bảo quá trình dạy học được hiệu quả."
+          ],
+          "correctIndex": 0,
+          "explain": "Mọi nhiệm vụ nghiên cứu của Tâm lý học giáo dục, từ việc xác định quy luật lĩnh hội tri thức đến cơ sở tâm lý của hoạt động dạy học, đều nhằm mục đích cuối cùng là đảm bảo sự phát triển tối ưu của người học."
+        },
+        {
+          "id": 23,
+          "text": "Nhận định nào dưới đây là ĐÚNG khi nói về vị trí của Tâm lý học giáo dục?",
+          "options": [
+            "Tâm lý học giáo dục là một ngành độc lập và không có quan hệ gì với các chuyên ngành Tâm lý học khác.",
+            "Tâm lý học giáo dục chỉ có quan hệ với một số chuyên ngành như Tâm lý học xuyên văn hóa, Tâm lý học trị liệu...",
+            "Tâm lý học giáo dục có mối quan hệ với nhiều chuyên ngành khác nhưng không thể sử dụng kết quả từ các ngành đó.",
+            "Tâm lý học giáo dục có mối quan hệ với nhiều chuyên ngành Tâm lý học khác nhưng đối tượng và nhiệm vụ của mỗi chuyên ngành lại khác nhau."
+          ],
+          "correctIndex": 3,
+          "explain": "Tâm lý học giáo dục có mối quan hệ mật thiết với các chuyên ngành như Tâm lý học phát triển, Tâm lý học nhận thức, Tâm lý học xã hội... nhưng mỗi ngành vẫn giữ đối tượng và nhiệm vụ nghiên cứu đặc thù của riêng mình."
+        },
+        {
+          "id": 24,
+          "text": "Nội dung nào dưới đây KHÔNG thuộc đối tượng nghiên cứu của Tâm lý học giáo dục?",
+          "options": [
+            "Những khó khăn tâm lý thường gặp của học sinh.",
+            "Con đường giáo dục đạo đức cho học sinh.",
+            "Mối quan hệ giữa hoạt động dạy và hoạt động học.",
+            "Đặc điểm phát triển cá nhân qua các giai đoạn lứa tuổi."
+          ],
+          "correctIndex": 3,
+          "explain": "Đặc điểm phát triển cá nhân qua các giai đoạn lứa tuổi là đối tượng nghiên cứu chính của Tâm lý học phát triển. Tâm lý học giáo dục chỉ sử dụng thành tựu này để làm nền tảng cho việc tổ chức dạy học phù hợp."
+        },
+        {
+          "id": 25,
+          "text": "Chọn phát biểu KHÔNG ĐÚNG về phương pháp thực nghiệm trong nghiên cứu Tâm lý học giáo dục:",
+          "options": [
+            "Biến phụ thuộc là biến số được giả định chịu ảnh hưởng, tác động của biến độc lập.",
+            "Biến phụ thuộc là biến số được nhà nghiên cứu thao tác một cách có chủ ý trong quá trình thực nghiệm.",
+            "Phương pháp này cho phép xác nhận một mối quan hệ mang tính nhân quả.",
+            "Nhóm thực nghiệm là nhóm khách thể nhận được những điều kiện hoặc sự kiện đặc biệt (biến độc lập)."
+          ],
+          "correctIndex": 1,
+          "explain": "Trong phương pháp thực nghiệm, biến độc lập mới là biến số được nhà nghiên cứu điều khiển/thao tác một cách có chủ ý, còn biến phụ thuộc là biến số chịu tác động của biến độc lập."
+        },
+        {
+          "id": 26,
+          "text": "Điều nào sau đây ĐÚNG khi nói về phương pháp nghiên cứu tương quan trong Tâm lý học giáo dục?",
+          "options": [
+            "Có thể đưa ra dự báo về sự biến thiên của một biến số này dựa trên thông tin có được từ một biến số khác.",
+            "Xác nhận một mối quan hệ mang tính nhân quả vững chắc.",
+            "Mối tương quan thuận cho thấy một yếu tố tăng thì yếu tố còn lại giảm.",
+            "Mối tương quan nghịch cho thấy hai yếu tố tăng hoặc giảm cùng nhau."
+          ],
+          "correctIndex": 0,
+          "explain": "Nghiên cứu tương quan tập trung mô tả mối liên hệ giữa hai hay nhiều biến số để đưa ra dự báo, nhưng không xác nhận quan hệ nhân quả. Mối tương quan thuận là hai yếu tố cùng tăng/giảm, tương quan nghịch là một tăng một giảm."
+        },
+        {
+          "id": 27,
+          "text": "Để đảm bảo tính khoa học của kết quả nghiên cứu trong lĩnh vực Tâm lý học giáo dục, người nghiên cứu cần phải làm gì?",
+          "options": [
+            "Lựa chọn phương pháp nghiên cứu phù hợp với mục đích nghiên cứu.",
+            "Sử dụng phối hợp, đồng bộ các phương pháp nghiên cứu.",
+            "Tuân thủ các chuẩn mực đạo đức trong nghiên cứu.",
+            "Tất cả các phương án trên đều đúng."
+          ],
+          "correctIndex": 3,
+          "explain": "Để đảm bảo tính khoa học, nhà nghiên cứu không chỉ dùng một phương pháp mà cần lựa chọn, phối hợp đồng bộ các phương pháp và phải tuân thủ nghiêm ngặt chuẩn mực đạo đức."
+        },
+        {
+          "id": 28,
+          "text": "Phương pháp nghiên cứu nào thu thập dữ liệu thông qua việc hỏi và đáp giữa nhà nghiên cứu và khách thể, trong đó sử dụng những câu hỏi có định hướng để thu thập thông tin?",
+          "options": [
+            "Phương pháp quan sát.",
+            "Phương pháp điều tra bằng phiếu hỏi.",
+            "Phương pháp phỏng vấn.",
+            "Phương pháp nghiên cứu trường hợp."
+          ],
+          "correctIndex": 2,
+          "explain": "Phương pháp phỏng vấn là phương pháp thu thập dữ liệu thông qua việc hỏi và đáp trực tiếp hoặc gián tiếp, sử dụng câu hỏi có định hướng và mục đích để lấy thông tin."
+        },
+        {
+          "id": 29,
+          "text": "Nhiệm vụ nào của Tâm lý học giáo dục liên quan trực tiếp đến việc xây dựng môi trường học đường lành mạnh?",
+          "options": [
+            "Nghiên cứu các phương pháp giảng dạy sáng tạo.",
+            "Xác định cơ sở tâm lý của việc xây dựng mối quan hệ giữa người dạy, người học, gia đình và các lực lượng giáo dục khác.",
+            "Đánh giá chất lượng giáo dục và đào tạo.",
+            "Phát triển công cụ hỗ trợ dạy học."
+          ],
+          "correctIndex": 1,
+          "explain": "Một trong những nhiệm vụ của Tâm lý học giáo dục là xác định cơ sở tâm lý để điều khiển quá trình dạy học và xây dựng mối quan hệ giữa người dạy - người học, gia đình, nhà trường và các lực lượng giáo dục khác."
+        },
+        {
+          "id": 30,
+          "text": "Phương pháp nghiên cứu nào mang tính phổ biến nhất trong Tâm lý học nói chung và Tâm lý học giáo dục nói riêng để thu thập ý kiến chủ quan trên diện rộng trong thời gian ngắn?",
+          "options": [
+            "Phương pháp quan sát.",
+            "Phương pháp điều tra bằng phiếu hỏi.",
+            "Phương pháp phỏng vấn.",
+            "Phương pháp trắc nghiệm."
+          ],
+          "correctIndex": 1,
+          "explain": "Điều tra bằng phiếu hỏi là phương pháp phổ biến cho phép thu thập ý kiến chủ quan của một số đông khách thể, trên diện rộng và trong thời gian ngắn."
+        },
+        {
+          "id": 31,
+          "text": "Theo quan điểm của nhà giáo dục học John Dewey, bản chất của giáo dục là gì?",
+          "options": [
+            "Là sự áp đặt kỷ luật của người lớn lên trẻ em để hình thành thói quen.",
+            "Là sự truyền thụ những kinh nghiệm xã hội lịch sử của thế hệ trước cho thế hệ sau.",
+            "Là quá trình trẻ em tự tìm hiểu thế giới mà không cần đến sự hướng dẫn.",
+            "Là quá trình nhồi nhét tri thức sách vở vào đầu học sinh."
+          ],
+          "correctIndex": 1,
+          "explain": "John Dewey nhấn mạnh giáo dục phải hướng đến người học, bản chất của giáo dục là sự truyền thụ những kinh nghiệm xã hội lịch sử của thế hệ trước cho thế hệ sau và việc học phải thông qua trải nghiệm thực sự - học đi đôi với hành."
+        },
+        {
+          "id": 32,
+          "text": "Lý thuyết nào của Jean Piaget có ảnh hưởng mạnh mẽ và tạo cảm hứng cho sự phát triển của Tâm lý học giáo dục hiện đại?",
+          "options": [
+            "Lý thuyết phân tâm học.",
+            "Lý thuyết hành vi tạo tác.",
+            "Lý thuyết kiến tạo nhận thức.",
+            "Lý thuyết học tập xã hội."
+          ],
+          "correctIndex": 2,
+          "explain": "Jean Piaget và lý thuyết kiến tạo nhận thức của ông có ảnh hưởng mạnh mẽ đến Tâm lý học giáo dục, bởi ông là người đầu tiên nhấn mạnh vai trò của sự phát triển nhận thức trong quá trình phát triển cá nhân, làm nền tảng cho nhiều nghiên cứu hiện đại."
+        },
+        {
+          "id": 33,
+          "text": "Nhà tâm lý học Benjamin Bloom nổi tiếng với công trình nghiên cứu về lĩnh vực nào mang lại tiếng vang lớn trong cộng đồng giáo dục quốc tế?",
+          "options": [
+            "Xây dựng mô hình học tập khám phá.",
+            "Xây dựng thang đo trí tuệ đầu tiên.",
+            "Cách thức phân loại các mục tiêu giáo dục.",
+            "Ứng dụng thuyết điều kiện hóa hành vi vào học tập."
+          ],
+          "correctIndex": 2,
+          "explain": "Benjamin Bloom đã dành hơn 50 năm nghiên cứu và nổi tiếng nhất với việc phân loại các mục tiêu giáo dục, được ứng dụng rộng rãi trên toàn thế giới."
+        },
+        {
+          "id": 34,
+          "text": "Nguyên tắc cơ bản trong phương pháp giáo dục của nhà sư phạm A.X. Makarenko là gì?",
+          "options": [
+            "Giáo dục dựa trên sự trừng phạt răn đe.",
+            "Giáo dục bằng tập thể và thông qua tập thể.",
+            "Giáo dục theo hướng tự do tuyệt đối để bộc lộ cá tính.",
+            "Giáo dục chỉ thông qua lý thuyết và đọc sách."
+          ],
+          "correctIndex": 1,
+          "explain": "Nguyên tắc cơ bản trong phương pháp giáo dục của A.X. Makarenko khi đào tạo hàng ngàn thanh niên là \"Giáo dục bằng tập thể và thông qua tập thể\", kết hợp \"Giáo dục trong lao động và trong kỷ luật\"."
+        },
+        {
+          "id": 35,
+          "text": "Sự kiện nào gắn với tên tuổi của L.S. Vygotsky đánh dấu bước ngoặt trong lịch sử phát triển của Tâm lý học giáo dục vào năm 1926?",
+          "options": [
+            "Ông chế tạo ra bộ trắc nghiệm đo lường trí thông minh.",
+            "Ông xuất bản cuốn sách mang tên \"Tâm lý học giáo dục\".",
+            "Ông đề xuất ra khái niệm \"Vùng phát triển gần nhất\".",
+            "Ông thành lập trung tâm tham vấn học đường đầu tiên."
+          ],
+          "correctIndex": 1,
+          "explain": "Cùng với sự ra đời của dòng tâm lý học hoạt động, L.S. Vygotsky đã xuất bản cuốn sách \"Tâm lý học giáo dục\" vào năm 1926, tạo bước ngoặt lớn cho chuyên ngành này."
+        },
+        {
+          "id": 36,
+          "text": "Trong Tâm lý học giáo dục, mục đích chính của khuynh hướng \"nghiên cứu mô tả\" là gì?",
+          "options": [
+            "Xác định nguyên nhân gốc rễ của các hiện tượng tâm lý.",
+            "Tìm hiểu, ghi nhận và mô tả biểu hiện đời sống tâm lý của cá nhân.",
+            "Thao tác trên các biến số để kiểm chứng giả thuyết nhân quả.",
+            "Đưa ra dự báo về sự biến thiên của biến số phụ thuộc."
+          ],
+          "correctIndex": 1,
+          "explain": "Mục đích của nghiên cứu mô tả là tìm hiểu, ghi nhận và mô tả biểu hiện đời sống tâm lý, nó giúp cung cấp thông tin quan trọng về hành vi nhưng không giúp xác định nguyên nhân hay bản chất của các hiện tượng đó."
+        },
+        {
+          "id": 37,
+          "text": "Dựa vào bối cảnh tiến hành, các nhà tâm lý học phân chia phương pháp thực nghiệm thành 3 loại nào?",
+          "options": [
+            "Thực nghiệm tự nhiên, thực nghiệm chủ quan, thực nghiệm khách quan.",
+            "Thực nghiệm trong phòng thí nghiệm, thực nghiệm tại thực địa và thực nghiệm tự nhiên.",
+            "Thực nghiệm mô tả, thực nghiệm tương quan, thực nghiệm giáo dục.",
+            "Thực nghiệm cấu trúc, thực nghiệm bán cấu trúc, thực nghiệm phi cấu trúc."
+          ],
+          "correctIndex": 1,
+          "explain": "Dựa vào bối cảnh tiến hành thực nghiệm, có thể phân chia thành 3 loại: thực nghiệm trong phòng thí nghiệm, thực nghiệm tại thực địa và thực nghiệm tự nhiên."
+        },
+        {
+          "id": 38,
+          "text": "Trong phương pháp nghiên cứu thực nghiệm, \"nhóm đối chứng\" (control group) được hiểu như thế nào?",
+          "options": [
+            "Là nhóm nhận được những điều kiện hoặc sự kiện đặc biệt từ nhà nghiên cứu.",
+            "Là nhóm thao tác trực tiếp lên biến số độc lập.",
+            "Là nhóm không được nhận điều kiện hoặc sự kiện đặc biệt và được dùng để so sánh với nhóm thực nghiệm.",
+            "Là nhóm chịu tác động trực tiếp nhằm thay đổi kết quả cuối cùng."
+          ],
+          "correctIndex": 2,
+          "explain": "Nhóm đối chứng là nhóm khách thể không được nhận điều kiện hoặc sự kiện đặc biệt (biến độc lập) và được sử dụng để so sánh kết quả với nhóm thực nghiệm."
+        },
+        {
+          "id": 39,
+          "text": "Dựa trên tiêu chí \"cách thức đánh giá\", phương pháp trắc nghiệm tâm lý được phân chia thành 2 nhóm nào?",
+          "options": [
+            "Trắc nghiệm trí tuệ và trắc nghiệm nhân cách.",
+            "Trắc nghiệm ngôn ngữ và trắc nghiệm phi ngôn ngữ.",
+            "Trắc nghiệm khách quan và trắc nghiệm phóng chiếu.",
+            "Trắc nghiệm toán học và trắc nghiệm thực cảnh."
+          ],
+          "correctIndex": 2,
+          "explain": "Trong phương pháp trắc nghiệm, nếu dựa trên cách thức đánh giá thì người ta phân chia thành 2 nhóm là trắc nghiệm khách quan và trắc nghiệm phóng chiếu."
+        },
+        {
+          "id": 40,
+          "text": "Đóng góp nổi bật của J. Bruner đối với Tâm lý học giáo dục là gì?",
+          "options": [
+            "Xây dựng mô hình học tập khám phá dựa trên lý thuyết kiến tạo nhận thức.",
+            "Nghiên cứu ra các quy luật di truyền chi phối trí thông minh.",
+            "Đề xuất lý thuyết hành vi tạo tác thông qua cơ chế \"thử và sai\".",
+            "Là người đầu tiên sử dụng phương pháp thực nghiệm trong lớp học."
+          ],
+          "correctIndex": 0,
+          "explain": "Jerome Bruner tập trung nghiên cứu, ứng dụng quan điểm của Piaget và chủ trương xây dựng mô hình học tập khám phá, yêu cầu người học tự đặt câu hỏi, khám phá, thử nghiệm để lĩnh hội tri thức."
+        },
+        {
+          "id": 41,
+          "text": "Phương pháp nghiên cứu nào được các nhà giáo dục, nhà nghiên cứu sử dụng trong lĩnh vực Tâm lý học giáo dục?",
+          "options": [
+            "Phương pháp thực nghiệm.",
+            "Phương pháp quan sát.",
+            "Phương pháp điều tra bằng bảng hỏi.",
+            "Cả 3 phương pháp trên."
+          ],
+          "correctIndex": 3,
+          "explain": "Trong Tâm lý học giáo dục, các nhà nghiên cứu thường sử dụng phối hợp và đồng bộ nhiều phương pháp nghiên cứu khác nhau như quan sát, thực nghiệm, điều tra bằng bảng hỏi, phỏng vấn, trắc nghiệm... để đảm bảo tính khách quan và khoa học."
+        },
+        {
+          "id": 42,
+          "text": "Tâm lý học giáo dục nghiên cứu những yếu tố nào ảnh hưởng trực tiếp đến hành vi ứng xử của người học?",
+          "options": [
+            "Các yếu tố kinh tế và chính trị.",
+            "Các yếu tố tâm lý, động cơ, thái độ.",
+            "Các yếu tố công nghệ và kỹ thuật.",
+            "Các yếu tố quản lý và tổ chức."
+          ],
+          "correctIndex": 1,
+          "explain": "Tâm lý học giáo dục đi sâu vào các hiện tượng tâm lý nảy sinh trong học đường, trong đó động cơ, thái độ và các thuộc tính tâm lý đóng vai trò quy định và ảnh hưởng trực tiếp đến hành vi ứng xử, học tập của người học."
+        },
+        {
+          "id": 43,
+          "text": "Một trong những nội dung nghiên cứu trọng tâm của Tâm lý học giáo dục là gì?",
+          "options": [
+            "Phát triển các công cụ quản lý giáo dục.",
+            "Hình thành phẩm chất nhân cách và định hướng giá trị của người học.",
+            "Tăng cường cơ sở vật chất cho trường học.",
+            "Phát triển các chương trình đào tạo nghề."
+          ],
+          "correctIndex": 1,
+          "explain": "Quá trình hình thành phẩm chất nhân cách, đạo đức, định hướng thái độ và giá trị cho người học dưới các tác động sư phạm là một trong những nội dung và nhiệm vụ cốt lõi của Tâm lý học giáo dục."
+        },
+        {
+          "id": 44,
+          "text": "Tâm lý học giáo dục nghiên cứu để giải quyết những khó khăn nào trong quá trình dạy học và giáo dục?",
+          "options": [
+            "Những khó khăn tâm lý của cá nhân và công tác hỗ trợ tâm lý học đường.",
+            "Những khó khăn kỹ thuật trong phát triển công nghệ giáo dục.",
+            "Những khó khăn trong quản lý giáo dục và đào tạo.",
+            "Những khó khăn về nguồn nhân lực trong giáo dục."
+          ],
+          "correctIndex": 0,
+          "explain": "Bên cạnh việc tối ưu hóa dạy học, Tâm lý học giáo dục tập trung giải quyết các khó khăn tâm lý của cá nhân người học và cung cấp nền tảng cho công tác tư vấn, hỗ trợ tâm lý học đường."
+        },
+        {
+          "id": 45,
+          "text": "Tâm lý học giáo dục thường ứng dụng thành quả của các chuyên ngành nào để thực hiện công tác hỗ trợ tâm lý học đường cho học sinh?",
+          "options": [
+            "Tâm lý học phát triển và Tâm lý học khác biệt.",
+            "Khoa học máy tính.",
+            "Kinh tế học.",
+            "Không ứng dụng bất kì thành tựu của ngành khoa học nào khác."
+          ],
+          "correctIndex": 0,
+          "explain": "Tâm lý học giáo dục ứng dụng nền tảng của Tâm lý học phát triển (để hiểu đặc điểm lứa tuổi) và Tâm lý học khác biệt (để cá nhân hóa và hiểu sự khác biệt giữa các học sinh), từ đó hỗ trợ tâm lý học đường một cách tối ưu."
+        },
+        {
+          "id": 46,
+          "text": "Tâm lý học giáo dục nghiên cứu tác động của môi trường nào đến sự phát triển của người học?",
+          "options": [
+            "Môi trường xã hội, văn hóa, giáo dục.",
+            "Môi trường kinh tế và chính trị.",
+            "Môi trường công nghệ và kỹ thuật.",
+            "Môi trường tự nhiên và sinh thái."
+          ],
+          "correctIndex": 0,
+          "explain": "Sự phát triển tâm lý cá nhân và quá trình lĩnh hội tri thức chịu sự chế ước trực tiếp từ môi trường văn hóa, xã hội và các tác động từ hệ thống giáo dục (gia đình, nhà trường)."
+        },
+        {
+          "id": 47,
+          "text": "Nhận định nào dưới đây KHÔNG PHÙ HỢP khi nói về phương pháp luận của Tâm lý học giáo dục?",
+          "options": [
+            "Tâm lý học giáo dục có mối quan hệ với các chuyên ngành Tâm lý học khác.",
+            "Tâm lý học giáo dục chú trọng sử dụng duy nhất một phương pháp nghiên cứu đặc thù.",
+            "Tâm lý học giáo dục có đối tượng nghiên cứu là bản chất tâm lý của các hoạt động giáo dục.",
+            "Tâm lý học giáo dục phục vụ cho sự phát triển tối ưu của người học."
+          ],
+          "correctIndex": 1,
+          "explain": "Tâm lý học giáo dục không sử dụng duy nhất một phương pháp đặc thù mà sử dụng một hệ thống các phương pháp nghiên cứu đa dạng (quan sát, thực nghiệm, tương quan, trắc nghiệm...) để thu thập dữ liệu và kiểm chứng giả thuyết."
+        },
+        {
+          "id": 48,
+          "text": "Tâm lí học Sư phạm (một bộ phận cấu thành nên Tâm lý học giáo dục) tập trung nghiên cứu lĩnh vực nào?",
+          "options": [
+            "Những vấn đề tâm lí học của việc điều khiển quá trình dạy học.",
+            "Sự hình thành những quá trình nhận thức, xác định những tiêu chuẩn của sự phát triển trí tuệ trong quá trình dạy học.",
+            "Mối quan hệ qua lại giữa giáo viên - học sinh, học sinh - học sinh.",
+            "Cả A, B và C đều đúng."
+          ],
+          "correctIndex": 3,
+          "explain": "Tâm lý học sư phạm (thuộc Tâm lý học giáo dục) đi sâu vào việc điều khiển quá trình dạy học, quy luật nhận thức, phát triển trí tuệ, cũng như các tương tác xã hội (giáo viên - học sinh) trong bối cảnh học đường."
+        },
+        {
+          "id": 49,
+          "text": "Điểm khác biệt cơ bản giữa đối tượng nghiên cứu của Tâm lý học giáo dục với Tâm lý học phát triển là gì?",
+          "options": [
+            "Tâm lý học giáo dục nghiên cứu sự hình thành nhân cách trong điều kiện gia đình, xã hội nói chung.",
+            "Tâm lý học phát triển chỉ nghiên cứu trẻ em, còn Tâm lý học giáo dục nghiên cứu mọi lứa tuổi.",
+            "Tâm lý học giáo dục tập trung vào các hiện tượng tâm lý nảy sinh trong quá trình dạy học và giáo dục.",
+            "Tâm lý học phát triển không liên quan đến hoạt động nhận thức."
+          ],
+          "correctIndex": 2,
+          "explain": "Trong khi Tâm lý học phát triển nghiên cứu sự biến đổi tâm lý qua tất cả các giai đoạn lứa tuổi một cách tự nhiên, thì Tâm lý học giáo dục lại tập trung chuyên biệt vào các hiện tượng tâm lý nảy sinh dưới sự tác động của quá trình dạy học và giáo dục."
+        },
+        {
+          "id": 50,
+          "text": "Phát biểu nào sau đây là ĐÚNG NHẤT khi tóm lược về nhiệm vụ của Tâm lý học giáo dục?",
+          "options": [
+            "Xác định quy luật lĩnh hội tri thức, kỹ năng, kỹ xảo của học sinh trong quá trình dạy học.",
+            "Xác định cơ sở tâm lý học của hoạt động dạy học, giáo dục cũng như công tác hỗ trợ tâm lý học đường.",
+            "Cung cấp cơ sở tâm lý cho các hoạt động giáo dục gia đình và cộng đồng.",
+            "Xác lập cơ sở tâm lý học của các quan điểm, triết lý, xu hướng giáo dục."
+          ],
+          "correctIndex": 1,
+          "explain": "Đây là phát biểu bao quát và đầy đủ nhất. Các phương án A, C, D đều đúng nhưng chỉ là những khía cạnh nhỏ, nằm trong nhiệm vụ tổng quát là xác lập cơ sở tâm lý cho toàn bộ hoạt động dạy học, giáo dục và công tác hỗ trợ tâm lý học đường."
+        },
+        {
+          "id": 51,
+          "text": "Đối tượng nghiên cứu của Tâm lý học giáo dục bao gồm những gì?",
+          "options": [
+            "Các phương pháp giảng dạy hiện đại và công cụ quản lý.",
+            "Sự phát triển tâm lý của người học và các điều kiện phát triển tâm lý trong quá trình dạy học và giáo dục.",
+            "Quản lý giáo dục, đào tạo và phát triển công nghệ giáo dục.",
+            "Toàn bộ những khó khăn tâm lý của con người trong quá trình lao động và sinh hoạt."
+          ],
+          "correctIndex": 1,
+          "explain": "Đối tượng nghiên cứu chính của Tâm lý học giáo dục là các hiện tượng tâm lý, sự phát triển tâm lý của cá nhân và các điều kiện phát triển tâm lý đó dưới sự tác động của quá trình dạy học và giáo dục."
+        },
+        {
+          "id": 52,
+          "text": "Tâm lý học giáo dục vận dụng thành tựu của chuyên ngành Tâm lý học nhận thức nhằm mục đích chính là gì?",
+          "options": [
+            "Để tìm hiểu các quy luật tiến hóa của bộ não con người.",
+            "Để tổ chức các hoạt động dạy học, giáo dục và hỗ trợ tâm lý trong trường học một cách hợp lý, khoa học.",
+            "Để phân loại học sinh thành các nhóm trí tuệ khác nhau.",
+            "Để hiểu rõ sự khủng hoảng tâm lý qua các giai đoạn lứa tuổi."
+          ],
+          "correctIndex": 1,
+          "explain": "Dựa trên cơ sở Tâm lý học nhận thức, Tâm lý học giáo dục vận dụng sự hiểu biết về các hoạt động nhận thức của con người để tổ chức các hoạt động dạy học, giáo dục và hỗ trợ tâm lý trong trường học một cách hiệu quả, khoa học."
+        },
+        {
+          "id": 53,
+          "text": "Tại sao Tâm lý học giáo dục lại có mối quan hệ chặt chẽ với Tâm lý học văn hóa?",
+          "options": [
+            "Vì bản chất của giáo dục là một quá trình chuyển tải văn hóa.",
+            "Vì Tâm lý học văn hóa giúp học sinh hòa nhập quốc tế nhanh hơn.",
+            "Vì văn hóa là yếu tố duy nhất quyết định sự phát triển trí tuệ.",
+            "Vì Tâm lý học văn hóa thay thế được chức năng của Tâm lý học phát triển."
+          ],
+          "correctIndex": 0,
+          "explain": "Bản chất của giáo dục là một quá trình chuyển tải văn hóa, liên quan chặt chẽ với các chuẩn mực và hệ thống giá trị xã hội mang đậm tính văn hóa đặc trưng. Do đó, dạy học và hỗ trợ tâm lý phải chú ý đến đặc điểm môi trường văn hóa."
+        },
+        {
+          "id": 54,
+          "text": "Nhà tư tưởng nào là tác giả của tác phẩm \"Đại lý luận về giáo dục\", trong đó đề xuất hệ thống nhà trường với các cấp học và nhấn mạnh vai trò của kinh nghiệm cảm tính trong nhận thức?",
+          "options": [
+            "John Locke.",
+            "Juan Vives.",
+            "J.A. Comenius.",
+            "Johann Pestalozzi."
+          ],
+          "correctIndex": 2,
+          "explain": "J.A. Comenius (1592-1670) là tác giả của cuốn \"Đại lý luận về giáo dục\". Ông là người đầu tiên đề xuất hệ thống nhà trường thành các cấp học và nhấn mạnh vai trò của kinh nghiệm cảm tính đối với quá trình nhận thức của con người."
+        },
+        {
+          "id": 55,
+          "text": "Tác phẩm \"Trái tim tôi hiến dâng cho trẻ\" - cuốn sách được xem là gói trọn hành trang vào nghề của biết bao thế hệ nhà giáo là của ai?",
+          "options": [
+            "V.A. Xukhômlinxki.",
+            "A.X. Makarenko.",
+            "L.S. Vygotsky.",
+            "K.D. Usinxki."
+          ],
+          "correctIndex": 0,
+          "explain": "V.A. Xukhômlinxki (1918-1970) là tác giả của tác phẩm \"Trái tim tôi hiến dâng cho trẻ\", một tác phẩm vô cùng nổi tiếng đề cao tính nhân văn trong công tác giáo dục."
+        },
+        {
+          "id": 56,
+          "text": "Nhà tâm lý học nào đã nhận định: \"Tâm lý học là một khoa học và dạy học là một nghệ thuật. Khoa học không được và cũng không bao giờ tách rời khỏi nghệ thuật\"?",
+          "options": [
+            "Edward Thorndike.",
+            "Alfred Binet.",
+            "William James.",
+            "Jean Piaget."
+          ],
+          "correctIndex": 2,
+          "explain": "Trong loạt bài giảng nổi tiếng \"Nói chuyện với các giáo viên về Tâm lý học\" (1899), William James đã đưa ra nhận định kinh điển này để gắn kết giữa khoa học tâm lý và nghệ thuật giảng dạy."
+        },
+        {
+          "id": 57,
+          "text": "Đâu là một trong những hạn chế lớn nhất của phương pháp quan sát trong Tâm lý học giáo dục?",
+          "options": [
+            "Không thu thập được hành vi thực tế của người học.",
+            "Làm thay đổi hoàn toàn môi trường tự nhiên của lớp học.",
+            "Đòi hỏi nhiều thời gian và thường chỉ có thể áp dụng hiệu quả trên số lượng khách thể nhỏ.",
+            "Chỉ sử dụng được khi có các trang thiết bị máy móc hiện đại."
+          ],
+          "correctIndex": 2,
+          "explain": "Phương pháp quan sát là một công cụ hữu hiệu để theo dõi hành vi, nhưng nó đòi hỏi rất nhiều thời gian và thường chỉ có thể áp dụng hiệu quả đối với những nghiên cứu trên số lượng nhỏ khách thể."
+        },
+        {
+          "id": 58,
+          "text": "Khi sử dụng phương pháp \"nghiên cứu trường hợp\" (case study), nhà nghiên cứu cần đặc biệt lưu ý nguyên tắc nào?",
+          "options": [
+            "Kết quả của nghiên cứu này có thể đại diện cho toàn bộ dân số.",
+            "Không thể sử dụng kết quả của trường hợp này để khái quát hóa thành kết quả đại diện cho một nhóm hay toàn bộ dân số.",
+            "Không được kết hợp với các phương pháp khác như phỏng vấn hay quan sát.",
+            "Chỉ sử dụng phương pháp này để nghiên cứu những học sinh xuất sắc."
+          ],
+          "correctIndex": 1,
+          "explain": "Mỗi trường hợp được nghiên cứu là \"độc nhất vô nhị\", vì vậy không thể sử dụng kết quả nghiên cứu của trường hợp này để quy gán cho trường hợp tương tự hoặc khái quát hóa cho toàn bộ dân số."
+        },
+        {
+          "id": 59,
+          "text": "Trong phương pháp trắc nghiệm, nếu dựa trên tiêu chí \"cách thức đánh giá\", các nhà nghiên cứu thường phân chia thành 2 nhóm nào?",
+          "options": [
+            "Trắc nghiệm trí tuệ và trắc nghiệm nhân cách.",
+            "Trắc nghiệm ngôn ngữ và trắc nghiệm phi ngôn ngữ.",
+            "Trắc nghiệm khách quan và trắc nghiệm phóng chiếu.",
+            "Trắc nghiệm toán học và trắc nghiệm thực cảnh."
+          ],
+          "correctIndex": 2,
+          "explain": "Dựa trên cách thức đánh giá, người ta phân chia phương pháp trắc nghiệm thành 2 nhóm là trắc nghiệm khách quan và trắc nghiệm phóng chiếu."
+        },
+        {
+          "id": 60,
+          "text": "Dựa vào bối cảnh tiến hành, phương pháp thực nghiệm trong Tâm lý học giáo dục KHÔNG bao gồm loại hình nào sau đây?",
+          "options": [
+            "Thực nghiệm trong phòng thí nghiệm.",
+            "Thực nghiệm tại thực địa.",
+            "Thực nghiệm tự nhiên.",
+            "Thực nghiệm xã hội học."
+          ],
+          "correctIndex": 3,
+          "explain": "Dựa vào bối cảnh tiến hành, các nhà Tâm lý học phân chia phương pháp thực nghiệm thành 3 loại: thực nghiệm trong phòng thí nghiệm, thực nghiệm tại thực địa và thực nghiệm tự nhiên. Không có phân loại \"thực nghiệm xã hội học\" trong nhóm này."
         }
       ]
     },
