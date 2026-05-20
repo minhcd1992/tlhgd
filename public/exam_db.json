@@ -109,7 +109,7 @@
       "type": "chapter",
       "chapter": "Chương 1",
       "title": "Ôn tập: Nhập môn Tâm lý học Giáo dục",
-      "time": 900,
+      "time": 3000,
       "questions": [
         {
           "id": 1,
@@ -838,7 +838,7 @@
       "type": "chapter",
       "chapter": "Chương 2",
       "title": "Ôn tập: Đặc điểm tâm lý cá nhân của người học",
-      "time": 900,
+      "time": 3000,
       "questions": [
         {
           "id": 1,
