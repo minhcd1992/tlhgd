@@ -834,6 +834,735 @@
       ]
     },
     {
+      "id": "exam-ch2",
+      "type": "chapter",
+      "chapter": "Chương 2",
+      "title": "Ôn tập: Đặc điểm tâm lý cá nhân của người học",
+      "time": 900,
+      "questions": [
+        {
+          "id": 1,
+          "text": "Quan niệm của thuyết duy vật biện chứng về sự phát triển tâm lý cá nhân nhấn mạnh điều gì?",
+          "options": [
+            "Sự phát triển tâm lý là do di truyền quyết định hoàn toàn.",
+            "Sự phát triển tâm lý là quá trình tích lũy dần về lượng dẫn đến sự biến đổi về chất.",
+            "Sự phát triển tâm lý là kết quả của các yếu tố môi trường mà không liên quan đến cá nhân.",
+            "Sự phát triển tâm lý diễn ra một cách ngẫu nhiên và không có quy luật."
+          ],
+          "correctIndex": 1,
+          "explain": "Theo nguyên lý phát triển trong triết học Marx - Lenin, sự phát triển tâm lý người là quá trình biến đổi từ thấp lên cao, từ đơn giản đến phức tạp, là quá trình tích lũy dần về lượng dẫn đến sự nhảy vọt về chất."
+        },
+        {
+          "id": 2,
+          "text": "Thuyết nào sau đây cho rằng di truyền (những tiềm năng sinh vật bẩm sinh được mã hóa trong gen) là yếu tố đóng vai trò quyết định đối với sự phát triển tâm lý người?",
+          "options": [
+            "Thuyết duy vật biện chứng.",
+            "Thuyết duy cảm.",
+            "Thuyết tiền định.",
+            "Thuyết hội tụ hai yếu tố."
+          ],
+          "correctIndex": 2,
+          "explain": "Những người theo Thuyết tiền định cho rằng di truyền đóng vai trò quyết định đối với sự phát triển tâm lý người, còn môi trường chỉ là “yếu tố điều chỉnh” hay thể hiện một nhân tố bất biến nào đó của tính di truyền."
+        },
+        {
+          "id": 3,
+          "text": "Theo quan điểm của các nhà Tâm lý học hoạt động (như L.S. Vygotsky), nguồn gốc của sự phát triển tâm lý cá nhân là gì?",
+          "options": [
+            "Sự trưởng thành của các yếu tố sinh học bẩm sinh.",
+            "Môi trường văn hóa xã hội, cụ thể là những kinh nghiệm lịch sử xã hội.",
+            "Sự đấu tranh giữa các mặt đối lập trong bản thân đứa trẻ.",
+            "Sự bắt chước các hành vi của người lớn một cách vô thức."
+          ],
+          "correctIndex": 1,
+          "explain": "Quan điểm của L.S. Vygotsky đã làm sáng tỏ nguồn gốc của sự phát triển tâm lý chính là môi trường văn hóa xã hội, cụ thể là những kinh nghiệm lịch sử xã hội; và cơ chế là quá trình tiếp thu, lĩnh hội những kinh nghiệm đó."
+        },
+        {
+          "id": 4,
+          "text": "Trong quá trình phát triển tâm lý của cá nhân, yếu tố nào được xem là \"động lực của sự phát triển\"?",
+          "options": [
+            "Sự trưởng thành và chín muồi của hệ thần kinh và cơ thể.",
+            "Hoạt động tích cực của cá nhân để giải quyết các mâu thuẫn (như mâu thuẫn giữa \"cái tôi muốn\" và \"cái tôi có thể\").",
+            "Sự giáo dục và đào tạo liên tục của nhà trường.",
+            "Quá trình giao tiếp để trao đổi nhu cầu, cảm xúc với người khác."
+          ],
+          "correctIndex": 1,
+          "explain": "Động lực của sự phát triển tâm lý chính là hoạt động tích cực của cá nhân để giải quyết các mâu thuẫn bên trong (thường là mâu thuẫn giữa nhu cầu ngày càng cao và khả năng hiện tại còn hạn chế)."
+        },
+        {
+          "id": 5,
+          "text": "Sự kiện \"Các em học sinh ở cùng lứa tuổi nhưng lại có sự chênh lệch về tốc độ và mức độ phát triển tâm lý (nhận thức, tình cảm, ý chí...)\" là biểu hiện của quy luật nào?",
+          "options": [
+            "Quy luật toàn vẹn trong sự phát triển tâm lý cá nhân.",
+            "Quy luật không đồng đều trong sự phát triển tâm lý cá nhân.",
+            "Quy luật mềm dẻo và khả năng bù trừ.",
+            "Quy luật phủ định của phủ định."
+          ],
+          "correctIndex": 1,
+          "explain": "Tính không đồng đều xét trong quan hệ giữa các cá nhân thể hiện ở chỗ: Trong cùng một lứa tuổi, tốc độ và mức độ phát triển tâm lý của các cá nhân là không đều nhau, có trẻ phát triển sớm hoặc muộn hơn trẻ khác."
+        },
+        {
+          "id": 6,
+          "text": "Hiện tượng \"Một trẻ em bị khiếm thị nhưng bù lại thính giác và xúc giác phát triển rất mạnh mẽ\" là minh chứng rõ nhất cho quy luật nào trong sự phát triển tâm lý?",
+          "options": [
+            "Quy luật không đồng đều.",
+            "Quy luật toàn vẹn.",
+            "Quy luật mềm dẻo và khả năng bù trừ.",
+            "Quy luật chuyển hóa từ lượng thành chất."
+          ],
+          "correctIndex": 2,
+          "explain": "Khả năng bù trừ thể hiện khi một chức năng tâm lý hoặc sinh lý nào đó yếu/thiếu thì các chức năng khác sẽ được tăng cường để bù đắp cho sự thiếu hụt đó, ví dụ trẻ khiếm thị sẽ được bù đắp bởi sự phát triển mạnh mẽ của thính giác."
+        },
+        {
+          "id": 7,
+          "text": "Thuật ngữ \"Khủng hoảng lứa tuổi\" được hiểu như thế nào trong sự phát triển tâm lý cá nhân?",
+          "options": [
+            "Là giai đoạn phát triển tâm lý diễn ra từ từ, ổn định, không có thay đổi đáng kể.",
+            "Là giai đoạn tâm lý con người trở nên rời rạc, bệnh lý và cần điều trị y tế.",
+            "Là các giai đoạn phát triển tâm lý đầy biến động, xen giữa các giai đoạn ổn định, nơi sự phát triển diễn ra rất nhanh, mạnh và có sự thay đổi sâu sắc.",
+            "Là giai đoạn trẻ em hoàn toàn mất khả năng nhận thức và giao tiếp với xã hội."
+          ],
+          "correctIndex": 2,
+          "explain": "Khủng hoảng lứa tuổi là thuật ngữ dùng để chỉ các giai đoạn phát triển tâm lý đầy biến động xen giữa các giai đoạn ổn định; đó là giai đoạn có sự phát triển tâm lý rất nhanh, mạnh và lượng đã biến thành chất."
+        },
+        {
+          "id": 8,
+          "text": "Theo A.N. Leontiev, \"Hoạt động chủ đạo\" trong sự phát triển tâm lý cá nhân có đặc điểm cốt lõi là gì?",
+          "options": [
+            "Là hoạt động luôn chiếm nhiều thời gian nhất trong ngày của trẻ.",
+            "Là hoạt động do người lớn áp đặt và bắt buộc trẻ phải làm.",
+            "Là hoạt động không mang lại bất kỳ sự xuất hiện của cấu tạo tâm lý mới nào.",
+            "Là hoạt động quy định những biến đổi chủ yếu nhất trong tâm lý và nhân cách con người ở giai đoạn phát triển đó."
+          ],
+          "correctIndex": 3,
+          "explain": "Hoạt động chủ đạo là hoạt động quy định những biến đổi chủ yếu nhất tâm lý con người ở trong giai đoạn phát triển của nó, làm xuất hiện những cấu tạo tâm lý mới đặc trưng cho lứa tuổi."
+        },
+        {
+          "id": 9,
+          "text": "Nhận định nào dưới đây là ĐÚNG NHẤT khi nói về \"Cấu tạo tâm lý mới\" đặc trưng cho lứa tuổi?",
+          "options": [
+            "Là những nét tâm lý đã có từ trước và không bao giờ thay đổi.",
+            "Là những nét tâm lý lần đầu tiên xuất hiện ở một giai đoạn lứa tuổi nhất định và làm thay đổi bộ mặt nhân cách của cá nhân trong giai đoạn ấy.",
+            "Là những nét tâm lý chỉ xuất hiện khi con người bước vào giai đoạn trưởng thành.",
+            "Là sự gia tăng đơn thuần về số lượng các hiện tượng tâm lý so với lứa tuổi trước."
+          ],
+          "correctIndex": 1,
+          "explain": "Cấu tạo tâm lý mới đặc trưng cho lứa tuổi là những nét tâm lý lần đầu tiên xuất hiện ở giai đoạn lứa tuổi đó, làm thay đổi bộ mặt nhân cách và cho thấy rõ một sự khác biệt tâm lý về chất so với lứa tuổi trước."
+        },
+        {
+          "id": 10,
+          "text": "Trong sự phát triển tâm lý cá nhân, yếu tố nào giữ vai trò \"chủ đạo\"?",
+          "options": [
+            "Bẩm sinh, di truyền.",
+            "Môi trường sống và hoạt động.",
+            "Dạy học và giáo dục.",
+            "Hoạt động tích cực của cá nhân."
+          ],
+          "correctIndex": 2,
+          "explain": "Sự phát triển tâm lý chịu tác động của nhiều yếu tố. Trong đó: Bẩm sinh, di truyền là tiền đề; Môi trường sống là điều kiện; Dạy học - giáo dục đóng vai trò chủ đạo; còn Hoạt động tích cực của cá nhân đóng vai trò quyết định."
+        },
+        {
+          "id": 11,
+          "text": "Về mặt sinh lý, nguyên nhân chủ yếu khiến thiếu niên thường có biểu hiện nói \"nhát gừng\", “cộc lốc”, có lúc lại nói nhanh, nuốt lời là do đâu?",
+          "options": [
+            "Muốn khẳng định tính người lớn của mình trong quan hệ với người xung quanh.",
+            "Do phản xạ có điều kiện đối với tín hiệu trực tiếp được hình thành nhanh hơn so với tín hiệu từ ngữ (mất cân đối tạm thời giữa hai hệ thống tín hiệu).",
+            "Do sự phát triển không cân đối của hệ cơ và hệ xương.",
+            "Do sự phát dục làm các em ngại giao tiếp."
+          ],
+          "correctIndex": 1,
+          "explain": "Ở thiếu niên, có sự mất cân đối tạm thời giữa hệ thống tín hiệu thứ nhất và thứ hai. Phản xạ có điều kiện đối với tín hiệu trực tiếp hình thành nhanh hơn so với tín hiệu từ ngữ nên các em dễ mắc tật nói lắp bắp, nhát gừng, hoặc nói nhanh, nuốt lời."
+        },
+        {
+          "id": 12,
+          "text": "Nét cấu tạo tâm lý mới trung tâm trong nhân cách của lứa tuổi thiếu niên là gì?",
+          "options": [
+            "Cảm giác mình là người lớn.",
+            "Năng lực tự ý thức.",
+            "Xu hướng nghề nghiệp.",
+            "Tư duy lý luận."
+          ],
+          "correctIndex": 0,
+          "explain": "Sự phát triển mạnh mẽ về thể chất và thay đổi điều kiện sống làm xuất hiện ở thiếu niên một cảm giác mới: “cảm giác mình là người lớn”. L.S. Vygotsky cho đây là cấu tạo tâm lý mới trung tâm trong nhân cách của thiếu niên."
+        },
+        {
+          "id": 13,
+          "text": "Hoạt động chủ đạo của lứa tuổi thiếu niên (học sinh THCS) là gì?",
+          "options": [
+            "Hoạt động học tập.",
+            "Hoạt động giao tiếp mang tính chất cá nhân thân tình (giao tiếp với bạn bè).",
+            "Hoạt động vui chơi giải trí.",
+            "Hoạt động học tập - hướng nghiệp."
+          ],
+          "correctIndex": 1,
+          "explain": "Ở tuổi thiếu niên, giao tiếp mang tính chất tâm tình cá nhân trở thành hoạt động chủ đạo, đặc biệt là nhu cầu kết bạn tâm tình để dãi bày, chia sẻ những điều thầm kín."
+        },
+        {
+          "id": 14,
+          "text": "Trong giao tiếp với người lớn, khi nguyện vọng muốn được độc lập và tôn trọng không được đáp ứng (người lớn vẫn can thiệp thô bạo, xem các em là trẻ con), thiếu niên thường có phản ứng gì?",
+          "options": [
+            "Hoàn toàn tuân theo ý kiến của người lớn.",
+            "Có thái độ tiêu cực, chống đối công khai hoặc ngấm ngầm, thu mình lại.",
+            "Cố gắng giải thích và thuyết phục người lớn bằng mọi cách.",
+            "Chấp nhận các chuẩn mực một cách vui vẻ."
+          ],
+          "correctIndex": 1,
+          "explain": "Thiếu niên có nhu cầu tự khẳng định mình và khát vọng độc lập rất cao. Nếu người lớn không thay đổi cách ứng xử, vẫn ra lệnh và giám sát chặt chẽ, các em sẽ có thái độ và phản ứng tiêu cực, chống đối lại một cách công khai hay ngấm ngầm."
+        },
+        {
+          "id": 15,
+          "text": "Đặc điểm nào dưới đây mô tả đúng nhất về tình bạn của lứa tuổi thiếu niên?",
+          "options": [
+            "Thoải mái, nhẹ nhàng, có thể tách nhóm tùy ý và rất hời hợt.",
+            "Khó có thể chia sẻ những vấn đề riêng tư do cái tôi quá lớn.",
+            "Được xây dựng dựa trên \"bộ luật tình bạn\", đòi hỏi sự trung thành, tôn trọng, sẵn sàng giúp đỡ và giữ bí mật cho nhau.",
+            "Chỉ kết bạn với những người có cùng ngoại hình và hoàn cảnh gia đình."
+          ],
+          "correctIndex": 2,
+          "explain": "Quan hệ bạn bè của thiếu niên được xây dựng dựa trên cơ sở của “bộ luật tình bạn” với những chuẩn mực khắt khe như: tôn trọng, bình đẳng, giúp đỡ nhau, trung thành và giữ bí mật cho nhau."
+        },
+        {
+          "id": 16,
+          "text": "Sự phát triển tư duy của thiếu niên có đặc trưng nổi bật nào?",
+          "options": [
+            "Tư duy trực quan hành động chiếm ưu thế hoàn toàn.",
+            "Tư duy trừu tượng phát triển mạnh mẽ; tính độc lập, sáng tạo và tính phê phán của tư duy rất phát triển.",
+            "Hoàn toàn phụ thuộc vào tư duy hình tượng - cụ thể.",
+            "Tính phê phán còn hạn chế, rất dễ tin lời người khác mà không cần lập luận."
+          ],
+          "correctIndex": 1,
+          "explain": "Tư duy trừu tượng phát triển mạnh là nét đặc thù. Đặc biệt, tính phê phán của tư duy phát triển, các em không dễ tin như tuổi nhi đồng, thích lập luận, hay cãi lý và có tính độc lập, sáng tạo cao."
+        },
+        {
+          "id": 17,
+          "text": "Đặc trưng nổi bật nhất trong toàn bộ hoạt động nhận thức (tri giác, trí nhớ, chú ý...) của học sinh THCS là gì?",
+          "options": [
+            "Tính không chủ định chiếm ưu thế.",
+            "Tính mục đích và tính chủ định phát triển mạnh.",
+            "Tính máy móc và thụ động.",
+            "Tính hệ thống và tính thực tiễn cao nhất."
+          ],
+          "correctIndex": 1,
+          "explain": "Đặc trưng nổi bật trong hoạt động nhận thức của thiếu niên là tính mục đích, tính chủ định phát triển mạnh trong tất cả các quá trình nhận thức từ tri giác, trí nhớ, chú ý đến tư duy, tưởng tượng."
+        },
+        {
+          "id": 18,
+          "text": "Đời sống xúc cảm - tình cảm của thiếu niên có đặc điểm gì nổi bật?",
+          "options": [
+            "Rất ổn định, sâu sắc và khó thay đổi.",
+            "Mang tính mâu thuẫn, chưa ổn định, cường độ cảm xúc khá mạnh và dễ thay đổi.",
+            "Ít bộc lộ cảm xúc, sống khép kín và tĩnh lặng.",
+            "Hoàn toàn bị chi phối bởi lý trí và đạo đức."
+          ],
+          "correctIndex": 1,
+          "explain": "Điểm đặc trưng trong các biểu hiện của đời sống tình cảm lứa tuổi thiếu niên là tính mâu thuẫn, chưa ổn định, dễ thay đổi. Trạng thái xúc cảm thường bộc phát với cường độ khá mạnh, vui buồn thất thường."
+        },
+        {
+          "id": 19,
+          "text": "\"Cảm giác mình là người lớn\" khiến thiếu niên quan tâm nhiều hơn đến bản thân. Lĩnh vực ĐẦU TIÊN mà các em thường nhận thức và quan tâm đến là gì?",
+          "options": [
+            "Những phẩm chất đạo đức phức tạp (lương tâm, danh dự).",
+            "Dáng vẻ bề ngoài, hình thức, tác phong (mập, ốm, đẹp, xấu, cách ăn mặc).",
+            "Năng lực trong các hoạt động xã hội.",
+            "Thế giới quan khoa học."
+          ],
+          "correctIndex": 1,
+          "explain": "Nội dung và mức độ tự nhận thức về bản thân của thiếu niên không diễn ra cùng lúc. Đầu tiên các em nhận thức được dáng vẻ bề ngoài (mập, ốm, đẹp, xấu, cách ăn mặc…), rồi sau đó mới đến các hành vi, phẩm chất tính cách và năng lực."
+        },
+        {
+          "id": 20,
+          "text": "Khả năng \"tự đánh giá bản thân\" của thiếu niên có đặc điểm gì mà nhà giáo dục cần lưu ý?",
+          "options": [
+            "Rất khách quan, toàn diện và chính xác tuyệt đối.",
+            "Chỉ đánh giá dựa trên tiêu chuẩn do người lớn áp đặt.",
+            "Khả năng tự đánh giá còn hạn chế, các em dễ rơi vào tình trạng tự kiêu (đánh giá quá cao) hoặc tự ti (đánh giá quá thấp).",
+            "Không bao giờ so sánh mình với bạn bè đồng trang lứa."
+          ],
+          "correctIndex": 2,
+          "explain": "Mặc dù nhu cầu tự đánh giá phát triển mạnh, nhưng khả năng tự nhận thức còn hạn chế khiến các em dễ rơi vào tình trạng đánh giá mình quá cao (tự kiêu) hoặc đánh giá mình quá thấp (tự ti). Các em rất nhạy cảm với lời nhận xét của người khác."
+        },
+        {
+          "id": 21,
+          "text": "Hoạt động chủ đạo của lứa tuổi đầu thanh niên (học sinh THPT) là gì?",
+          "options": [
+            "Hoạt động giao lưu kết bạn tâm tình.",
+            "Hoạt động học tập - hướng nghiệp.",
+            "Hoạt động vui chơi giải trí.",
+            "Hoạt động xã hội."
+          ],
+          "correctIndex": 1,
+          "explain": "Bước sang lứa tuổi đầu thanh niên, hoạt động học tập mang tính chất hướng nghiệp trở thành hoạt động chủ đạo, chi phối mạnh mẽ sự hình thành và phát triển nhân cách của các em."
+        },
+        {
+          "id": 22,
+          "text": "Nét cấu tạo tâm lý mới TRUNG TÂM trong nhân cách của lứa tuổi đầu thanh niên là gì?",
+          "options": [
+            "Cảm giác mình là người lớn.",
+            "Khả năng tự đánh giá lại các giá trị.",
+            "Xu hướng nghề nghiệp.",
+            "Mối tình đầu."
+          ],
+          "correctIndex": 2,
+          "explain": "Mặc dù lứa tuổi đầu thanh niên xuất hiện nhiều nét cấu tạo tâm lý mới như thế giới quan khoa học, năng lực tự ý thức, mối tình đầu... nhưng \"Xu hướng nghề nghiệp\" được xem là nét cấu tạo tâm lý mới trung tâm, nảy sinh trực tiếp từ hoạt động chủ đạo của lứa tuổi này."
+        },
+        {
+          "id": 23,
+          "text": "Sự phát triển về mặt sinh lý, cơ thể ở tuổi học sinh THPT diễn ra như thế nào?",
+          "options": [
+            "Rất nhanh, mạnh, đầy biến động và không đồng đều.",
+            "Phát triển mạnh nhưng thiếu cân đối giữa hệ cơ và hệ xương.",
+            "Tương đối êm ả, cân đối và đi dần đến sự hoàn thiện.",
+            "Chiều cao tăng vọt đột ngột nhưng các chức năng khác chậm phát triển."
+          ],
+          "correctIndex": 2,
+          "explain": "Khác với lứa tuổi thiếu niên, sự phát triển sinh lý ở tuổi đầu thanh niên diễn ra tương đối êm ả, đi dần đến sự hoàn thiện các bộ phận và chức năng cơ thể. Cơ thể phát triển cân đối, hài hòa, khỏe, đẹp."
+        },
+        {
+          "id": 24,
+          "text": "Đặc trưng nổi bật trong quá trình tri giác của học sinh THPT là gì?",
+          "options": [
+            "Tính không chủ định và phụ thuộc vào cảm xúc.",
+            "Tính mục đích và tính hệ thống.",
+            "Tính phân tán, khó tập trung vào những chi tiết quan trọng.",
+            "Phụ thuộc hoàn toàn vào tư duy trực quan hình ảnh."
+          ],
+          "correctIndex": 1,
+          "explain": "Tri giác của học sinh THPT là tri giác có mục đích và hệ thống. Các em có thể nhận biết chi tiết nào là quan trọng/chủ yếu, chi tiết nào là thứ yếu khi quan sát một đối tượng."
+        },
+        {
+          "id": 25,
+          "text": "Khi học bài, học sinh THPT thường biết tóm tắt ý chính, xác định nội dung nào cần nhớ, nội dung nào chỉ cần hiểu. Điều này chứng tỏ sự phát triển ưu thế của loại ghi nhớ nào?",
+          "options": [
+            "Ghi nhớ máy móc.",
+            "Ghi nhớ có ý nghĩa, logic.",
+            "Ghi nhớ hình tượng cụ thể.",
+            "Ghi nhớ không chủ định."
+          ],
+          "correctIndex": 1,
+          "explain": "Ghi nhớ có ý nghĩa, ghi nhớ logic ngày một tăng và chiếm ưu thế. Các em biết so sánh, đối chiếu, phân biệt dữ liệu và chủ động ghi nhớ theo cách riêng của mình."
+        },
+        {
+          "id": 26,
+          "text": "Đặc điểm nào phản ánh ĐÚNG NHẤT hoạt động tư duy của lứa tuổi đầu thanh niên?",
+          "options": [
+            "Tư duy trực quan hành động giữ vai trò chủ đạo.",
+            "Hoàn toàn phụ thuộc vào tư duy cụ thể và tin tưởng tuyệt đối vào giáo viên.",
+            "Hay kết luận vội vàng theo cảm tính và lười suy nghĩ độc lập.",
+            "Tư duy trừu tượng, tư duy lý luận phát triển mạnh mẽ và có tính phê phán."
+          ],
+          "correctIndex": 3,
+          "explain": "Tư duy trừu tượng, tư duy lý luận phát triển mạnh mẽ là cơ sở để các em thực hiện các thao tác toán học phức tạp hay phân tích quy luật tự nhiên, xã hội. Tư duy của các em có căn cứ, có tính độc lập, óc phê phán và hoài nghi khoa học."
+        },
+        {
+          "id": 27,
+          "text": "Trong quan hệ bạn bè, thanh niên học sinh thường đề cao điều kiện nào nhất?",
+          "options": [
+            "Sự trung thành, gắn bó, tin cậy và đồng cảm sâu sắc.",
+            "Bao che khuyết điểm cho nhau trong mọi hoàn cảnh.",
+            "Sự giống nhau về điều kiện kinh tế gia đình.",
+            "Tách biệt rõ ràng ranh giới giữa bạn cùng giới và bạn khác giới."
+          ],
+          "correctIndex": 0,
+          "explain": "Tình bạn ở tuổi này có cơ sở và lý trí hơn. Các em đề cao sự trung thành, sự gắn bó, sự tin cậy. Đặc biệt, sự đồng cảm trong cảm xúc là một nét mới trong tình bạn của tuổi đầu thanh niên."
+        },
+        {
+          "id": 28,
+          "text": "Việc học sinh THPT thường xuyên đưa ra nhận định của mình về các vấn đề đúng - sai, thiện - ác trong cuộc sống, cũng như chọn lựa những nguyên tắc ứng xử cho riêng mình, là biểu hiện của điều gì?",
+          "options": [
+            "Sự khẳng định vị trí độc tôn của bản thân.",
+            "Sự hình thành lý tưởng sống viển vông.",
+            "Sự hình thành thế giới quan khoa học.",
+            "Sự phát triển tư duy hình tượng."
+          ],
+          "correctIndex": 2,
+          "explain": "Sự hình thành thế giới quan khoa học là một nét cấu tạo tâm lý mới của tuổi đầu thanh niên, thể hiện qua việc đánh giá vai trò của các mối quan hệ, các cuộc tranh luận về thiện - ác, đẹp - xấu và ý nghĩa cuộc sống."
+        },
+        {
+          "id": 29,
+          "text": "Sự phát triển tự ý thức của lứa tuổi đầu thanh niên có điểm gì tiến bộ vượt bậc so với tuổi thiếu niên?",
+          "options": [
+            "Chỉ quan tâm đánh giá hình thức, dáng vẻ bề ngoài.",
+            "Không chỉ phân tích, đánh giá bản thân ở hiện tại mà còn hướng tới tương lai.",
+            "Khả năng đánh giá bản thân hoàn toàn phụ thuộc vào nhận xét của bạn bè.",
+            "Rất tự kiêu và không bao giờ chấp nhận mình có điểm yếu."
+          ],
+          "correctIndex": 1,
+          "explain": "Các em không chỉ phân tích, đánh giá bản thân trong hiện tại mà còn ở cả tương lai (ví dụ: sau khi tốt nghiệp THPT tôi sẽ có gì và làm được gì). Khả năng đánh giá trở nên tổng hợp, toàn diện và độc lập hơn."
+        },
+        {
+          "id": 30,
+          "text": "Một trong những nhu cầu tâm lý đặc trưng và nổi bật nhất của lứa tuổi thanh niên là gì?",
+          "options": [
+            "Nhu cầu được vui chơi giải trí vô điều kiện.",
+            "Nhu cầu chống đối lại mọi chuẩn mực của gia đình.",
+            "Nhu cầu được tôn trọng, độc lập, bình đẳng và thể hiện bản thân.",
+            "Nhu cầu được người lớn chở che và quyết định thay mọi việc."
+          ],
+          "correctIndex": 2,
+          "explain": "Nhu cầu được tôn trọng, độc lập, bình đẳng trong giao tiếp (đặc biệt với người lớn) và nhu cầu thể hiện bản thân là nhu cầu rất quan trọng và phổ biến ở lứa tuổi này."
+        },
+        {
+          "id": 31,
+          "text": "Thanh niên học sinh thường đưa ra nhận định của mình về các vấn đề đúng - sai, thiện - ác trong cuộc sống và chọn lựa những nguyên tắc ứng xử riêng. Đó là biểu hiện của điều gì?",
+          "options": [
+            "Sự khẳng định vị trí độc tôn của bản thân.",
+            "Sự hình thành lý tưởng sống viển vông.",
+            "Sự hình thành thế giới quan khoa học.",
+            "Sự phát triển năng lực nhận thức."
+          ],
+          "correctIndex": 2,
+          "explain": "Sự hình thành thế giới quan mang tính khoa học và hệ thống là một nét cấu tạo tâm lý mới đặc trưng của tuổi đầu thanh niên. Nó thể hiện rõ qua những cuộc tranh luận về đúng-sai, thiện-ác, đẹp-xấu và việc các em lựa chọn những nguyên tắc, cách thức hành xử cho riêng mình."
+        },
+        {
+          "id": 32,
+          "text": "Trong quan hệ bạn bè, thanh niên học sinh thường đề cao điều gì nhất?",
+          "options": [
+            "Tuân thủ tuyệt đối bộ luật tình bạn.",
+            "Bạn bè phải sống chết có nhau trong mọi hoàn cảnh.",
+            "Sự trung thành, gắn bó, tin cậy và đồng cảm sâu sắc.",
+            "Có chung hoàn cảnh gia đình và điều kiện kinh tế."
+          ],
+          "correctIndex": 2,
+          "explain": "Tình bạn ở lứa tuổi đầu thanh niên có cơ sở và lý trí hơn. Trong quan hệ với bạn bè, các em đặc biệt đề cao sự trung thành, sự gắn bó, sự tin cậy và sự đồng cảm trong cảm xúc."
+        },
+        {
+          "id": 33,
+          "text": "Một học sinh lớp 10 bắt đầu có những rung cảm lãng mạn với một bạn khác giới và cảm thấy những cảm xúc này rất mới mẻ, đặc biệt. Dựa trên đặc điểm tình yêu ở tuổi đầu thanh niên, điều này cho thấy đặc điểm nào của mối tình đầu?",
+          "options": [
+            "Tính chất vụ lợi và thực dụng.",
+            "Tính chất trong sáng, giàu cảm xúc và mang tính lý tưởng hóa.",
+            "Tính chất hời hợt và dễ dàng thay đổi.",
+            "Tính chất dựa trên sự nổi tiếng hoặc ngoại hình."
+          ],
+          "correctIndex": 1,
+          "explain": "Mối tình đầu của lứa tuổi thanh niên thường có đặc trưng là rất trong sáng, giàu cảm xúc, nhiều e lệ, thầm kín; rất trữ tình, chân thật, thuần khiết và mang tính lý tưởng hóa."
+        },
+        {
+          "id": 34,
+          "text": "Nhu cầu đặc trưng và nổi bật nhất của lứa tuổi thanh niên là gì?",
+          "options": [
+            "Vươn lên làm người lớn bằng mọi giá.",
+            "Thể hiện bản thân, được độc lập và tôn trọng.",
+            "Tự khẳng định mình thông qua việc chống đối.",
+            "Được người lớn bao bọc và bảo vệ."
+          ],
+          "correctIndex": 1,
+          "explain": "Nhu cầu được tôn trọng, được độc lập, bình đẳng trong giao tiếp và nhu cầu được thể hiện bản thân là những nhu cầu nổi bật và quan trọng nhất ở lứa tuổi thanh niên."
+        },
+        {
+          "id": 35,
+          "text": "Học sinh THPT thường xuyên quan tâm đến công việc mình sẽ làm sau này. Các em tìm hiểu thông tin về ngành học, trường học, sở thích, khả năng của bản thân và nhu cầu xã hội để xem bản thân có phù hợp với công việc hay không. Điều này cho thấy đặc điểm nào?",
+          "options": [
+            "Sự phát triển hứng thú về những giá trị của bản thân.",
+            "Hoạt động học tập - hướng nghiệp là hoạt động chủ đạo, chi phối các hoạt động khác.",
+            "Có khả năng nhìn nhận đầy đủ các năng lực của bản thân.",
+            "Nhu cầu được thể hiện khả năng của bản thân."
+          ],
+          "correctIndex": 1,
+          "explain": "Ở lứa tuổi đầu thanh niên, hoạt động học tập – hướng nghiệp trở thành hoạt động chủ đạo. Xu hướng nghề nghiệp này chi phối mạnh mẽ sự hình thành và phát triển nhân cách, thúc đẩy các em tìm hiểu thông tin và rèn luyện để đáp ứng yêu cầu nghề nghiệp."
+        },
+        {
+          "id": 36,
+          "text": "Học sinh thường xuyên tranh luận về những hiện tượng trong cuộc sống, rất thích chia sẻ quan điểm cá nhân và tìm thông tin từ nhiều nguồn khác nhau (thầy cô, mạng xã hội...). Điều này cho thấy đặc điểm gì trong sự phát triển nhân cách của lứa tuổi đầu thanh niên?",
+          "options": [
+            "Sự phát triển hứng thú.",
+            "Sự phát triển năng lực tự ý thức.",
+            "Sự hình thành thế giới quan khoa học.",
+            "Sự phát triển nhu cầu."
+          ],
+          "correctIndex": 2,
+          "explain": "Việc học sinh tích cực tìm hiểu, trao đổi, tranh luận và bảo vệ quan điểm cá nhân về các hiện tượng, vấn đề xã hội chính là biểu hiện rõ nét của sự hình thành thế giới quan khoa học."
+        },
+        {
+          "id": 37,
+          "text": "Thuyết học tập \"Vùng phát triển gần nhất\" (ZPD) của nhà tâm lý học L.S. Vygotsky đề cập đến nội dung nào dưới đây?",
+          "options": [
+            "Là khoảng cách giữa khả năng trẻ tự làm được mà không cần hướng dẫn với khả năng trẻ có thể làm được dưới sự hướng dẫn của người lớn.",
+            "Là sự phối hợp giữa các điều kiện phát triển bên trong và bên ngoài.",
+            "Là giai đoạn tâm lý phát triển ổn định nhất của học sinh.",
+            "Là vùng không gian vật lý trong lớp học giúp trẻ phát triển tốt nhất."
+          ],
+          "correctIndex": 0,
+          "explain": "Vùng phát triển gần nhất (ZPD) là mức độ mà ở đó học sinh không thể tự mình giải quyết vấn đề, nhưng dưới sự tổ chức, hướng dẫn và giúp đỡ của người lớn (người dạy), học sinh có thể tiếp thu và đạt tới một trình độ phát triển cao hơn."
+        },
+        {
+          "id": 38,
+          "text": "Quan điểm \"Trẻ em không làm những điều mà người lớn nói nhưng lại làm cái mà người lớn làm\" đề cập đến thuyết học tập nhận thức xã hội của nhà tâm lý học nào?",
+          "options": [
+            "J. Piaget.",
+            "L.S. Vygotsky.",
+            "A. Bandura.",
+            "B.F. Skinner."
+          ],
+          "correctIndex": 2,
+          "explain": "Thuyết học tập nhận thức xã hội của Albert Bandura nhấn mạnh rằng một hành vi có thể được hình thành dựa trên việc quan sát và bắt chước hành vi của người khác (người làm mẫu), giải thích cho việc trẻ em thường học theo những gì người lớn làm thay vì những gì người lớn chỉ nói bằng lời."
+        },
+        {
+          "id": 39,
+          "text": "Hiện tượng: \"So với tình cảm của lứa tuổi thiếu niên (THCS), tình cảm của lứa tuổi đầu thanh niên (THPT) đã hoàn thiện hơn, ổn định hơn và ít bồng bột hơn\" là sự thể hiện của quy luật nào trong sự phát triển tâm lý cá nhân?",
+          "options": [
+            "Quy luật không đồng đều.",
+            "Quy luật toàn vẹn.",
+            "Quy luật mềm dẻo và khả năng bù trừ.",
+            "Quy luật phủ định của phủ định."
+          ],
+          "correctIndex": 1,
+          "explain": "Quy luật toàn vẹn chỉ ra rằng con người càng phát triển thì tâm lý càng trở nên trọn vẹn, thống nhất và bền vững hơn. Nhận thức, tình cảm và hành động trở nên nhất quán và ổn định hơn so với lứa tuổi trước."
+        },
+        {
+          "id": 40,
+          "text": "Khái niệm \"Tình huống xã hội của sự phát triển\" theo L.S. Vygotsky được hiểu như thế nào?",
+          "options": [
+            "Là sự phối hợp đặc biệt giữa các điều kiện phát triển bên trong (thể chất, vốn tri thức...) và các điều kiện phát triển bên ngoài (môi trường, các mối quan hệ...).",
+            "Là những nét tâm lý xuất hiện lần đầu tiên ở giai đoạn lứa tuổi đó.",
+            "Là hoạt động quy định những biến đổi chủ yếu nhất tâm lý con người.",
+            "Là những giai đoạn phát triển tâm lý đầy biến động xen giữa các giai đoạn ổn định."
+          ],
+          "correctIndex": 0,
+          "explain": "Tình huống xã hội của sự phát triển là sự phối hợp đặc biệt giữa các điều kiện phát triển bên trong và các điều kiện phát triển bên ngoài; khi đạt đến độ \"chín muồi\", nó sẽ tạo điều kiện thúc đẩy trẻ bước sang một giai đoạn phát triển tâm lý mới."
+        },
+        {
+          "id": 41,
+          "text": "Câu thành ngữ \"Gần mực thì đen, gần đèn thì sáng\" hay \"Ở bầu thì tròn, ở ống thì dài\" phản ánh quan điểm của học thuyết nào về sự phát triển tâm lý cá nhân?",
+          "options": [
+            "Thuyết tiền định.",
+            "Thuyết duy cảm.",
+            "Thuyết hội tụ hai yếu tố.",
+            "Chủ nghĩa duy vật biện chứng."
+          ],
+          "correctIndex": 1,
+          "explain": "Thuyết duy cảm quan niệm rằng môi trường là nhân tố quyết định sự phát triển tâm lý của trẻ em. Trẻ em như \"tờ giấy trắng\", môi trường xung quanh như thế nào thì sẽ nhào nặn tâm lý trẻ như thế đó."
+        },
+        {
+          "id": 42,
+          "text": "Hiện tượng \"Trẻ lên 3 tuổi nghĩ mình có thể tự giặt quần áo được nhưng thực tế thì các em chưa thể tự làm được\" là biểu hiện của quy luật nào trong sự phát triển tâm lý?",
+          "options": [
+            "Quy luật lượng - chất.",
+            "Quy luật phủ định của phủ định.",
+            "Quy luật mâu thuẫn và đấu tranh giữa các mặt đối lập.",
+            "Quy luật không đồng đều."
+          ],
+          "correctIndex": 2,
+          "explain": "Hiện tượng này phản ánh sự mâu thuẫn giữa một bên là \"cái tôi muốn\" (nhu cầu muốn làm người lớn, muốn tự lập) và một bên là \"cái tôi có thể\" (khả năng hiện tại còn hạn chế). Đây chính là mâu thuẫn nội tại thúc đẩy đứa trẻ tích cực hoạt động để phát triển tâm lý."
+        },
+        {
+          "id": 43,
+          "text": "Quá trình tự nhận thức về bản thân của lứa tuổi thiếu niên thường diễn ra theo trình tự nào dưới đây?",
+          "options": [
+            "Dáng vẻ bề ngoài → Hành vi → Phẩm chất tính cách, năng lực đơn lẻ → Phẩm chất thể hiện thái độ với người khác/bản thân → Phẩm chất phức tạp thể hiện nhiều mặt của nhân cách.",
+            "Hành vi → Dáng vẻ bề ngoài → Phẩm chất phức tạp → Năng lực học tập.",
+            "Phẩm chất phức tạp → Dáng vẻ bề ngoài → Hành vi → Thái độ với người khác.",
+            "Dáng vẻ bề ngoài → Năng lực học tập → Hành vi → Phẩm chất phức tạp."
+          ],
+          "correctIndex": 0,
+          "explain": "Nội dung và mức độ tự nhận thức của thiếu niên đi từ cái bề ngoài đến cái bên trong: Đầu tiên nhận thức dáng vẻ bề ngoài (mập, ốm, đẹp, xấu), đến các hành vi, tiếp theo là phẩm chất đơn lẻ (chăm chỉ, lười biếng), sau đó là phẩm chất thể hiện thái độ (ân cần, khiêm tốn) và cuối cùng mới nhận biết được phẩm chất phức tạp (lương tâm, danh dự)."
+        },
+        {
+          "id": 44,
+          "text": "Hạn chế chung nhất trong khả năng tự ý thức và tự đánh giá của lứa tuổi thiếu niên là gì?",
+          "options": [
+            "Chỉ đánh giá được hành vi của người khác mà không bao giờ tự đánh giá bản thân.",
+            "Hoàn toàn phụ thuộc vào sự đánh giá của cha mẹ và giáo viên.",
+            "Khả năng tự nhận thức còn hạn chế, các em dễ rơi vào tình trạng tự kiêu (đánh giá quá cao) hoặc tự ti (đánh giá quá thấp).",
+            "Luôn đánh giá bản thân mình thấp hơn so với năng lực thực tế."
+          ],
+          "correctIndex": 2,
+          "explain": "Khả năng tự nhận thức, tự đánh giá của thiếu niên đang phát triển nên nhiều lúc chưa chính xác. Các em chưa đủ khả năng phân tích hết ưu/nhược điểm nên dễ đánh giá mình quá cao (tự kiêu) hoặc đánh giá mình quá thấp (tự ti) và rất nhạy cảm với lời nhận xét của người khác."
+        },
+        {
+          "id": 45,
+          "text": "Học thuyết nào dưới đây giúp lý giải hiện tượng \"Hai chị em sinh đôi cùng trứng, sống trong cùng một gia đình nhưng lớn lên tính cách lại hoàn toàn khác nhau\"?",
+          "options": [
+            "Thuyết duy cảm.",
+            "Thuyết tiền định.",
+            "Chủ nghĩa duy vật biện chứng.",
+            "Thuyết hội tụ hai yếu tố."
+          ],
+          "correctIndex": 2,
+          "explain": "Theo Tâm lý học Mác-xít (Duy vật biện chứng), di truyền chỉ là tiền đề, môi trường là điều kiện, còn tính tích cực hoạt động của cá nhân mới đóng vai trò quyết định. Hai chị em dù chung gen và môi trường sống nhưng tính tích cực hoạt động và giao tiếp khác nhau sẽ hình thành nhân cách khác nhau."
+        },
+        {
+          "id": 46,
+          "text": "Phạm vi giao tiếp với bạn bè của lứa tuổi thiếu niên thường có diễn biến như thế nào?",
+          "options": [
+            "Luôn rộng rãi và không bao giờ thay đổi.",
+            "Ban đầu hẹp, sau đó mở rộng dần và kết bạn với tất cả mọi người.",
+            "Lúc đầu phạm vi rộng nhưng mang tính chất tạm thời, sau đó hẹp lại nhưng gắn bó, sâu sắc hơn và hình thành các nhóm bạn thân.",
+            "Chỉ giới hạn ở phạm vi rất hẹp từ đầu đến cuối giai đoạn."
+          ],
+          "correctIndex": 2,
+          "explain": "Lúc đầu phạm vi giao tiếp của các em thường rộng nhưng không bền vững (thời kỳ tìm kiếm bạn thân). Về sau, những em cùng hứng thú, sở thích kết thành nhóm bạn thân, lúc này phạm vi hẹp lại nhưng quan hệ gắn bó và sâu sắc hơn."
+        },
+        {
+          "id": 47,
+          "text": "Tại sao nhiều cha mẹ và giáo viên gặp khó khăn trong việc thay đổi thái độ đối xử với lứa tuổi thiếu niên, dẫn đến xung đột thế hệ?",
+          "options": [
+            "Vì thiếu niên vẫn sống phụ thuộc kinh tế vào bố mẹ và là đối tượng giáo dục của bố mẹ.",
+            "Vì biểu hiện bên ngoài và đặc điểm tâm lý bên trong của các em đôi lúc vẫn còn nhiều nét trẻ con.",
+            "Vì người lớn yêu thương và đã có thói quen chăm sóc, giám sát trẻ từ nhỏ.",
+            "Cả A, B và C đều đúng."
+          ],
+          "correctIndex": 3,
+          "explain": "Xung đột xảy ra vì người lớn vẫn giữ thói quen đối xử với các em như trẻ con. Lý do là các em vẫn phụ thuộc kinh tế, tâm lý và hành vi thỉnh thoảng vẫn rất trẻ con, và cha mẹ thì khó thay đổi thói quen chăm sóc, bảo bọc đã có từ trước."
+        },
+        {
+          "id": 48,
+          "text": "Lời phàn nàn của phụ huynh: \"Con tôi 13 tuổi, chân tay dài ngoẵng ra mà làm gì cũng hậu đậu, rửa bát thì vỡ, cắt đậu thì nát...\" được giải thích là do nguyên nhân sinh lý nào ở lứa tuổi thiếu niên?",
+          "options": [
+            "Sự phát triển mạnh nhưng thiếu cân đối, hài hòa của hệ cơ và hệ xương (xương phát triển nhanh hơn cơ).",
+            "Sự phát triển của tuyến nội tiết và hiện tượng dậy thì.",
+            "Do quá trình hưng phấn thần kinh chiếm ưu thế hoàn toàn so với ức chế.",
+            "Hành vi cố ý chống đối lại người lớn."
+          ],
+          "correctIndex": 0,
+          "explain": "Ở lứa tuổi này, hệ xương phát triển nhanh mạnh, trong khi hệ cơ phát triển chậm hơn. Sự phát triển không đều của xương bàn tay và các đốt ngón tay làm cho sự phối hợp vận động không nhịp nhàng, khiến các em trở nên lóng ngóng, vụng về, \"đụng đâu bể đó\"."
+        },
+        {
+          "id": 49,
+          "text": "Đặc điểm nổi bật trong sự phát triển trí nhớ của học sinh THCS (thiếu niên) là gì?",
+          "options": [
+            "Ghi nhớ máy móc (học vẹt) chiếm ưu thế tuyệt đối trong mọi môn học.",
+            "Trí nhớ từ ngữ - logic phát triển mạnh; ghi nhớ có chủ định, có ý nghĩa, logic dần thay thế ghi nhớ máy móc.",
+            "Hoàn toàn mất đi khả năng ghi nhớ máy móc.",
+            "Trí nhớ hình tượng bị suy giảm nghiêm trọng."
+          ],
+          "correctIndex": 1,
+          "explain": "Ở lứa tuổi thiếu niên, trí nhớ có chủ định nổi bật lên, trí nhớ từ ngữ - logic phát triển mạnh. Ghi nhớ máy móc dần nhường chỗ cho ghi nhớ có mục đích, có ý nghĩa. Các em biết dùng các thủ thuật, lập dàn ý để ghi nhớ."
+        },
+        {
+          "id": 50,
+          "text": "Vì sao học sinh lứa tuổi THPT (Đầu thanh niên) thường rất nhạy cảm với cái mới, thích sáng tạo và biết vận dụng hiểu biết vào các lĩnh vực mới mẻ?",
+          "options": [
+            "Vì tư duy trực quan hành động của các em đang ở mức hoàn thiện nhất.",
+            "Vì các em hoàn toàn không còn tin tưởng vào sách vở và giáo viên.",
+            "Vì tư duy trừu tượng, tư duy lý luận phát triển mạnh mẽ; các phẩm chất tư duy như tính độc lập, tính sáng tạo và tính mềm dẻo đạt mức độ cao.",
+            "Vì các em luôn có nhu cầu chống đối lại những quan điểm cũ của thế hệ trước."
+          ],
+          "correctIndex": 2,
+          "explain": "Ở lứa tuổi THPT, tư duy trừu tượng, tư duy lý luận phát triển mạnh mẽ. Đặc biệt, các phẩm chất quan trọng của tư duy như tính độc lập, tính sáng tạo, tính mềm dẻo phát triển mạnh, giúp các em nhạy cảm với cái mới và có khả năng vận dụng hiểu biết vào giải quyết các vấn đề thực tiễn."
+        },
+        {
+          "id": 51,
+          "text": "Sự phối hợp đặc biệt giữa các điều kiện phát triển bên trong (thể chất, vốn tri thức...) và các điều kiện phát triển bên ngoài (điều kiện sống, các mối quan hệ...) đặc trưng cho từng giai đoạn lứa tuổi được gọi là gì?",
+          "options": [
+            "Hoạt động chủ đạo.",
+            "Tình huống xã hội của sự phát triển.",
+            "Cấu tạo tâm lý mới.",
+            "Khủng hoảng lứa tuổi."
+          ],
+          "correctIndex": 1,
+          "explain": "Theo L.S. Vygotsky, tình huống xã hội của sự phát triển là sự phối hợp đặc biệt giữa các điều kiện bên trong và bên ngoài. Khi đạt đến độ \"chín muồi\", nó sẽ tạo điều kiện thúc đẩy trẻ bước sang một giai đoạn phát triển tâm lý mới."
+        },
+        {
+          "id": 52,
+          "text": "Theo L.S. Vygotsky, loại mâu thuẫn nào được xem là động lực chủ yếu nhất thúc đẩy sự phát triển tâm lý của trẻ em?",
+          "options": [
+            "Mâu thuẫn giữa môi trường tự nhiên và môi trường xã hội.",
+            "Mâu thuẫn giữa \"cái tôi muốn\" (nhu cầu) và \"cái tôi có thể\" (khả năng).",
+            "Mâu thuẫn giữa di truyền và giáo dục.",
+            "Mâu thuẫn giữa giáo viên và học sinh."
+          ],
+          "correctIndex": 1,
+          "explain": "Động lực của sự phát triển tâm lý chính là hoạt động tích cực của cá nhân để giải quyết các mâu thuẫn. Trong đó, mâu thuẫn chủ yếu nhất là mâu thuẫn giữa một bên là cái \"tôi muốn\" (nhu cầu) và một bên là cái \"tôi có thể\" (khả năng hiện tại)."
+        },
+        {
+          "id": 53,
+          "text": "Khi thấy con gái học lớp 7 (lứa tuổi thiếu niên) hay bắt chước cách ăn mặc, đi đứng, nói chuyện của các chị lớn hoặc các diễn viên điện ảnh, cha mẹ nên hiểu đây là biểu hiện của đặc điểm tâm lý nào?",
+          "options": [
+            "Sự khủng hoảng tâm lý do áp lực học hành.",
+            "Cảm giác mình là người lớn / Xu hướng vươn lên làm người lớn.",
+            "Sự hình thành thế giới quan khoa học.",
+            "Sự phát triển mạnh mẽ của tư duy trừu tượng."
+          ],
+          "correctIndex": 1,
+          "explain": "\"Cảm giác mình là người lớn\" là nét cấu tạo tâm lý mới trung tâm của thiếu niên. Về mặt hình thức, nó thể hiện rõ qua việc các em bắt đầu quan tâm đến dáng vẻ bề ngoài, cách ăn mặc, đi đứng, nói năng và cố gắng bắt chước người lớn."
+        },
+        {
+          "id": 54,
+          "text": "Về mặt sinh lý thần kinh, nguyên nhân khiến lứa tuổi thiếu niên thường khó làm chủ cảm xúc, dễ bị kích động, dễ nổi cáu và dễ có hành vi bốc đồng là do:",
+          "options": [
+            "Sự phát triển của hệ tim mạch chưa hoàn thiện.",
+            "Trọng lượng não bộ chưa bằng người lớn.",
+            "Quá trình hưng phấn thần kinh thường mạnh hơn quá trình ức chế.",
+            "Quá trình ức chế hoàn toàn lấn át quá trình hưng phấn."
+          ],
+          "correctIndex": 2,
+          "explain": "Hoạt động hệ thần kinh của thiếu niên chưa cân bằng, hưng phấn thường mạnh hơn ức chế nên các em dễ bị kích động, khó làm chủ cảm xúc, dễ vi phạm kỷ luật hay có hành vi bốc đồng."
+        },
+        {
+          "id": 55,
+          "text": "Mặc dù tri giác có chủ định dần thay thế tri giác không chủ định, nhưng quá trình tri giác của lứa tuổi thiếu niên (THCS) vẫn thường mắc phải hạn chế phổ biến nào?",
+          "options": [
+            "Hoàn toàn phụ thuộc vào cảm xúc và hình ảnh trực quan.",
+            "Tính hấp tấp, vội vàng; tính tổ chức và tính hệ thống trong tri giác còn yếu.",
+            "Không thể phân tích và tổng hợp được đối tượng.",
+            "Chỉ tri giác được những sự vật đơn giản, quen thuộc."
+          ],
+          "correctIndex": 1,
+          "explain": "Ở tuổi thiếu niên, tri giác có trình tự, mục đích và kế hoạch hơn. Tuy nhiên, các em cũng còn nhiều hạn chế như: hấp tấp, vội vàng, tính tổ chức và tính hệ thống trong tri giác còn yếu."
+        },
+        {
+          "id": 56,
+          "text": "Đời sống xúc cảm - tình cảm của lứa tuổi thiếu niên (THCS) có đặc trưng nổi bật nào?",
+          "options": [
+            "Hoàn toàn phục tùng lý trí và không bao giờ thay đổi.",
+            "Mang tính mâu thuẫn, chưa ổn định, cường độ cảm xúc khá mạnh và dễ thay đổi.",
+            "Ít bộc lộ cảm xúc, sống khép kín và tĩnh lặng.",
+            "Rất sâu sắc, ổn định và không chịu ảnh hưởng từ bạn bè."
+          ],
+          "correctIndex": 1,
+          "explain": "Điểm đặc trưng trong các biểu hiện của đời sống tình cảm lứa tuổi thiếu niên là tính mâu thuẫn, chưa ổn định, dễ thay đổi. Trạng thái xúc cảm thường bộc phát với cường độ khá mạnh (vừa vui đó, rồi buồn đó)."
+        },
+        {
+          "id": 57,
+          "text": "Khi nguyện vọng muốn được độc lập và tôn trọng không được người lớn đáp ứng (người lớn vẫn áp đặt, coi các em như trẻ con, giám sát chặt chẽ), học sinh lứa tuổi thiếu niên thường có phản ứng chung là gì?",
+          "options": [
+            "Vui vẻ chấp nhận vì biết người lớn luôn muốn tốt cho mình.",
+            "Hoàn toàn tuân theo vô điều kiện để được khen ngợi.",
+            "Có thái độ tiêu cực, chống đối lại người lớn một cách công khai hoặc ngấm ngầm.",
+            "Tự thu mình lại, từ bỏ mọi nhu cầu cá nhân."
+          ],
+          "correctIndex": 2,
+          "explain": "Nhu cầu tự khẳng định mình và khát vọng độc lập của thiếu niên rất cao. Nếu người lớn không thay đổi cách ứng xử mà vẫn ra lệnh, can thiệp thô bạo, các em sẽ có thái độ và phản ứng tiêu cực, chống đối lại một cách công khai hay ngấm ngầm (như cãi lại, né tránh)."
+        },
+        {
+          "id": 58,
+          "text": "Nét mới nổi bật nhất trong tình bạn của lứa tuổi Đầu thanh niên (THPT) so với lứa tuổi thiếu niên là gì?",
+          "options": [
+            "Đòi hỏi bạn bè phải bao che khuyết điểm cho nhau.",
+            "Hoàn toàn phụ thuộc vào sự kiểm soát của cha mẹ.",
+            "Sự đồng cảm sâu sắc trong cảm xúc.",
+            "Tình bạn chỉ mang tính chất tạm thời, dễ đổ vỡ."
+          ],
+          "correctIndex": 2,
+          "explain": "Tình bạn ở tuổi đầu thanh niên có cơ sở và lý trí hơn. Các em đề cao sự trung thành, tin cậy. Đặc biệt, sự đồng cảm trong cảm xúc (khả năng nhận biết và đáp ứng cảm xúc của bạn) là một nét mới nổi bật trong tình bạn của lứa tuổi này."
+        },
+        {
+          "id": 59,
+          "text": "Biểu hiện nào dưới đây chứng tỏ sự phát triển nhận thức, trí tuệ ở lứa tuổi Đầu thanh niên (THPT) đã đạt đến mức độ cao?",
+          "options": [
+            "Tư duy của các em có căn cứ, khá quyết đoán, có óc phê phán và tính hoài nghi khoa học.",
+            "Chỉ ghi nhớ máy móc những gì giáo viên truyền đạt trên lớp.",
+            "Tư duy trực quan hành động vẫn giữ vai trò chủ đạo trong việc giải bài tập.",
+            "Thường kết luận vội vàng theo cảm tính và phụ thuộc hoàn toàn vào lập luận của người khác."
+          ],
+          "correctIndex": 0,
+          "explain": "Ở tuổi THPT, tư duy trừu tượng, tư duy lý luận phát triển mạnh mẽ. Tư duy của các em có căn cứ, khá quyết đoán, có óc phê phán và tính hoài nghi khoa học, giúp các em thực hiện được các thao tác phức tạp."
+        },
+        {
+          "id": 60,
+          "text": "Việc thanh niên học sinh (THPT) rất mong muốn tìm kiếm cho mình một \"mẫu hình lý tưởng\" (ví dụ: một doanh nhân thành đạt, một nhà hoạt động xã hội danh tiếng, một giáo viên được yêu mến...) để noi theo là biểu hiện của việc hình thành đặc điểm nhân cách nào?",
+          "options": [
+            "Sự hình thành lý tưởng sống.",
+            "Sự phát triển tư duy hình tượng.",
+            "Cảm giác mình là người lớn.",
+            "Nhu cầu kết bạn tâm tình."
+          ],
+          "correctIndex": 0,
+          "explain": "Sự hình thành lý tưởng sống là mục tiêu cao đẹp mà cá nhân mong muốn đạt được. Ở lứa tuổi này, các em mong muốn tìm kiếm cho mình một \"mẫu hình lý tưởng\" để làm động lực phấn đấu, thúc đẩy hành động."
+        }
+      ]
+    },
+    {
       "id": "exam-final-1",
       "type": "final",
       "chapter": "Đề Tổng Hợp",
