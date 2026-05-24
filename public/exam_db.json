@@ -4307,7 +4307,728 @@
       "chapter": "GTSP - Chương 1",
       "title": "Ôn tập: Lý luận về giao tiếp",
       "time": 2400,
-      "questions": []
+      "questions": [
+        {
+          "id": 1,
+          "text": "Khái niệm đầy đủ và bao quát nhất về giao tiếp là gì?",
+          "options": [
+            "Là quá trình truyền đạt thông tin một chiều từ người nói đến người nghe.",
+            "Là quá trình hình thành và phát triển sự tiếp xúc giữa người với người, được phát sinh từ nhu cầu trong hoạt động chung.",
+            "Là sự trao đổi thông tin giữa con người và máy móc hoặc động vật.",
+            "Là sự tương tác vật lý đơn thuần giữa con người với môi trường tự nhiên."
+          ],
+          "correctIndex": 1,
+          "explain": "Giao tiếp là quá trình hình thành và phát triển sự tiếp xúc giữa người với người được phát sinh từ nhu cầu trong hoạt động chung, bao gồm sự trao đổi thông tin, xây dựng chiến lược tương tác thống nhất và tri giác, tìm hiểu người khác."
+        },
+        {
+          "id": 2,
+          "text": "Giao tiếp của con người có bao nhiêu đặc điểm cơ bản?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "correctIndex": 2,
+          "explain": "Giao tiếp có 4 đặc điểm cơ bản gồm: luôn mang tính mục đích, là sự tác động giữa chủ thể với chủ thể, mang tính phổ biến, và có mối quan hệ chặt chẽ với hoạt động."
+        },
+        {
+          "id": 3,
+          "text": "Đặc điểm \"Giao tiếp là sự tác động giữa chủ thể với chủ thể\" có nghĩa là gì?",
+          "options": [
+            "Một bên luôn đóng vai trò chủ động, bên kia hoàn toàn thụ động.",
+            "Chỉ có con người tác động lên thế giới đồ vật xung quanh.",
+            "Cả hai bên đều là chủ thể tích cực, có sự tác động qua lại, song phương và đa chiều.",
+            "Chủ thể giao tiếp luôn phải dùng ngôn ngữ để tác động lẫn nhau."
+          ],
+          "correctIndex": 2,
+          "explain": "Trong giao tiếp, không có ai chỉ là khách thể. Giao tiếp là sự tác động song phương và đa chiều giữa các chủ thể có ý thức."
+        },
+        {
+          "id": 4,
+          "text": "Trong các chức năng của giao tiếp, chức năng nào được xem là quan trọng nhất và con người sử dụng sớm nhất?",
+          "options": [
+            "Chức năng thông tin hai chiều.",
+            "Chức năng giáo dục và phát triển nhân cách.",
+            "Chức năng thỏa mãn nhu cầu của con người.",
+            "Chức năng tổ chức, phối hợp hành động."
+          ],
+          "correctIndex": 2,
+          "explain": "Chức năng thỏa mãn nhu cầu của con người là chức năng quan trọng nhất của giao tiếp và cũng là chức năng mà con người sử dụng sớm nhất trong đời sống."
+        },
+        {
+          "id": 5,
+          "text": "Khi giáo viên uốn nắn, nhắc nhở để học sinh thay đổi những hành vi không phù hợp, giáo viên đang sử dụng chức năng nào của giao tiếp?",
+          "options": [
+            "Chức năng thông tin.",
+            "Chức năng điều khiển, điều chỉnh hành vi.",
+            "Chức năng xúc cảm.",
+            "Chức năng tổ chức hành động."
+          ],
+          "correctIndex": 1,
+          "explain": "Chức năng điều khiển, điều chỉnh hành vi giúp các cá nhân tác động, gây ảnh hưởng đến hành vi của người khác, ví dụ như giáo viên uốn nắn hành vi của học sinh cho phù hợp với chuẩn mực."
+        },
+        {
+          "id": 6,
+          "text": "Việc phân chia giao tiếp thành \"giao tiếp trực tiếp\" và \"giao tiếp gián tiếp\" được dựa trên căn cứ nào?",
+          "options": [
+            "Căn cứ vào phương tiện giao tiếp.",
+            "Căn cứ vào quy cách giao tiếp.",
+            "Căn cứ vào tính chất của giao tiếp.",
+            "Căn cứ vào khoảng cách giao tiếp."
+          ],
+          "correctIndex": 3,
+          "explain": "Dựa vào khoảng cách giao tiếp, giao tiếp được chia thành giao tiếp trực tiếp (mặt đối mặt) và giao tiếp gián tiếp (qua phương tiện, thư từ)."
+        },
+        {
+          "id": 7,
+          "text": "Sự tương tác giữa giáo viên và học sinh trên bục giảng trong giờ học là ví dụ điển hình của loại hình giao tiếp nào xét theo quy cách giao tiếp?",
+          "options": [
+            "Giao tiếp chính thức.",
+            "Giao tiếp không chính thức.",
+            "Giao tiếp gián tiếp.",
+            "Giao tiếp phi ngôn ngữ."
+          ],
+          "correctIndex": 0,
+          "explain": "Giao tiếp chính thức là hình thức giao tiếp diễn ra theo quy định, chức trách. Giao tiếp giữa giáo viên và học sinh trên lớp đòi hỏi phải tuân thủ các chuẩn mực, quy định sư phạm nên thuộc loại này."
+        },
+        {
+          "id": 8,
+          "text": "Hoạt động và giao tiếp có mối quan hệ với nhau như thế nào?",
+          "options": [
+            "Hoàn toàn độc lập với nhau.",
+            "Có mối quan hệ chặt chẽ, cùng góp phần hình thành và phát triển tâm lý người.",
+            "Hoạt động quyết định giao tiếp, nhưng giao tiếp không tác động lại hoạt động.",
+            "Giao tiếp là kết quả duy nhất của hoạt động."
+          ],
+          "correctIndex": 1,
+          "explain": "Hoạt động và giao tiếp có mối quan hệ chặt chẽ, là điều kiện của nhau và cùng góp phần quan trọng trong sự hình thành, phát triển tâm lý người."
+        },
+        {
+          "id": 9,
+          "text": "Phương tiện giao tiếp nào được xem là phổ biến nhất và đạt hiệu quả cao nhất của con người?",
+          "options": [
+            "Giao tiếp bằng ánh mắt và nụ cười.",
+            "Giao tiếp bằng ngôn ngữ (lời nói, chữ viết).",
+            "Giao tiếp bằng cử chỉ, điệu bộ.",
+            "Giao tiếp qua hình ảnh."
+          ],
+          "correctIndex": 1,
+          "explain": "Giao tiếp bằng ngôn ngữ là hình thức giao tiếp đặc trưng của con người, được sử dụng phổ biến nhất và đạt hiệu quả cao nhất."
+        },
+        {
+          "id": 10,
+          "text": "Trong quá trình giao tiếp, cá nhân dùng người khác làm \"gương soi\" để đối chiếu, nhận thức lại bản thân mình. Đây là biểu hiện của chức năng nào?",
+          "options": [
+            "Chức năng xúc cảm.",
+            "Chức năng nhận thức và đánh giá lẫn nhau.",
+            "Chức năng thông tin hai chiều.",
+            "Chức năng thỏa mãn nhu cầu."
+          ],
+          "correctIndex": 1,
+          "explain": "Thông qua chức năng nhận thức và đánh giá lẫn nhau, cá nhân có thể nhận thức về người khác, đồng thời dùng người khác làm \"gương soi\" để tự đánh giá và nhận thức về chính bản thân mình."
+        },
+        {
+          "id": 11,
+          "text": "Theo tác giả Nguyễn Quang Uẩn, giao tiếp được định nghĩa là gì?",
+          "options": [
+            "Là hoạt động đảm bảo sự giúp đỡ lẫn nhau và phối hợp hành động.",
+            "Là sự tiếp xúc giữa hai hay nhiều người thông qua phương tiện ngôn ngữ nhằm trao đổi thông tin.",
+            "Là quá trình truyền đạt và lĩnh hội những tri thức khoa học, vốn sống, kinh nghiệm.",
+            "Là sự tiếp xúc tâm lý giữa người và người, thông qua đó con người trao đổi với nhau về thông tin, về cảm xúc, tri giác lẫn nhau, ảnh hưởng tác động qua lại với nhau."
+          ],
+          "correctIndex": 3,
+          "explain": "Theo định nghĩa của Nguyễn Quang Uẩn, giao tiếp là sự tiếp xúc tâm lý giữa người với người, qua đó thực hiện trao đổi thông tin, cảm xúc, tri giác và ảnh hưởng lẫn nhau."
+        },
+        {
+          "id": 12,
+          "text": "Trong một nhóm học tập, các thành viên cùng nhau bàn bạc, phân công nhiệm vụ và thống nhất cách làm để hoàn thành bài tập lớn. Đây là biểu hiện của chức năng nào trong giao tiếp?",
+          "options": [
+            "Chức năng xúc cảm.",
+            "Chức năng thông tin hai chiều.",
+            "Chức năng tổ chức, điều khiển, phối hợp hành động của một nhóm người.",
+            "Chức năng nhận thức và đánh giá lẫn nhau."
+          ],
+          "correctIndex": 2,
+          "explain": "Chức năng tổ chức, điều khiển, phối hợp hành động được thực hiện khi các cá nhân trong nhóm tiếp xúc, trao đổi, bàn bạc và phân công công việc nhằm tạo ra sự thống nhất và nhịp nhàng trong hoạt động chung."
+        },
+        {
+          "id": 13,
+          "text": "Mối quan hệ giữa giao tiếp và hoạt động được thể hiện như thế nào?",
+          "options": [
+            "Giao tiếp là một phần của hoạt động và không có tác động ngược lại.",
+            "Giao tiếp diễn ra như một điều kiện của hoạt động và ngược lại, hoạt động là điều kiện để con người thực hiện giao tiếp.",
+            "Hoạt động luôn luôn sinh ra trước và tự tạo ra giao tiếp.",
+            "Hoạt động và giao tiếp là hai quá trình tâm lý độc lập, không ảnh hưởng lẫn nhau."
+          ],
+          "correctIndex": 1,
+          "explain": "Giao tiếp và hoạt động có mối quan hệ chặt chẽ. Giao tiếp diễn ra như một điều kiện của hoạt động (giúp tổ chức, phân công), và ngược lại, hoạt động là điều kiện để con người tiến hành hoạt động giao tiếp."
+        },
+        {
+          "id": 14,
+          "text": "Việc hai người bạn trò chuyện với nhau thông qua mạng xã hội (Facebook, Zalo) hoặc điện thoại thuộc loại hình giao tiếp nào (nếu căn cứ vào khoảng cách giao tiếp)?",
+          "options": [
+            "Giao tiếp trực tiếp.",
+            "Giao tiếp phi ngôn ngữ.",
+            "Giao tiếp gián tiếp.",
+            "Giao tiếp chính thức."
+          ],
+          "correctIndex": 2,
+          "explain": "Căn cứ vào khoảng cách giao tiếp, giao tiếp gián tiếp là hình thức thực hiện thông qua thư từ, phương tiện kỹ thuật (điện thoại, internet) hoặc các yếu tố trung gian khác."
+        },
+        {
+          "id": 15,
+          "text": "Giao tiếp là con đường để con người bộc lộ thái độ, sự đồng cảm, niềm vui hay nỗi buồn với đối tác. Đây là nội dung thuộc chức năng nào?",
+          "options": [
+            "Chức năng thỏa mãn nhu cầu.",
+            "Chức năng điều khiển hành vi.",
+            "Chức năng xúc cảm.",
+            "Chức năng giáo dục và phát triển nhân cách."
+          ],
+          "correctIndex": 2,
+          "explain": "Chức năng xúc cảm giúp con người bộc lộ thái độ, cảm xúc (vui, buồn, tức giận...) đối với thế giới xung quanh và với người giao tiếp."
+        },
+        {
+          "id": 16,
+          "text": "Căn cứ vào quy cách giao tiếp, hình thức giao tiếp không bị ràng buộc bởi các nghi thức, phụ thuộc vào nhu cầu, hứng thú và cảm xúc của các chủ thể được gọi là gì?",
+          "options": [
+            "Giao tiếp không chính thức.",
+            "Giao tiếp chính thức.",
+            "Giao tiếp gián tiếp.",
+            "Giao tiếp bằng ngôn ngữ."
+          ],
+          "correctIndex": 0,
+          "explain": "Giao tiếp không chính thức là hình thức giao tiếp không bị ràng buộc bởi các nghi thức, thể chế mà dựa vào tính tự nguyện, tự giác và nhu cầu, cảm xúc cá nhân."
+        },
+        {
+          "id": 17,
+          "text": "Đặc điểm \"Giao tiếp mang tính phổ biến\" được hiểu như thế nào?",
+          "options": [
+            "Giao tiếp chỉ là đặc quyền của những người có khả năng ngôn ngữ tốt.",
+            "Giao tiếp chỉ xuất hiện trong những hoàn cảnh, không gian giao tiếp chính thức.",
+            "Giao tiếp có ở mọi cá nhân, mọi con người đều có nhu cầu giao tiếp xuyên suốt quá trình phát triển.",
+            "Giao tiếp là hoạt động chỉ nảy sinh khi con người đã trưởng thành."
+          ],
+          "correctIndex": 2,
+          "explain": "Tính phổ biến của giao tiếp thể hiện ở chỗ mọi cá nhân, mọi con người đều có nhu cầu giao tiếp. Nhu cầu này tiếp tục phát triển và thể hiện trong suốt cuộc đời của cá nhân."
+        },
+        {
+          "id": 18,
+          "text": "Thông qua sự tương tác với giáo viên trên lớp, học sinh lĩnh hội được các giá trị, chuẩn mực đạo đức và kinh nghiệm xã hội để dần hoàn thiện bản thân. Đây là biểu hiện rõ nét của chức năng nào?",
+          "options": [
+            "Chức năng nhận thức và đánh giá lẫn nhau.",
+            "Chức năng giáo dục và phát triển nhân cách.",
+            "Chức năng xúc cảm.",
+            "Chức năng thông tin hai chiều."
+          ],
+          "correctIndex": 1,
+          "explain": "Thông qua giao tiếp (đặc biệt là giao tiếp sư phạm), học sinh lĩnh hội được các chuẩn mực đạo đức, hệ thống giá trị và kinh nghiệm, từ đó thúc đẩy sự phát triển toàn diện nhân cách của học sinh."
+        },
+        {
+          "id": 19,
+          "text": "Việc sử dụng các cử chỉ, điệu bộ, nét mặt, ánh mắt thay cho lời nói thuộc loại hình giao tiếp nào?",
+          "options": [
+            "Giao tiếp bằng ngôn ngữ.",
+            "Giao tiếp trực tiếp.",
+            "Giao tiếp chính thức.",
+            "Giao tiếp phi ngôn ngữ."
+          ],
+          "correctIndex": 3,
+          "explain": "Giao tiếp phi ngôn ngữ là hình thức giao tiếp không dùng lời nói, mà sử dụng các cử chỉ, điệu bộ, ánh mắt, nét mặt và những yếu tố phi ngôn ngữ khác."
+        },
+        {
+          "id": 20,
+          "text": "Trong chức năng thông tin hai chiều của giao tiếp, mỗi cá nhân tham gia giao tiếp đóng vai trò như thế nào?",
+          "options": [
+            "Chỉ đóng vai trò là nguồn phát thông tin.",
+            "Chỉ đóng vai trò là nơi tiếp nhận thông tin thụ động.",
+            "Vừa là nguồn phát thông tin, vừa là nơi tiếp nhận thông tin.",
+            "Là người trung gian truyền tải thông tin."
+          ],
+          "correctIndex": 2,
+          "explain": "Trong quá trình trao đổi thông tin, giao tiếp là một quá trình hai chiều. Mỗi cá nhân trong giao tiếp vừa là nguồn phát thông tin, vừa là nơi tiếp nhận (thu tin) thông tin."
+        },
+        {
+          "id": 21,
+          "text": "Theo tác giả A.N. Leonchiev, giao tiếp được định nghĩa như thế nào?",
+          "options": [
+            "Giao tiếp là sự truyền đạt thông tin từ người này sang người khác một cách đơn thuần.",
+            "Giao tiếp là một hệ thống những quá trình có mục đích và động cơ trong hoạt động tập thể, thực hiện các quan hệ xã hội và nhân cách.",
+            "Giao tiếp là quá trình nhận thức thế giới khách quan và tự nhiên.",
+            "Giao tiếp là sự tiếp xúc giữa con người với thế giới đồ vật."
+          ],
+          "correctIndex": 1,
+          "explain": "Ở góc độ xem xét giao tiếp là một hoạt động, A.N. Leonchiev đã chỉ ra: \"Giao tiếp là một hệ thống những quá trình có mục đích và động cơ trong hoạt động tập thể, thực hiện các quan hệ xã hội và nhân cách, các quan hệ tâm lý...\"."
+        },
+        {
+          "id": 22,
+          "text": "Theo tác giả Nguyễn Xuân Thức, chức năng của giao tiếp được phân chia thành mấy nhóm cơ bản?",
+          "options": [
+            "2 nhóm (Nhóm chức năng thuần túy xã hội và nhóm chức năng tâm lý xã hội).",
+            "3 nhóm.",
+            "4 nhóm.",
+            "5 nhóm."
+          ],
+          "correctIndex": 0,
+          "explain": "Tác giả Nguyễn Xuân Thức phân chia chức năng của giao tiếp thành hai nhóm cụ thể: Nhóm các chức năng thuần túy xã hội và Nhóm các chức năng tâm lý xã hội."
+        },
+        {
+          "id": 23,
+          "text": "Giao tiếp giữa hai cá nhân thông qua các phương tiện trung gian như thư từ, điện thoại, internet... được gọi là gì?",
+          "options": [
+            "Giao tiếp trực tiếp.",
+            "Giao tiếp chính thức.",
+            "Giao tiếp gián tiếp.",
+            "Giao tiếp phi ngôn ngữ."
+          ],
+          "correctIndex": 2,
+          "explain": "Căn cứ vào khoảng cách giao tiếp, giao tiếp gián tiếp là hình thức giao tiếp qua thư từ, phương tiện kỹ thuật hoặc những yếu tố trung gian khác."
+        },
+        {
+          "id": 24,
+          "text": "Trong quá trình giao tiếp, hành động của cá nhân chịu sự tác động, uốn nắn của người khác và ngược lại, cá nhân đó cũng tác động đến hành vi của người khác. Đây là biểu hiện của chức năng nào?",
+          "options": [
+            "Chức năng xúc cảm.",
+            "Chức năng điều khiển, điều chỉnh hành vi.",
+            "Chức năng thông tin hai chiều.",
+            "Chức năng thỏa mãn nhu cầu."
+          ],
+          "correctIndex": 1,
+          "explain": "Chức năng điều khiển, điều chỉnh hành vi thể hiện ở sự tác động, ảnh hưởng lẫn nhau, giúp cá nhân điều chỉnh hành vi của người khác và nhận sự phản hồi để tự điều chỉnh hành vi của bản thân cho phù hợp với chuẩn mực."
+        },
+        {
+          "id": 25,
+          "text": "Đặc điểm \"Giao tiếp luôn mang tính mục đích\" thể hiện ở khía cạnh nào?",
+          "options": [
+            "Giao tiếp chỉ diễn ra khi có sự bắt buộc hoặc yêu cầu từ người lớn.",
+            "Giao tiếp luôn hướng tới việc giải quyết một nhiệm vụ hay đạt được một mục đích mang ý nghĩa thực tiễn hoặc tinh thần nào đó.",
+            "Giao tiếp chỉ có mục đích khi sử dụng ngôn ngữ nói.",
+            "Mục đích của giao tiếp luôn luôn hiện rõ và dễ dàng nhận biết được."
+          ],
+          "correctIndex": 1,
+          "explain": "Giao tiếp là đặc trưng của hoạt động con người nên nó gắn liền với tính mục đích. Việc tiến hành giao tiếp luôn nhằm đạt một sản phẩm nào đó mang ý nghĩa thực tiễn hoặc tinh thần."
+        },
+        {
+          "id": 26,
+          "text": "Theo nhà tâm lý học B.Ph. Lomov, giao tiếp có 3 chức năng cơ bản là gì?",
+          "options": [
+            "Chức năng thông tin, chức năng tổ chức, chức năng cảm xúc.",
+            "Chức năng nhận thức, chức năng giáo dục, chức năng thông tin.",
+            "Chức năng giao tiếp - thông tin, chức năng giao tiếp - điều chỉnh, chức năng giao tiếp - cảm xúc.",
+            "Chức năng thỏa mãn nhu cầu, chức năng phối hợp hành động, chức năng nhận thức."
+          ],
+          "correctIndex": 2,
+          "explain": "Nhà Tâm lý học Xô viết B.Ph. Lomov cho rằng giao tiếp có ba chức năng cơ bản: Chức năng giao tiếp - thông tin, Chức năng giao tiếp - điều chỉnh, và Chức năng giao tiếp - cảm xúc."
+        },
+        {
+          "id": 27,
+          "text": "Hình thức giao tiếp không bị ràng buộc bởi các nghi thức, thể chế, mà chủ yếu dựa vào tính tự nguyện, tự giác và nhu cầu của các chủ thể được gọi là gì?",
+          "options": [
+            "Giao tiếp trực tiếp.",
+            "Giao tiếp chính thức.",
+            "Giao tiếp gián tiếp.",
+            "Giao tiếp không chính thức."
+          ],
+          "correctIndex": 3,
+          "explain": "Căn cứ vào quy cách giao tiếp, giao tiếp không chính thức là hình thức giao tiếp không bị ràng buộc bởi các nghi thức mà dựa vào tính tự nguyện, tự giác, phụ thuộc vào nhu cầu, hứng thú, cảm xúc của các chủ thể."
+        },
+        {
+          "id": 28,
+          "text": "Dưới góc độ nhân cách, tác giả V.N. Miasixev định nghĩa giao tiếp là gì?",
+          "options": [
+            "Giao tiếp là một quá trình truyền đạt thông tin thuần túy.",
+            "Giao tiếp là một quá trình quan hệ tác động qua lại lẫn nhau giữa các cá nhân.",
+            "Giao tiếp là sự sao chép hành vi và thái độ của người khác.",
+            "Giao tiếp là quá trình thỏa mãn các nhu cầu sinh lý của con người."
+          ],
+          "correctIndex": 1,
+          "explain": "Dưới góc độ nhân cách, V.N. Miasixev cho rằng: \"Giao tiếp là một quá trình quan hệ tác động qua lại lẫn nhau giữa các cá nhân\"."
+        },
+        {
+          "id": 29,
+          "text": "Khẳng định nào sau đây là chuẩn xác nhất khi nói về mối quan hệ giữa hoạt động và giao tiếp?",
+          "options": [
+            "Hoạt động và giao tiếp tồn tại độc lập, không có sự tác động qua lại.",
+            "Giao tiếp diễn ra như một điều kiện của hoạt động, ngược lại hoạt động cũng có thể là điều kiện để thực hiện quan hệ giao tiếp.",
+            "Hoạt động nảy sinh từ giao tiếp và giao tiếp không hề phụ thuộc vào hoạt động.",
+            "Giao tiếp là kết quả duy nhất và cuối cùng của mọi hoạt động."
+          ],
+          "correctIndex": 1,
+          "explain": "Giao tiếp diễn ra như một điều kiện của hoạt động (phối hợp, trao đổi để triển khai hoạt động). Ngược lại, hoạt động cũng là điều kiện để thực hiện quan hệ giao tiếp giữa con người với con người."
+        },
+        {
+          "id": 30,
+          "text": "Chức năng nào của giao tiếp giúp cá nhân lĩnh hội các chuẩn mực đạo đức, giá trị xã hội và kinh nghiệm để từ đó hình thành, hoàn thiện bản thân?",
+          "options": [
+            "Chức năng xúc cảm.",
+            "Chức năng thông tin hai chiều.",
+            "Chức năng giáo dục và phát triển nhân cách.",
+            "Chức năng nhận thức lẫn nhau."
+          ],
+          "correctIndex": 2,
+          "explain": "Thông qua chức năng giáo dục và phát triển nhân cách, cá nhân lĩnh hội được các chuẩn mực đạo đức, hệ thống giá trị và kinh nghiệm xã hội, từ đó phát triển và hoàn thiện nhân cách của chính mình."
+        },
+        {
+          "id": 31,
+          "text": "Việc sử dụng các phương tiện như nét mặt, nụ cười, cử chỉ, ánh mắt và điệu bộ trong tương tác được gọi là hình thức giao tiếp nào?",
+          "options": [
+            "Giao tiếp gián tiếp.",
+            "Giao tiếp chính thức.",
+            "Giao tiếp phi ngôn ngữ.",
+            "Giao tiếp bằng ngôn ngữ."
+          ],
+          "correctIndex": 2,
+          "explain": "Theo cách phân loại căn cứ vào phương tiện, giao tiếp phi ngôn ngữ là hình thức giao tiếp không lời khi sử dụng các cử chỉ, điệu bộ và những yếu tố phi ngôn ngữ khác thay thế hoặc phụ trợ cho ngôn ngữ."
+        },
+        {
+          "id": 32,
+          "text": "Thông qua giao tiếp, con người có thể lĩnh hội tri thức, hiểu biết về thế giới tự nhiên, xã hội, đồng thời hiểu về người khác và hiểu về chính bản thân mình. Đây là nội dung của chức năng nào?",
+          "options": [
+            "Chức năng thông tin hai chiều.",
+            "Chức năng điều khiển, điều chỉnh hành vi.",
+            "Chức năng nhận thức và đánh giá lẫn nhau.",
+            "Chức năng giáo dục và phát triển nhân cách."
+          ],
+          "correctIndex": 2,
+          "explain": "Trong chức năng nhận thức và đánh giá lẫn nhau, ở các chủ thể luôn diễn ra quá trình nhận thức các tri thức về tự nhiên, xã hội, nhận thức bản thân và nhận thức về người khác thông qua tương tác."
+        },
+        {
+          "id": 33,
+          "text": "Giao tiếp chính thức là hình thức giao tiếp mang đặc điểm gì?",
+          "options": [
+            "Không bị ràng buộc bởi các nghi thức, thể chế hành chính.",
+            "Diễn ra theo quy định, theo chức trách và tuân thủ những yêu cầu, quy định nhất định.",
+            "Chỉ sử dụng các phương tiện phi ngôn ngữ để tương tác.",
+            "Hoàn toàn phụ thuộc vào tính tự nguyện, hứng thú của các chủ thể."
+          ],
+          "correctIndex": 1,
+          "explain": "Căn cứ vào quy cách giao tiếp, giao tiếp chính thức là hình thức giao tiếp diễn ra theo quy định, theo chức trách; trong quá trình đó đòi hỏi phải tuân thủ những yêu cầu, quy định nhất định."
+        },
+        {
+          "id": 34,
+          "text": "Điểm khác biệt căn bản giữa giao tiếp của con người và sự tương tác của con vật được thể hiện qua đặc điểm nào?",
+          "options": [
+            "Tính mục đích.",
+            "Khả năng phát ra âm thanh.",
+            "Tính di truyền.",
+            "Tính bầy đàn."
+          ],
+          "correctIndex": 0,
+          "explain": "Giao tiếp là đặc trưng của hoạt động con người nên nó gắn liền với tính mục đích. Sự khác nhau giữa hoạt động ở con người và con vật chính là tính mục đích: con người tiến hành giao tiếp luôn nhằm đạt một sản phẩm hay kết quả mang ý nghĩa tinh thần/thực tiễn."
+        },
+        {
+          "id": 35,
+          "text": "Tác giả nào đã khẳng định: \"Giao tiếp không chỉ là một quá trình thông tin mà còn là quá trình vật chất, quá trình xã hội, trong đó diễn ra sự trao đổi hoạt động, kinh nghiệm, sản phẩm của hoạt động\"?",
+          "options": [
+            "B.Ph. Lomov",
+            "A.N. Leonchiev",
+            "L.P. Byeva",
+            "V.N. Miasixev"
+          ],
+          "correctIndex": 2,
+          "explain": "Theo giáo trình, đây là quan điểm định nghĩa về giao tiếp được đưa ra bởi nhà tâm lý học L.P. Byeva, nhấn mạnh sự trao đổi toàn diện không chỉ ở khía cạnh thông tin."
+        },
+        {
+          "id": 36,
+          "text": "Chức năng nào của giao tiếp được xem là điều kiện tiên quyết cho sự phát triển bình thường về mặt tâm lý và đạo đức của con người?",
+          "options": [
+            "Chức năng nhận thức và đánh giá lẫn nhau.",
+            "Chức năng giáo dục và phát triển nhân cách.",
+            "Chức năng tổ chức, phối hợp hành động.",
+            "Chức năng xúc cảm."
+          ],
+          "correctIndex": 1,
+          "explain": "Chức năng giáo dục và phát triển nhân cách là điều kiện tiên quyết. Thông qua giao tiếp, con người tham gia vào các mối quan hệ xã hội, lĩnh hội chuẩn mực và giá trị, từ đó hình thành và hoàn thiện nhân cách của mình."
+        },
+        {
+          "id": 37,
+          "text": "Khi xem xét sự hình thành và phát triển tâm lý người, hoạt động và giao tiếp có mối quan hệ như thế nào?",
+          "options": [
+            "Giao tiếp đóng vai trò quyết định, hoạt động không ảnh hưởng đến tâm lý.",
+            "Cả hoạt động và giao tiếp đều không ảnh hưởng đáng kể đến tâm lý.",
+            "Chỉ có hoạt động mới tạo ra tâm lý người, giao tiếp chỉ đóng vai trò phụ.",
+            "Hoạt động và giao tiếp cùng góp phần quan trọng, là hai hình thức phản ánh hai loại quan hệ cơ bản của con người với thế giới."
+          ],
+          "correctIndex": 3,
+          "explain": "Hoạt động và giao tiếp là hai hình thức phản ánh hai loại quan hệ (quan hệ với thế giới đồ vật và quan hệ giữa người với người), chúng có mối quan hệ chặt chẽ và cùng góp phần quan trọng trong sự hình thành và phát triển tâm lý người."
+        },
+        {
+          "id": 38,
+          "text": "Tính phổ biến của giao tiếp được thể hiện rõ nhất ở khía cạnh nào?",
+          "options": [
+            "Giao tiếp chỉ xảy ra ở những người có khả năng ngôn ngữ xuất sắc.",
+            "Giao tiếp có ở mọi cá nhân, xuất hiện trong hầu hết mọi hoạt động sống và xuyên suốt từ lúc sinh ra đến khi trưởng thành.",
+            "Giao tiếp chỉ diễn ra trong những bối cảnh công việc và học tập mang tính chính thức.",
+            "Giao tiếp chỉ nảy sinh khi con người đã đạt đến một độ tuổi nhận thức nhất định."
+          ],
+          "correctIndex": 1,
+          "explain": "Đặc điểm giao tiếp mang tính phổ biến thể hiện ở chỗ mọi cá nhân, mọi con người đều có nhu cầu giao tiếp, nó tồn tại trong mọi hoạt động sống và bắt đầu ngay từ giai đoạn 0-2 tháng tuổi,."
+        },
+        {
+          "id": 39,
+          "text": "Hình thức giao tiếp mà các chủ thể \"mặt đối mặt\", trực tiếp phát và nhận tín hiệu của nhau trong cùng một không gian và thời gian được gọi là gì?",
+          "options": [
+            "Giao tiếp gián tiếp.",
+            "Giao tiếp chính thức.",
+            "Giao tiếp phi ngôn ngữ.",
+            "Giao tiếp trực tiếp."
+          ],
+          "correctIndex": 3,
+          "explain": "Căn cứ vào khoảng cách giao tiếp, giao tiếp trực tiếp là hình thức giao tiếp tiếp xúc mặt đối mặt khi các chủ thể trực tiếp phát và nhận tín hiệu của nhau."
+        },
+        {
+          "id": 40,
+          "text": "Khi học sinh mong muốn được người lớn tôn trọng, đối xử công bằng, được bộc lộ tâm tư, niềm vui hay nỗi buồn của mình với giáo viên, điều này đang phản ánh chức năng nào của giao tiếp?",
+          "options": [
+            "Chức năng xúc cảm.",
+            "Chức năng thông tin hai chiều.",
+            "Chức năng tổ chức, điều khiển.",
+            "Chức năng nhận thức."
+          ],
+          "correctIndex": 0,
+          "explain": "Chức năng xúc cảm giúp cá nhân thỏa mãn nhu cầu về cảm xúc, tình cảm. Học sinh luôn có nhu cầu được bộc lộ thái độ, mong muốn được người lớn tôn trọng, đối xử công bằng và chia sẻ những khúc mắc trong tuổi mới lớn."
+        },
+        {
+          "id": 41,
+          "text": "Theo định nghĩa bao quát nhất trong Tâm lý học, giao tiếp nảy sinh từ đâu?",
+          "options": [
+            "Từ sự phát triển của hệ thống ngôn ngữ.",
+            "Từ nhu cầu trong hoạt động chung của con người.",
+            "Từ những quy định và chuẩn mực của xã hội.",
+            "Từ bản năng sinh tồn tự nhiên của loài người."
+          ],
+          "correctIndex": 1,
+          "explain": "Giao tiếp là quá trình hình thành và phát triển sự tiếp xúc giữa người với người, được phát sinh từ nhu cầu trong hoạt động chung."
+        },
+        {
+          "id": 42,
+          "text": "Hoạt động và giao tiếp phản ánh hai loại quan hệ cơ bản nào của con người đối với thế giới xung quanh?",
+          "options": [
+            "Quan hệ với thế giới tự nhiên và quan hệ với máy móc.",
+            "Quan hệ với bản thân và quan hệ với gia đình.",
+            "Quan hệ với thế giới đồ vật (chủ thể - khách thể) và quan hệ giữa con người với con người (chủ thể - chủ thể).",
+            "Quan hệ với xã hội và quan hệ với vũ trụ."
+          ],
+          "correctIndex": 2,
+          "explain": "Trong hoạt động, con người tác động vào đồ vật (quan hệ chủ thể - khách thể). Còn giao tiếp là sự phản ánh mối quan hệ giữa con người với con người (quan hệ chủ thể - chủ thể)."
+        },
+        {
+          "id": 43,
+          "text": "Chức năng nào sau đây KHÔNG thuộc nhóm 7 chức năng cơ bản của giao tiếp dưới góc độ tâm lý học và quản lý?",
+          "options": [
+            "Chức năng thông tin hai chiều.",
+            "Chức năng nhận thức và đánh giá lẫn nhau.",
+            "Chức năng sản xuất của cải vật chất.",
+            "Chức năng xúc cảm."
+          ],
+          "correctIndex": 2,
+          "explain": "Sản xuất của cải vật chất là chức năng của hoạt động lao động, không phải là một trong 7 chức năng cơ bản của giao tiếp được đề cập trong giáo trình."
+        },
+        {
+          "id": 44,
+          "text": "Theo quan điểm của Tâm lý học Mác - xít, tâm lý người có nguồn gốc từ đâu và được hình thành thông qua con đường nào?",
+          "options": [
+            "Từ bẩm sinh di truyền, không cần thông qua sự tác động bên ngoài.",
+            "Từ thế giới khách quan bên ngoài, được hình thành thông qua hai phương diện là hoạt động và giao tiếp.",
+            "Từ sự phát triển tự nhiên và độc lập của não bộ con người.",
+            "Từ sự truyền đạt một chiều của thế hệ đi trước."
+          ],
+          "correctIndex": 1,
+          "explain": "Tâm lý người có nguồn gốc từ thế giới khách quan. Thông qua hoạt động và giao tiếp, cá nhân lĩnh hội những kinh nghiệm lịch sử - xã hội để chuyển hóa thành tâm lý bên trong."
+        },
+        {
+          "id": 45,
+          "text": "Trong đặc điểm \"Giao tiếp là sự tác động giữa chủ thể với chủ thể\", nhận định nào sau đây là chuẩn xác nhất?",
+          "options": [
+            "Quá trình tác động trong giao tiếp luôn diễn ra theo một chiều cố định.",
+            "Trong giao tiếp, luôn có một người hoàn toàn chủ động và một người hoàn toàn thụ động.",
+            "Sự tác động trong giao tiếp luôn mang tính chất song phương và đa chiều.",
+            "Tác động trong giao tiếp chỉ mang ý nghĩa tác động vật lý, không mang ý nghĩa tinh thần."
+          ],
+          "correctIndex": 2,
+          "explain": "Giao tiếp là sự tác động song phương và đa chiều. Không ai chỉ là \"khách thể\" chịu sự tác động, mà cả hai bên đều là những \"chủ thể\" tích cực, vừa phát tín hiệu vừa nhận tín hiệu."
+        },
+        {
+          "id": 46,
+          "text": "Khi một nhóm học sinh cùng bàn bạc để lên ý tưởng và phân công thực hiện bài thuyết trình, các em đang vận dụng chủ yếu chức năng nào của giao tiếp?",
+          "options": [
+            "Chức năng xúc cảm.",
+            "Chức năng nhận thức lẫn nhau.",
+            "Chức năng tổ chức, điều khiển, phối hợp hành động.",
+            "Chức năng giáo dục."
+          ],
+          "correctIndex": 2,
+          "explain": "Việc tiếp xúc, bàn bạc, phân công và phối hợp để cùng nhau hoàn thành bài tập (hoạt động chung) là biểu hiện điển hình của chức năng tổ chức, điều khiển, phối hợp hành động của một nhóm người."
+        },
+        {
+          "id": 47,
+          "text": "Việc phân chia giao tiếp thành \"Giao tiếp bằng ngôn ngữ\" và \"Giao tiếp phi ngôn ngữ\" được dựa trên tiêu chí nào?",
+          "options": [
+            "Căn cứ vào khoảng cách giao tiếp.",
+            "Căn cứ vào quy cách giao tiếp.",
+            "Căn cứ vào mục đích giao tiếp.",
+            "Căn cứ vào phương tiện giao tiếp."
+          ],
+          "correctIndex": 3,
+          "explain": "Căn cứ vào phương tiện được sử dụng, giao tiếp được chia thành 2 loại là giao tiếp bằng ngôn ngữ (lời nói, chữ viết) và giao tiếp phi ngôn ngữ (cử chỉ, điệu bộ, ánh mắt...)."
+        },
+        {
+          "id": 48,
+          "text": "Trong quá trình giao tiếp, khi một cá nhân \"đặt mình vào vị trí của người khác\" để thấu hiểu suy nghĩ, tình cảm và hoàn cảnh của đối tác, cá nhân đó đang thực hiện tốt chức năng nào?",
+          "options": [
+            "Chức năng thỏa mãn nhu cầu sinh lý.",
+            "Chức năng nhận thức và đánh giá lẫn nhau.",
+            "Chức năng điều chỉnh hành vi.",
+            "Chức năng tổ chức hành động."
+          ],
+          "correctIndex": 1,
+          "explain": "Việc tri giác, tìm hiểu và đặt mình vào vị trí của người khác để thấu hiểu họ là biểu hiện của quá trình nhận thức và đánh giá đối tác trong giao tiếp."
+        },
+        {
+          "id": 49,
+          "text": "Sự khác biệt căn bản giữa \"Giao tiếp trực tiếp\" và \"Giao tiếp gián tiếp\" là gì?",
+          "options": [
+            "Giao tiếp trực tiếp sử dụng ngôn ngữ, giao tiếp gián tiếp sử dụng cử chỉ.",
+            "Giao tiếp trực tiếp là mặt đối mặt trong cùng không gian/thời gian, giao tiếp gián tiếp được thực hiện thông qua phương tiện trung gian.",
+            "Giao tiếp trực tiếp diễn ra ở trường học, giao tiếp gián tiếp diễn ra ở nhà.",
+            "Giao tiếp trực tiếp mang tính bắt buộc, giao tiếp gián tiếp mang tính tự nguyện."
+          ],
+          "correctIndex": 1,
+          "explain": "Căn cứ vào khoảng cách, giao tiếp trực tiếp là sự tiếp xúc \"mặt đối mặt\", còn giao tiếp gián tiếp là sự tiếp xúc thông qua phương tiện truyền thông (thư từ, điện thoại, internet...) hoặc các yếu tố trung gian khác."
+        },
+        {
+          "id": 50,
+          "text": "Nhận định nào dưới đây giải thích cốt lõi nhất cho khẳng định: \"Giao tiếp là điều kiện tiên quyết của sự hình thành và phát triển tâm lý, nhân cách\"?",
+          "options": [
+            "Vì giao tiếp là công cụ duy nhất để con người thỏa mãn nhu cầu sinh lý.",
+            "Vì thông qua giao tiếp, con người mới lĩnh hội được kinh nghiệm lịch sử - xã hội, chuẩn mực đạo đức để chuyển hóa thành phẩm chất tâm lý của bản thân.",
+            "Vì giao tiếp là hoạt động phân biệt duy nhất giữa con người và máy móc.",
+            "Vì không có giao tiếp, con người vẫn phát triển bình thường nhưng ở tốc độ chậm hơn."
+          ],
+          "correctIndex": 1,
+          "explain": "Giao tiếp là điều kiện sống còn. Nếu không có giao tiếp với xã hội loài người, cá nhân không thể hình thành tâm lý người. Thông qua giao tiếp, cá nhân lĩnh hội các chuẩn mực, hệ thống giá trị xã hội để xây dựng và phát triển nhân cách."
+        },
+        {
+          "id": 51,
+          "text": "Theo góc độ Tâm lý học quản lý, giao tiếp là sự thiết lập mối quan hệ hai chiều về mặt tâm lý giữa những đối tượng nào?",
+          "options": [
+            "Giữa con người với con người trong xã hội.",
+            "Giữa chủ thể quản lý và các chủ thể được quản lý.",
+            "Giữa người phát thông tin và người nhận thông tin.",
+            "Giữa giáo viên và học sinh."
+          ],
+          "correctIndex": 1,
+          "explain": "Dưới góc độ quản lý, giao tiếp quản lý là sự thiết lập những mối quan hệ hai chiều lẫn nhau về mặt tâm lý giữa chủ thể quản lý với các chủ thể được quản lý nhằm giải quyết hợp lý những nhiệm vụ quản lý."
+        },
+        {
+          "id": 52,
+          "text": "Điền từ còn thiếu vào nhận định sau: \"Trong hoạt động, con người là chủ thể tác động vào thế giới đồ vật là khách thể... Còn giao tiếp là sự phản ánh mối quan hệ giữa con người với con người, đó là quan hệ giữa .............\"",
+          "options": [
+            "Chủ thể với khách thể",
+            "Cá nhân với xã hội",
+            "Chủ thể với chủ thể",
+            "Khách quan và chủ quan"
+          ],
+          "correctIndex": 2,
+          "explain": "Hoạt động và giao tiếp phản ánh hai loại quan hệ. Trong khi hoạt động là quan hệ chủ thể - khách thể, thì giao tiếp là sự phản ánh mối quan hệ giữa con người với con người, tức là quan hệ giữa chủ thể với chủ thể."
+        },
+        {
+          "id": 53,
+          "text": "Hình thức giao tiếp nào sử dụng lời nói và chữ viết làm phương tiện đặc trưng để truyền tải thông tin, tư tưởng, tình cảm?",
+          "options": [
+            "Giao tiếp chính thức",
+            "Giao tiếp phi ngôn ngữ",
+            "Giao tiếp trực tiếp",
+            "Giao tiếp bằng ngôn ngữ"
+          ],
+          "correctIndex": 3,
+          "explain": "Căn cứ vào phương tiện, giao tiếp bằng ngôn ngữ là hình thức giao tiếp đặc trưng của con người bằng cách sử dụng những tín hiệu chung là từ ngữ (nói và viết)."
+        },
+        {
+          "id": 54,
+          "text": "Khi một giáo viên sử dụng ánh mắt nghiêm khắc để nhắc nhở một học sinh đang làm việc riêng trong lớp, giáo viên đang sử dụng loại phương tiện giao tiếp nào?",
+          "options": [
+            "Phương tiện ngôn ngữ.",
+            "Phương tiện phi ngôn ngữ.",
+            "Phương tiện vật chất.",
+            "Phương tiện gián tiếp."
+          ],
+          "correctIndex": 1,
+          "explain": "Việc sử dụng ánh mắt, cử chỉ, điệu bộ thay cho lời nói thuộc về hình thức giao tiếp phi ngôn ngữ."
+        },
+        {
+          "id": 55,
+          "text": "Căn cứ vào quy cách giao tiếp, những cuộc trò chuyện thoải mái, vui vẻ giữa các học sinh trong giờ ra chơi thuộc loại hình giao tiếp nào?",
+          "options": [
+            "Giao tiếp chính thức.",
+            "Giao tiếp không chính thức.",
+            "Giao tiếp gián tiếp.",
+            "Giao tiếp phi ngôn ngữ."
+          ],
+          "correctIndex": 1,
+          "explain": "Giao tiếp không chính thức là hình thức giao tiếp không bị ràng buộc bởi các nghi thức mà dựa vào tính tự nguyện, tự giác, phụ thuộc vào nhu cầu, hứng thú của các chủ thể (như trò chuyện giờ ra chơi)."
+        },
+        {
+          "id": 56,
+          "text": "Tại sao nói giao tiếp là điều kiện tất yếu của sự hình thành và phát triển nhân cách?",
+          "options": [
+            "Vì thông qua giao tiếp, con người mới có thể thỏa mãn các nhu cầu sinh học.",
+            "Vì giao tiếp giúp con người duy trì các đặc điểm bẩm sinh di truyền.",
+            "Vì thông qua giao tiếp, cá nhân lĩnh hội được kinh nghiệm xã hội, chuẩn mực đạo đức để chuyển hóa thành phẩm chất của bản thân.",
+            "Vì giao tiếp là công cụ duy nhất để truyền đạt thông tin."
+          ],
+          "correctIndex": 2,
+          "explain": "Giao tiếp giúp con người tiếp nhận những kinh nghiệm và chuẩn mực đạo đức, thông qua đó có cơ sở để hình thành và phát triển nhân cách của chính mình."
+        },
+        {
+          "id": 57,
+          "text": "Khi tham gia vào quá trình giao tiếp, mỗi chủ thể \"vừa là nguồn phát thông tin, vừa là nơi tiếp nhận thông tin\". Điều này mô tả đặc điểm của chức năng nào?",
+          "options": [
+            "Chức năng thông tin hai chiều.",
+            "Chức năng điều khiển hành vi.",
+            "Chức năng xúc cảm.",
+            "Chức năng nhận thức lẫn nhau."
+          ],
+          "correctIndex": 0,
+          "explain": "Trong chức năng thông tin hai chiều, mỗi cá nhân trong giao tiếp vừa là nguồn phát thông tin (phát tin), vừa là nơi tiếp nhận thông tin (thu tin), tạo ra sự tương tác qua lại."
+        },
+        {
+          "id": 58,
+          "text": "Biểu hiện nào dưới đây cho thấy chức năng \"Điều khiển, điều chỉnh hành vi\" trong giao tiếp sư phạm?",
+          "options": [
+            "Giáo viên cung cấp kiến thức mới cho học sinh.",
+            "Học sinh bộc lộ sự vui mừng khi được điểm cao.",
+            "Giáo viên quan sát, nhắc nhở và uốn nắn những hành vi chưa chuẩn mực của học sinh.",
+            "Giáo viên và học sinh cùng phối hợp chuẩn bị cho một tiết mục văn nghệ."
+          ],
+          "correctIndex": 2,
+          "explain": "Chức năng này thể hiện ở sự tác động, ảnh hưởng lẫn nhau. Thông qua sự nhắc nhở, uốn nắn của giáo viên, học sinh sẽ nhận ra những hành vi chưa phù hợp để từ đó tự điều chỉnh lại hành vi của mình."
+        },
+        {
+          "id": 59,
+          "text": "Nhận định nào sau đây KHÔNG ĐÚNG về đặc điểm cơ bản của giao tiếp?",
+          "options": [
+            "Giao tiếp luôn mang tính mục đích.",
+            "Giao tiếp chỉ là sự tác động một chiều từ người nói sang người nghe.",
+            "Giao tiếp mang tính phổ biến ở mọi cá nhân.",
+            "Giao tiếp có mối quan hệ chặt chẽ với hoạt động."
+          ],
+          "correctIndex": 1,
+          "explain": "Giao tiếp không phải là sự tác động một chiều mà là sự tác động song phương và đa chiều giữa các chủ thể tích cực. Do đó, nhận định B là sai."
+        },
+        {
+          "id": 60,
+          "text": "Chức năng nào giúp con người tự đánh giá, tự nhận thức lại chính bản thân mình thông qua việc đối chiếu với người khác trong quá trình giao tiếp?",
+          "options": [
+            "Chức năng thông tin hai chiều.",
+            "Chức năng tổ chức, phối hợp hành động.",
+            "Chức năng thỏa mãn nhu cầu.",
+            "Chức năng nhận thức và đánh giá lẫn nhau."
+          ],
+          "correctIndex": 3,
+          "explain": "Thông qua chức năng nhận thức và đánh giá lẫn nhau, cá nhân có thể nhận thức được người khác, từ đó lấy người khác làm \"gương soi\" để đối chiếu và tự đánh giá lại chính bản thân mình,."
+        }
+      ]
     },
     {
       "id": "exam-gtsp-ch2",
