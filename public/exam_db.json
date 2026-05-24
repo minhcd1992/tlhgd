@@ -5036,7 +5036,728 @@
       "chapter": "GTSP - Chương 2",
       "title": "Ôn tập: Giao tiếp giữa GV và Học sinh",
       "time": 2400,
-      "questions": []
+      "questions": [
+        {
+          "id": 1,
+          "text": "Khái niệm giao tiếp sư phạm được hiểu đầy đủ nhất là gì?",
+          "options": [
+            "Là quá trình giáo viên truyền đạt kiến thức một chiều cho học sinh trên lớp học.",
+            "Là sự tiếp xúc tâm lý giữa giáo viên và học sinh nhằm truyền đạt và lĩnh hội tri thức, vốn sống, kinh nghiệm, kỹ năng, kỹ xảo, nghề nghiệp... nhằm xây dựng và phát triển nhân cách toàn diện ở người học.",
+            "Là sự trao đổi thông tin giữa nhà trường và phụ huynh học sinh để quản lý người học.",
+            "Là quá trình học sinh tự thảo luận với nhau để giải quyết các nhiệm vụ học tập."
+          ],
+          "correctIndex": 1,
+          "explain": "Giao tiếp sư phạm là sự tiếp xúc tâm lý giữa giáo viên và học sinh, không chỉ để trao đổi thông tin, tri thức mà còn để phát triển nhân cách toàn diện ở người học."
+        },
+        {
+          "id": 2,
+          "text": "Trong hoạt động giao tiếp sư phạm, công cụ lao động chủ yếu của người giáo viên là gì?",
+          "options": [
+            "Hệ thống giáo án và sách giáo khoa.",
+            "Các phương tiện dạy học hiện đại (máy chiếu, máy tính).",
+            "Nhân cách của người giáo viên.",
+            "Các nội quy, quy định của nhà trường."
+          ],
+          "correctIndex": 2,
+          "explain": "Đối tượng của lao động sư phạm là con người, do đó công cụ lao động của sư phạm ở đây là những học sinh với nhân cách chưa hoàn thiện, và công cụ lao động của sư phạm chính là nhân cách của người giáo viên."
+        },
+        {
+          "id": 3,
+          "text": "Tính chất mối quan hệ giữa giáo viên và học sinh trong giao tiếp sư phạm là gì?",
+          "options": [
+            "Chủ thể - Khách thể thụ động.",
+            "Chủ thể - Chủ thể.",
+            "Quản lý - Bị quản lý.",
+            "Phục tùng - Ra lệnh."
+          ],
+          "correctIndex": 1,
+          "explain": "Giao tiếp sư phạm dựa trên nền tảng của sự tương tác giữa chủ thể và chủ thể. Cả giáo viên và học sinh đều là chủ thể tích cực trong quá trình giao tiếp."
+        },
+        {
+          "id": 4,
+          "text": "Trong các nguyên tắc giao tiếp sư phạm, nguyên tắc nào đòi hỏi giáo viên phải có sự thống nhất giữa lời nói và việc làm, trang phục lịch sự, thái độ chuẩn mực?",
+          "options": [
+            "Tôn trọng nhân cách học sinh.",
+            "Có thiện ý trong giao tiếp sư phạm.",
+            "Đồng cảm trong giao tiếp sư phạm.",
+            "Tính mẫu mực trong giao tiếp sư phạm."
+          ],
+          "correctIndex": 3,
+          "explain": "Biểu hiện của tính mẫu mực bao gồm sự mẫu mực về trang phục (gọn gàng, phù hợp); sự mẫu mực trong thái độ, cử chỉ, hành vi, cách nói năng và cách ứng xử."
+        },
+        {
+          "id": 5,
+          "text": "Việc giáo viên luôn lắng nghe nguyện vọng của học sinh, không dùng những từ ngữ, hành vi xúc phạm đến học sinh thể hiện nguyên tắc nào?",
+          "options": [
+            "Tôn trọng nhân cách học sinh.",
+            "Tính mẫu mực.",
+            "Có thiện ý với học sinh.",
+            "Tính dân chủ trong sư phạm."
+          ],
+          "correctIndex": 0,
+          "explain": "Tôn trọng nhân cách học sinh là thừa nhận học sinh như một con người với đầy đủ các quyền. Biểu hiện là giáo viên không áp đặt, không dùng từ ngữ xúc phạm và luôn lắng nghe nguyện vọng của các em."
+        },
+        {
+          "id": 6,
+          "text": "\"Luôn nhìn thấy những điểm mạnh ở học sinh, giúp học sinh phát huy những ưu điểm và có niềm tin vào sự tiến bộ của bản thân\". Đây là biểu hiện của nguyên tắc nào?",
+          "options": [
+            "Tính mẫu mực.",
+            "Tôn trọng nhân cách.",
+            "Thiện ý trong giao tiếp sư phạm.",
+            "Đồng cảm trong giao tiếp."
+          ],
+          "correctIndex": 2,
+          "explain": "Thiện ý là ý tốt, tình cảm tốt. Giáo viên có thiện ý luôn nhìn thấy điểm mạnh của học sinh để khích lệ, khoan dung với những sai lầm và tin tưởng vào sự phát triển của các em."
+        },
+        {
+          "id": 7,
+          "text": "Nguyên tắc \"Đồng cảm trong giao tiếp sư phạm\" được hiểu một cách cốt lõi là gì?",
+          "options": [
+            "Giáo viên luôn đồng ý với mọi yêu cầu của học sinh.",
+            "Giáo viên biết đặt mình vào vị trí của học sinh để hiểu suy nghĩ, tình cảm và hành động của các em.",
+            "Giáo viên thường xuyên mua quà tặng học sinh để tạo sự gần gũi.",
+            "Giáo viên bỏ qua mọi lỗi lầm của học sinh để các em không bị áp lực."
+          ],
+          "correctIndex": 1,
+          "explain": "Đồng cảm là sự tương đồng nhất định về mặt cảm xúc. Giáo viên biết đặt mình vào vị trí của học sinh để hiểu được những khó khăn, tâm tư, nguyện vọng của các em."
+        },
+        {
+          "id": 8,
+          "text": "Khái niệm \"Phong cách giao tiếp sư phạm\" được hiểu là gì?",
+          "options": [
+            "Là vẻ bề ngoài và cách ăn mặc của giáo viên khi lên lớp.",
+            "Là hệ thống những phương pháp, thủ thuật tiếp nhận, phản ứng hành động tương đối ổn định của giáo viên trong quá trình tiếp xúc với học sinh.",
+            "Là cách giáo viên sử dụng các thiết bị dạy học hiện đại.",
+            "Là mức độ kiến thức chuyên môn mà giáo viên truyền đạt cho học sinh."
+          ],
+          "correctIndex": 1,
+          "explain": "Phong cách giao tiếp sư phạm là hệ thống những phương pháp, thủ thuật tiếp nhận, phản ứng hành động tương đối ổn định, bền vững của giáo viên và học sinh trong quá trình giao tiếp."
+        },
+        {
+          "id": 9,
+          "text": "Phong cách giao tiếp sư phạm có 3 đặc trưng cơ bản nào sau đây?",
+          "options": [
+            "Tính ổn định, tính chuẩn mực và tính linh hoạt.",
+            "Tính khoa học, tính đại chúng và tính nghệ thuật.",
+            "Tính độc đoán, tính dân chủ và tính tự do.",
+            "Tính giáo dục, tính thuyết phục và tính bắt buộc."
+          ],
+          "correctIndex": 0,
+          "explain": "Phong cách giao tiếp sư phạm có 3 đặc trưng cơ bản là: Tính ổn định, Tính chuẩn mực và Tính linh hoạt của phong cách giao tiếp."
+        },
+        {
+          "id": 10,
+          "text": "Loại phong cách giao tiếp sư phạm nào mà ở đó giáo viên coi trọng học sinh, thừa nhận sự bình đẳng nhất định và luôn chú ý đến đặc điểm tâm lý cá nhân của học sinh?",
+          "options": [
+            "Phong cách giao tiếp tiếp cận độc đoán.",
+            "Phong cách giao tiếp tiếp cận tự do.",
+            "Phong cách giao tiếp tiếp cận dân chủ.",
+            "Phong cách giao tiếp hỗn hợp."
+          ],
+          "correctIndex": 2,
+          "explain": "Phong cách dân chủ là phong cách giáo viên có những đặc điểm tâm lý cá nhân, vốn sống, kinh nghiệm, trình độ nhận thức, nhu cầu, động cơ, hứng thú và các mức độ tích cực nhận thức của học sinh. Giáo viên tạo ra bầu không khí bình đẳng, thân mật, thoải mái."
+        },
+        {
+          "id": 11,
+          "text": "Đặc trưng nào của phong cách giao tiếp sư phạm thể hiện ở việc những cách thức, thủ thuật giao tiếp của giáo viên được bộc lộ tương đối như nhau trong những tình huống giao tiếp khác nhau?",
+          "options": [
+            "Tính cá biệt.",
+            "Tính chuẩn mực.",
+            "Tính linh hoạt.",
+            "Tính ổn định."
+          ],
+          "correctIndex": 3,
+          "explain": "Tính ổn định của phong cách giao tiếp được hiểu là những cách thức, thủ thuật tiếp nhận, phản ứng hành động của cá nhân lặp đi lặp lại một cách tương đối giống nhau trong các hoàn cảnh khác nhau, tạo nên nét riêng của người đó."
+        },
+        {
+          "id": 12,
+          "text": "Đặc trưng \"tính chuẩn mực\" của phong cách giao tiếp sư phạm chịu sự chi phối chủ yếu bởi yếu tố nào?",
+          "options": [
+            "Sở thích và thói quen cá nhân của giáo viên.",
+            "Các chuẩn mực xã hội như đạo đức, văn hóa, thẩm mỹ, pháp luật, truyền thống nghề nghiệp.",
+            "Tâm trạng và cảm xúc tạm thời của người giáo viên khi lên lớp.",
+            "Mức độ thân thiết giữa giáo viên và học sinh trong lớp."
+          ],
+          "correctIndex": 1,
+          "explain": "Giao tiếp sư phạm mang tính chuẩn mực cao. Tính chuẩn mực này được quy định bởi các chuẩn mực xã hội, các quy tắc, phong tục, tập quán và đặc biệt là những yêu cầu đạo đức, lề lối của nghề giáo."
+        },
+        {
+          "id": 13,
+          "text": "Giáo viên có phong cách giao tiếp tiếp cận độc đoán thường có những biểu hiện nào sau đây?",
+          "options": [
+            "Thường xuyên lắng nghe, tôn trọng và kích thích tính tự giác, sáng tạo của học sinh.",
+            "Chỉ chú ý đến nội dung công việc, giới hạn thời gian thực hiện mà ít hoặc không chú ý đến đặc điểm tâm lý cá nhân, nhu cầu của học sinh.",
+            "Hành vi ứng xử dễ bị chi phối bởi tâm trạng, cảm xúc lúc vui thì dễ dãi, lúc buồn thì khắt khe.",
+            "Tạo ra bầu không khí lớp học bình đẳng, thoải mái và thân mật."
+          ],
+          "correctIndex": 1,
+          "explain": "Phong cách độc đoán là phong cách mà giáo viên chủ yếu dùng mệnh lệnh, áp đặt, tập trung vào việc hoàn thành giáo án, công việc mà bỏ qua những cảm xúc, tâm tư hay đặc điểm cá nhân của người học."
+        },
+        {
+          "id": 14,
+          "text": "Hậu quả thường thấy khi giáo viên thường xuyên sử dụng phong cách giao tiếp tiếp cận tự do là gì?",
+          "options": [
+            "Học sinh dễ mắc bệnh thụ động, rụt rè và luôn trong trạng thái căng thẳng.",
+            "Môi trường học tập trở nên dân chủ, phát huy tối đa tính sáng tạo của học sinh.",
+            "Tạo ra sự lỏng lẻo trong kỷ luật, dễ dẫn đến thái độ coi thường, khinh nhờn từ phía học sinh đối với giáo viên.",
+            "Năng lực học tập của học sinh tăng lên nhanh chóng."
+          ],
+          "correctIndex": 2,
+          "explain": "Phong cách tự do (thể hiện sự ngẫu hứng, thiếu nhất quán, lúc khắt khe lúc lại bỏ qua nguyên tắc) sẽ làm suy giảm uy tín của giáo viên, khiến học sinh mất đi sự tôn trọng và môi trường giáo dục thiếu kỷ luật."
+        },
+        {
+          "id": 15,
+          "text": "Tại sao trong giao tiếp sư phạm, giáo viên cần phải có \"tính linh hoạt\" trong phong cách giao tiếp?",
+          "options": [
+            "Vì giáo viên không thể kiểm soát được cảm xúc của mình.",
+            "Vì các nội quy của nhà trường thường xuyên thay đổi.",
+            "Vì giáo viên phải tiếp xúc với nhiều đối tượng học sinh khác nhau (tính cách, hoàn cảnh khác nhau) trong những tình huống sư phạm vô cùng đa dạng.",
+            "Vì tính linh hoạt giúp giáo viên thể hiện được quyền uy tuyệt đối trước học sinh."
+          ],
+          "correctIndex": 2,
+          "explain": "Trong công tác giảng dạy, giáo viên tiếp xúc với rất nhiều đối tượng (học sinh ngoan, học sinh cá biệt, phụ huynh...). Do đó, phong cách giao tiếp không thể cứng nhắc mà phải linh hoạt, mềm dẻo để thích ứng và giải quyết hiệu quả từng tình huống cụ thể."
+        },
+        {
+          "id": 16,
+          "text": "Phương tiện giao tiếp ngôn ngữ trong sư phạm bao gồm những hình thức cơ bản nào?",
+          "options": [
+            "Ngôn ngữ nói và ngôn ngữ viết.",
+            "Lời nói và cử chỉ, điệu bộ.",
+            "Ngôn ngữ viết và biểu cảm nét mặt.",
+            "Lời nói và các thiết bị hỗ trợ giảng dạy (máy chiếu, tranh ảnh)."
+          ],
+          "correctIndex": 0,
+          "explain": "Căn cứ vào phương tiện, giao tiếp bằng ngôn ngữ được chia thành ngôn ngữ nói (âm thanh) và ngôn ngữ viết (chữ viết)."
+        },
+        {
+          "id": 17,
+          "text": "Để sử dụng phương tiện ngôn ngữ nói đạt hiệu quả cao, giáo viên cần tuân thủ yêu cầu nào về mặt âm thanh?",
+          "options": [
+            "Nói với âm lượng càng to càng tốt để tạo sự áp đảo trong lớp học.",
+            "Giọng nói phải to, rõ, dễ nghe, tròn vành, rõ chữ và có ngữ điệu phù hợp.",
+            "Nói với tốc độ thật nhanh để truyền đạt được nhiều kiến thức nhất có thể.",
+            "Luôn duy trì một mức âm lượng đều đều, không thay đổi từ đầu đến cuối tiết học."
+          ],
+          "correctIndex": 1,
+          "explain": "Ngôn ngữ nói của giáo viên là công cụ lao động. Yêu cầu cơ bản về âm thanh là phải rõ ràng, tròn vành rõ chữ, âm lượng vừa phải và có tính biểu cảm, nhấn nhá để thu hút sự chú ý của học sinh."
+        },
+        {
+          "id": 18,
+          "text": "Nhóm phương tiện nào dưới đây KHÔNG thuộc loại phương tiện phi ngôn ngữ trong giao tiếp sư phạm?",
+          "options": [
+            "Nét mặt, ánh mắt, nụ cười.",
+            "Dáng vẻ bề ngoài, trang phục.",
+            "Những lời nhận xét, đánh giá được ghi vào sổ liên lạc.",
+            "Cử chỉ của tay, tư thế đứng, khoảng cách không gian."
+          ],
+          "correctIndex": 2,
+          "explain": "Những lời nhận xét được ghi vào sổ liên lạc sử dụng chữ viết, do đó nó thuộc về phương tiện ngôn ngữ (ngôn ngữ viết). Các phương án A, B, D đều là phương tiện phi ngôn ngữ."
+        },
+        {
+          "id": 19,
+          "text": "Trang phục và dáng vẻ bề ngoài của giáo viên khi lên lớp cần đáp ứng yêu cầu cơ bản nào để hỗ trợ tốt cho giao tiếp sư phạm?",
+          "options": [
+            "Phải luôn là những trang phục đắt tiền, hàng hiệu để học sinh ngưỡng mộ.",
+            "Luôn chạy theo những xu hướng thời trang phá cách mới nhất.",
+            "Lịch sự, kín đáo, màu sắc hài hòa, phù hợp với tính chất nghề nghiệp và môi trường sư phạm.",
+            "Tùy thuộc hoàn toàn vào sở thích cá nhân, không cần tuân theo chuẩn mực nào."
+          ],
+          "correctIndex": 2,
+          "explain": "Trang phục của giáo viên tạo ra ấn tượng đầu tiên rất mạnh mẽ. Nó cần thể hiện sự tôn trọng người học, tôn trọng nghề nghiệp thông qua sự lịch sự, trang nhã, gọn gàng và phù hợp với văn hóa học đường."
+        },
+        {
+          "id": 20,
+          "text": "Theo cách phân chia chu trình khép kín, một quá trình giao tiếp sư phạm hoàn chỉnh bao gồm mấy giai đoạn cơ bản?",
+          "options": [
+            "2 giai đoạn.",
+            "3 giai đoạn.",
+            "4 giai đoạn.",
+            "5 giai đoạn."
+          ],
+          "correctIndex": 2,
+          "explain": "Một quy trình giao tiếp sư phạm hoàn chỉnh thường bao gồm 4 giai đoạn: (1) Định hướng trước khi thực hiện giao tiếp, (2) Mở đầu giao tiếp, (3) Diễn biến giao tiếp, và (4) Kết thúc, đánh giá quá trình giao tiếp."
+        },
+        {
+          "id": 21,
+          "text": "Theo chu trình khép kín, một quá trình giao tiếp sư phạm bắt đầu bằng giai đoạn nào?",
+          "options": [
+            "Giai đoạn mở đầu giao tiếp sư phạm.",
+            "Giai đoạn định hướng trước khi thực hiện giao tiếp sư phạm (Lập kế hoạch giao tiếp).",
+            "Giai đoạn diễn biến giao tiếp sư phạm.",
+            "Giai đoạn đánh giá quá trình giao tiếp."
+          ],
+          "correctIndex": 1,
+          "explain": "Giao tiếp sư phạm được chia ra thành ba/bốn giai đoạn, trong đó giai đoạn đầu tiên là \"Định hướng trước khi thực hiện giao tiếp sư phạm\" bao gồm việc xác định mục đích, đối tượng, nội dung và dự kiến phương pháp giao tiếp."
+        },
+        {
+          "id": 22,
+          "text": "Mục tiêu trọng tâm của \"Giai đoạn mở đầu giao tiếp sư phạm\" là gì?",
+          "options": [
+            "Lập kế hoạch chi tiết cho bài giảng.",
+            "Truyền đạt toàn bộ nội dung trọng tâm của bài học.",
+            "Thu hút sự chú ý, tạo sự kết nối và thiết lập bầu không khí tâm lý tích cực để học sinh bước vào bài học.",
+            "Đánh giá và cho điểm học sinh."
+          ],
+          "correctIndex": 2,
+          "explain": "Giai đoạn mở đầu là lúc giáo viên tổ chức giao tiếp trực tiếp trên lớp. Mục tiêu là tạo ra sự kết nối, ấn tượng ban đầu, thu hút sự chú ý và tạo ra một trạng thái tâm lý thoải mái, sẵn sàng cho học sinh bước vào hoạt động tiếp theo."
+        },
+        {
+          "id": 23,
+          "text": "Trong giao tiếp sư phạm, giai đoạn nào là lúc giáo viên và học sinh trực tiếp trao đổi thông tin, điều khiển và phát triển quá trình nhận thức của học sinh?",
+          "options": [
+            "Giai đoạn định hướng.",
+            "Giai đoạn mở đầu.",
+            "Giai đoạn diễn biến.",
+            "Giai đoạn kết thúc."
+          ],
+          "correctIndex": 2,
+          "explain": "Giai đoạn diễn biến giao tiếp sư phạm là giai đoạn trọng tâm. Đối với hoạt động dạy học, đây là lúc giáo viên giảng bài, hỏi đáp, xử lý tình huống và điều khiển quá trình nhận thức của học sinh."
+        },
+        {
+          "id": 24,
+          "text": "Trong phương tiện giao tiếp phi ngôn ngữ, kiểu nhìn nào của giáo viên thể hiện sự nghiêm túc, tạo uy quyền khiến người đối diện cảm thấy áp lực hoặc phải tuân thủ?",
+          "options": [
+            "Nhìn vào vùng tam giác giữa hai mắt và miệng (Kiểu nhìn xã giao).",
+            "Nhìn vào vùng tam giác từ hai mắt xuống ngực (Kiểu nhìn thân mật).",
+            "Nhìn vào vùng tam giác giữa hai mắt và trán (Kiểu nhìn quyền uy).",
+            "Nhìn chằm chằm không chớp mắt."
+          ],
+          "correctIndex": 2,
+          "explain": "Theo các nhà tâm lý học, kiểu nhìn quyền uy là khi người giao tiếp hướng ánh mắt vào vùng tam giác giữa hai mắt và trán của đối phương. Kiểu nhìn này tạo ra bầu không khí nghiêm túc, thể hiện uy quyền."
+        },
+        {
+          "id": 25,
+          "text": "Theo các quy chuẩn về không gian giao tiếp, khoảng cách từ 1,2m đến 3,5m được xếp vào loại khoảng cách nào?",
+          "options": [
+            "Khoảng cách công cộng.",
+            "Khoảng cách xã hội.",
+            "Khoảng cách cá nhân.",
+            "Khoảng cách thân mật."
+          ],
+          "correctIndex": 1,
+          "explain": "Khoảng cách từ 1,2m đến 3,5m được gọi là khoảng cách xã hội, thường dùng trong tiếp xúc với người lạ, hoặc giáo viên giao tiếp với một nhóm học sinh."
+        },
+        {
+          "id": 26,
+          "text": "Khi giáo viên ngồi trao đổi với một học sinh, vị trí ngồi \"đối diện nhau qua một chiếc bàn\" thường tạo ra cảm giác gì về mặt tâm lý?",
+          "options": [
+            "Thể hiện sự hợp tác, sẵn sàng hỗ trợ.",
+            "Thể hiện sự thân mật, bình đẳng và gần gũi.",
+            "Thể hiện sự cạnh tranh, phòng thủ hoặc uy quyền của người quản lý.",
+            "Thể hiện sự thờ ơ, không quan tâm."
+          ],
+          "correctIndex": 2,
+          "explain": "Vị trí ngồi đối diện nhau và bị chia cắt bởi chiếc bàn thường mang tính chất cạnh tranh, tạo khoảng cách và thể hiện vai trò quản lý - bị quản lý. Trong khi đó, vị trí ngồi vuông góc (ở góc bàn) thể hiện sự hợp tác."
+        },
+        {
+          "id": 27,
+          "text": "Trong giao tiếp sư phạm, tư thế và cử chỉ nào của giáo viên sau đây KHÔNG ĐƯỢC khuyến khích vì tạo cảm giác đóng kín, kiêu ngạo hoặc thiếu tôn trọng học sinh?",
+          "options": [
+            "Đứng thẳng, hai tay để tự nhiên dọc theo cơ thể.",
+            "Khoanh tay trước ngực, đút tay vào túi quần hoặc chỉ tay bằng một ngón khi nói.",
+            "Mở rộng lòng bàn tay khi giải thích vấn đề.",
+            "Hơi nghiêng người về phía trước khi lắng nghe học sinh trình bày."
+          ],
+          "correctIndex": 1,
+          "explain": "Các cử chỉ như khoanh tay trước ngực, đút tay vào túi quần, chỉ tay một ngón thường tạo ra sự xa cách, thái độ khép kín hoặc mang tính chất đe dọa, thiếu tôn trọng đối tượng giao tiếp."
+        },
+        {
+          "id": 28,
+          "text": "\"Là một phương tiện giao tiếp đắc lực, tạo ra ấn tượng đầu tiên cực kỳ quan trọng, tác động mạnh đến tri giác của học sinh về uy tín và thẩm mỹ của giáo viên\". Nhận định này đang nói về phương tiện nào?",
+          "options": [
+            "Âm lượng giọng nói.",
+            "Nét mặt.",
+            "Trang phục và dáng vẻ bề ngoài.",
+            "Nụ cười."
+          ],
+          "correctIndex": 2,
+          "explain": "Dáng vẻ bề ngoài (bao gồm hình thể, trang phục) tác động mạnh đến tri giác trong giao tiếp ở yếu tố chiều cao, sự cân đối và đặc biệt là cách ăn mặc. Trang phục phù hợp sẽ tạo ra thiện cảm và khẳng định uy tín sư phạm."
+        },
+        {
+          "id": 29,
+          "text": "Việc giáo viên nhẹ nhàng đặt tay lên vai học sinh (tiếp xúc thân thể) để động viên khi các em gặp khó khăn nên được thực hiện như thế nào để đảm bảo tính chuẩn mực sư phạm?",
+          "options": [
+            "Có thể thực hiện bất cứ lúc nào, với bất kỳ đối tượng học sinh nào mà không cần cân nhắc.",
+            "Tuyệt đối không được sử dụng vì vi phạm quy định về khoảng cách.",
+            "Cần được thực hiện đúng lúc, đúng đối tượng, cân nhắc kỹ về văn hóa, giới tính và lứa tuổi để tránh gây hiểu lầm.",
+            "Chỉ thực hiện khi học sinh có yêu cầu trực tiếp."
+          ],
+          "correctIndex": 2,
+          "explain": "Tiếp xúc thân thể là một phương tiện giao tiếp mạnh mẽ nhưng mang tính nhạy cảm cao. Tùy thuộc vào nền văn hóa, giới tính, tuổi tác, sự thân thiết mà những cử chỉ như vỗ vai, nắm tay... mới mang lại hiệu quả tích cực và không gây khó chịu hay hiểu lầm."
+        },
+        {
+          "id": 30,
+          "text": "Giai đoạn cuối cùng trong quy trình giao tiếp sư phạm có chức năng chính là gì?",
+          "options": [
+            "Đặt câu hỏi kiểm tra bài cũ.",
+            "Rút kinh nghiệm, đánh giá sự thành công hay thất bại của cuộc giao tiếp để xây dựng mô hình cho các lần giao tiếp sau.",
+            "Dọn dẹp phòng học và các thiết bị giảng dạy.",
+            "Tạo ấn tượng ban đầu với học sinh."
+          ],
+          "correctIndex": 1,
+          "explain": "Giai đoạn 4 là \"Kết thúc, đánh giá quá trình giao tiếp sư phạm\". Chức năng của nó là giáo viên tự đánh giá lại hiệu quả của cuộc giao tiếp (những gì đạt/chưa đạt) để rút ra bài học kinh nghiệm và chuẩn bị tốt hơn cho các lần sau."
+        },
+        {
+          "id": 31,
+          "text": "Khi trao đổi cá nhân với một học sinh, nếu giáo viên chọn vị trí ngồi \"vuông góc\" (hai người ngồi ở hai cạnh kề nhau của góc bàn), vị trí này thường mang ý nghĩa tâm lý gì?",
+          "options": [
+            "Thể hiện sự uy quyền, xa cách và áp đặt.",
+            "Thể hiện sự hợp tác, thân thiện và sẵn sàng cùng giải quyết vấn đề.",
+            "Thể hiện sự cạnh tranh, đối đầu trực diện.",
+            "Thể hiện sự thờ ơ, thiếu quan tâm đến đối tượng."
+          ],
+          "correctIndex": 1,
+          "explain": "Trong không gian giao tiếp, vị trí ngồi vuông góc thể hiện sự hợp tác và trao đổi cởi mở. Ngược lại, vị trí ngồi đối diện nhau qua chiếc bàn thường mang tính chất cạnh tranh, tạo khoảng cách hoặc thể hiện vai trò quản lý."
+        },
+        {
+          "id": 32,
+          "text": "Theo quy chuẩn về khoảng không gian giao tiếp, khoảng cách từ 0,45m đến 1,2m được xếp vào loại nào?",
+          "options": [
+            "Khoảng cách công cộng.",
+            "Khoảng cách xã hội.",
+            "Khoảng cách cá nhân.",
+            "Khoảng cách thân mật."
+          ],
+          "correctIndex": 2,
+          "explain": "Khoảng không gian từ 0,45m đến 1,2m được gọi là khoảng cách cá nhân. Khoảng cách này thường được sử dụng trong các cuộc giao tiếp trực tiếp ở cơ quan, hoặc trò chuyện với bạn bè."
+        },
+        {
+          "id": 33,
+          "text": "Trong các kiểu nhìn của phương tiện giao tiếp phi ngôn ngữ, \"Kiểu nhìn xã giao\" là hướng ánh mắt vào vùng nào trên khuôn mặt đối phương?",
+          "options": [
+            "Vùng tam giác giữa hai mắt và trán.",
+            "Vùng tam giác từ hai mắt xuống ngực.",
+            "Vùng tam giác giữa hai mắt và miệng.",
+            "Nhìn chằm chằm vào đôi mắt không chớp."
+          ],
+          "correctIndex": 2,
+          "explain": "Kiểu nhìn xã giao là khi ánh mắt hướng vào vùng tam giác giữa hai mắt và miệng của đối phương. Đây là kiểu nhìn phổ biến nhất, chiếm khoảng 90% thời gian giao tiếp thông thường."
+        },
+        {
+          "id": 34,
+          "text": "Nếu giáo viên hướng ánh mắt vào \"vùng tam giác giữa hai mắt và trán\" của học sinh, kiểu nhìn này sẽ tạo ra cảm giác gì?",
+          "options": [
+            "Thể hiện sự thân mật, ấm áp.",
+            "Thể hiện sự bình đẳng, gần gũi.",
+            "Tạo ra sự uy quyền, nghiêm túc và đôi khi gây áp lực cho đối phương.",
+            "Thể hiện sự ngượng ngùng, thiếu tự tin."
+          ],
+          "correctIndex": 2,
+          "explain": "Nhìn vào vùng tam giác giữa hai mắt và trán được gọi là \"kiểu nhìn quyền uy\". Kiểu nhìn này thường được dùng khi cần thể hiện thái độ nghiêm túc, răn đe hoặc khẳng định uy quyền."
+        },
+        {
+          "id": 35,
+          "text": "Cử chỉ \"mở rộng lòng bàn tay\" của giáo viên khi giảng bài hoặc trao đổi với học sinh thường mang lại thông điệp phi ngôn ngữ nào?",
+          "options": [
+            "Sự khép kín, phòng thủ và từ chối giao tiếp.",
+            "Sự đe dọa, ra lệnh và ép buộc.",
+            "Sự chân thành, cởi mở, minh bạch và mời gọi sự hợp tác.",
+            "Sự thiếu tự tin, bối rối."
+          ],
+          "correctIndex": 2,
+          "explain": "Lòng bàn tay mở hếch lên trên hoặc mở rộng về phía trước là một cử chỉ tích cực, thể hiện sự chân thành, cởi mở, không che giấu điều gì và sẵn sàng đón nhận sự tương tác từ học sinh."
+        },
+        {
+          "id": 36,
+          "text": "Việc \"tiếp xúc thân thể\" (như vỗ vai, xoa đầu, nắm tay) trong giao tiếp sư phạm, đặc biệt là đối với học sinh trung học phổ thông, cần được giáo viên thực hiện với nguyên tắc nào?",
+          "options": [
+            "Tăng cường sử dụng liên tục để học sinh cảm nhận được tình thương.",
+            "Không cần quan tâm đến giới tính vì giáo viên luôn được coi như cha mẹ.",
+            "Phải hết sức thận trọng, tế nhị, cân nhắc kỹ đến văn hóa, giới tính và lứa tuổi để tránh gây phản cảm hay hiểu lầm.",
+            "Tuyệt đối nghiêm cấm trong mọi hoàn cảnh."
+          ],
+          "correctIndex": 2,
+          "explain": "Tiếp xúc thân thể là một phương tiện giao tiếp nhạy cảm. Đối với học sinh lớn (cấp 2, cấp 3), giáo viên cần rất tế nhị, chỉ sử dụng đúng lúc, đúng chỗ và phù hợp với giới tính, văn hóa để bộc lộ sự động viên, tránh làm học sinh khó chịu hay hiểu sai lệch."
+        },
+        {
+          "id": 37,
+          "text": "Trong quy trình giao tiếp sư phạm, nhiệm vụ \"Tìm hiểu thông tin về đối tượng giao tiếp\" và \"Dự kiến phương pháp, phương tiện giao tiếp\" thuộc về giai đoạn nào?",
+          "options": [
+            "Giai đoạn định hướng trước khi thực hiện giao tiếp.",
+            "Giai đoạn mở đầu giao tiếp.",
+            "Giai đoạn diễn biến giao tiếp.",
+            "Giai đoạn kết thúc giao tiếp."
+          ],
+          "correctIndex": 0,
+          "explain": "Trước khi lên lớp hoặc tiếp xúc trực tiếp, giáo viên cần lập kế hoạch, xác định mục đích, tìm hiểu đặc điểm tâm lý của học sinh và dự kiến các tình huống. Đây là nhiệm vụ cốt lõi của giai đoạn định hướng."
+        },
+        {
+          "id": 38,
+          "text": "Nhiệm vụ chính của \"Giai đoạn mở đầu giao tiếp sư phạm\" là gì?",
+          "options": [
+            "Đánh giá lại toàn bộ quá trình học tập của học sinh trong học kỳ.",
+            "Thu hút sự chú ý, tạo ra những xúc cảm tích cực ban đầu và thiết lập bầu không khí tâm lý thuận lợi cho tiết học.",
+            "Truyền đạt toàn bộ nội dung kiến thức mới của bài học.",
+            "Giao bài tập về nhà và dặn dò."
+          ],
+          "correctIndex": 1,
+          "explain": "Giai đoạn mở đầu là bước \"chạy đà\", nhằm tạo sự chú ý, phá vỡ khoảng cách, tạo ra sự hứng thú và thiết lập trạng thái tâm lý tích cực để học sinh sẵn sàng bước vào quá trình nhận thức."
+        },
+        {
+          "id": 39,
+          "text": "Giai đoạn nào được xem là trọng tâm của quá trình giao tiếp sư phạm, nơi diễn ra sự trao đổi thông tin qua lại và bộc lộ rõ nhất năng lực, nghệ thuật sư phạm của giáo viên?",
+          "options": [
+            "Giai đoạn định hướng.",
+            "Giai đoạn mở đầu.",
+            "Giai đoạn diễn biến giao tiếp sư phạm.",
+            "Giai đoạn đánh giá."
+          ],
+          "correctIndex": 2,
+          "explain": "Giai đoạn diễn biến là lúc giáo viên thực hiện hoạt động giảng dạy, tương tác, đặt câu hỏi, lắng nghe và xử lý các tình huống sư phạm. Mọi kỹ năng và nghệ thuật của người thầy đều được bộc lộ sinh động tại đây."
+        },
+        {
+          "id": 40,
+          "text": "Mục đích chính của \"Giai đoạn kết thúc, đánh giá quá trình giao tiếp sư phạm\" là gì?",
+          "options": [
+            "Để thông báo điểm số cho học sinh.",
+            "Nhằm kiểm điểm lại diễn biến của cuộc giao tiếp, rút ra bài học kinh nghiệm về những điểm thành công và hạn chế để điều chỉnh cho các lần sau.",
+            "Để kết thúc bài giảng đúng giờ quy định.",
+            "Để chuyển sang dạy môn học khác."
+          ],
+          "correctIndex": 1,
+          "explain": "Giai đoạn 4 giúp giáo viên tự đánh giá lại bản thân (hiệu quả của lời nói, cử chỉ, phương pháp) để rút kinh nghiệm, từ đó xây dựng mô hình giao tiếp hoàn thiện hơn cho những lần lên lớp tiếp theo."
+        },
+        {
+          "id": 41,
+          "text": "Trong việc lựa chọn vị trí ngồi khi giao tiếp, vị trí \"độc lập\" (ví dụ: hai người ngồi ở hai đầu bàn xa nhau hoặc không nhìn nhau) thường phản ánh trạng thái tâm lý nào?",
+          "options": [
+            "Thể hiện sự hợp tác cao độ, sẵn sàng chia sẻ.",
+            "Thể hiện thái độ không muốn bị quấy rầy, không muốn bắt chuyện hoặc cùng chung trong một môi trường nhưng không tương tác.",
+            "Thể hiện sự cạnh tranh, đối đầu gay gắt.",
+            "Thể hiện sự uy quyền của người quản lý."
+          ],
+          "correctIndex": 1,
+          "explain": "Vị trí độc lập là cách sắp xếp không gian của những người không muốn bị ai quấy rầy, không muốn bắt chuyện. Ví trí này thường thấy trong thư viện hoặc trong quán ăn với những người không quen biết."
+        },
+        {
+          "id": 42,
+          "text": "Trong giao tiếp sư phạm, nhận định nào dưới đây là chuẩn xác nhất khi nói về vai trò chủ thể của giáo viên và học sinh?",
+          "options": [
+            "Chỉ có giáo viên là chủ thể tích cực, học sinh hoàn toàn là khách thể thụ động.",
+            "Thầy là chủ thể của hoạt động dạy, trò là chủ thể của hoạt động học; cả hai đều là những chủ thể tích cực có sự tác động qua lại lẫn nhau.",
+            "Học sinh là người duy nhất nắm quyền điều khiển quá trình giao tiếp.",
+            "Không có sự tương tác nào diễn ra giữa hoạt động dạy và hoạt động học."
+          ],
+          "correctIndex": 1,
+          "explain": "Trong quá trình dạy học, thầy là chủ thể của hoạt động dạy, trò là chủ thể của hoạt động học, nhưng đồng thời cả hai đều là chủ thể, cùng nhau tiến hành hoạt động để đạt được kết quả giáo dục chung."
+        },
+        {
+          "id": 43,
+          "text": "Trong giai đoạn \"Kết thúc, đánh giá quá trình giao tiếp sư phạm\", yêu cầu quan trọng nhất đối với người giáo viên là gì?",
+          "options": [
+            "Phải làm rõ được nội dung, nhiệm vụ giao tiếp, chốt lại được vấn đề và rút ra bài học kinh nghiệm để xây dựng mô hình cho các lần giao tiếp sau.",
+            "Bắt buộc phải tiến hành cho điểm và xếp loại mọi học sinh ngay lúc đó.",
+            "Cần phải kiểm tra bài cũ của học sinh trước khi chuyển môn.",
+            "Chỉ cần dặn dò học sinh làm bài tập về nhà mà không cần tự đánh giá bản thân."
+          ],
+          "correctIndex": 0,
+          "explain": "Giao tiếp muốn đạt kết quả thì việc kết thúc phải chốt lại được vấn đề. Giáo viên nhận thức được việc thực hiện nội dung, nhiệm vụ giao tiếp đến đâu, từ đó rút kinh nghiệm để sự điều chỉnh phù hợp cho các cuộc tiếp xúc sau."
+        },
+        {
+          "id": 44,
+          "text": "Nhận định \"Giao tiếp sư phạm đòi hỏi người giáo viên phải kết hợp chặt chẽ giữa tính khoa học và tính nghệ thuật\" có nghĩa là gì?",
+          "options": [
+            "Giáo viên phải là một nghệ sĩ biểu diễn và chỉ dựa vào năng khiếu bẩm sinh.",
+            "Đòi hỏi giáo viên không chỉ nắm vững tri thức khoa học, quy luật tâm lý (tính khoa học) mà còn phải khéo léo, linh hoạt, sáng tạo trong từng tình huống ứng xử (tính nghệ thuật).",
+            "Việc giảng dạy không cần tuân theo bất kỳ quy tắc nào, hoàn toàn ngẫu hứng.",
+            "Chỉ cần áp dụng cứng nhắc các quy định của pháp luật và nhà trường là đủ."
+          ],
+          "correctIndex": 1,
+          "explain": "Giao tiếp sư phạm vừa là khoa học (áp dụng các quy luật tâm lý, phương pháp giảng dạy) vừa là một nghệ thuật (sự sáng tạo, khéo léo, linh hoạt xử lý tình huống), từ đó giúp quá trình này đạt hiệu quả cao."
+        },
+        {
+          "id": 45,
+          "text": "Đối với người giáo viên có \"phong cách giao tiếp dân chủ\", kỹ năng lắng nghe thường được thể hiện như thế nào?",
+          "options": [
+            "Lắng nghe chỉ để tìm ra lỗi sai và trách phạt học sinh.",
+            "Dành phần lớn thời gian để áp đặt ý kiến của mình, ít khi thực sự lắng nghe.",
+            "Biết lắng nghe sâu sắc, quan tâm đáp ứng kịp thời cả những phản hồi bằng ngôn ngữ và phi ngôn ngữ của học sinh.",
+            "Lắng nghe một cách hời hợt và không bao giờ thay đổi quan điểm cá nhân."
+          ],
+          "correctIndex": 2,
+          "explain": "Phong cách dân chủ đòi hỏi giáo viên phải biết kiểm soát cái tôi, biết im lặng lắng nghe học sinh và những ý kiến phản hồi của các em (kể cả ngôn ngữ và phi ngôn ngữ) để có sự điều chỉnh tương tác phù hợp."
+        },
+        {
+          "id": 46,
+          "text": "Khi sử dụng \"nụ cười\" làm phương tiện giao tiếp phi ngôn ngữ, điều nào sau đây là lỗi mà giáo viên CẦN TRÁNH?",
+          "options": [
+            "Dùng nụ cười để tạo bầu không khí thoải mái, xua tan căng thẳng.",
+            "Sử dụng nụ cười để khích lệ, động viên tinh thần học tập của các em.",
+            "Cười dễ dãi trong mọi tình huống, kể cả khi học sinh vi phạm kỷ luật nghiêm trọng hoặc đang cần sự trang nghiêm.",
+            "Nụ cười nhẹ nhàng để thể hiện sự thân thiện khi bước vào lớp."
+          ],
+          "correctIndex": 2,
+          "explain": "Mặc dù nụ cười rất quan trọng, nhưng giáo viên cần sử dụng đúng lúc, đúng chỗ. Việc cười không đúng hoàn cảnh (như khi học sinh mắc lỗi nặng cần sự nghiêm khắc) sẽ làm giảm uy tín sư phạm và hiệu quả giáo dục."
+        },
+        {
+          "id": 47,
+          "text": "Việc giáo viên \"luôn nhìn thấy những điểm mạnh ở học sinh, giúp học sinh phát huy những ưu điểm đó thay vì chỉ chăm chăm vào khuyết điểm\" là minh chứng rõ nét nhất cho nguyên tắc nào?",
+          "options": [
+            "Tôn trọng nhân cách học sinh.",
+            "Có thiện ý trong giao tiếp sư phạm.",
+            "Đồng cảm trong giao tiếp sư phạm.",
+            "Tính mẫu mực trong giao tiếp sư phạm."
+          ],
+          "correctIndex": 1,
+          "explain": "Thiện ý thể hiện ở việc giáo viên luôn nhìn thấy những điểm mạnh ở học sinh, giúp học sinh phát huy tốt những ưu điểm của các em, đồng thời khoan dung và tin tưởng vào sự tiến bộ của học sinh."
+        },
+        {
+          "id": 48,
+          "text": "Trong giai đoạn \"Định hướng trước khi thực hiện giao tiếp\", công việc nào dưới đây là nhiệm vụ trọng tâm của giáo viên?",
+          "options": [
+            "Trực tiếp thực hiện các bài giảng trên bục giảng.",
+            "Thu hút sự chú ý của học sinh và tạo cảm xúc ban đầu.",
+            "Xác định mục đích, tìm hiểu đặc điểm tâm lý của đối tượng, dự kiến nội dung và phương pháp giao tiếp.",
+            "Rút kinh nghiệm để chuẩn bị cho học kỳ sau."
+          ],
+          "correctIndex": 2,
+          "explain": "Trong giai đoạn định hướng (lập kế hoạch), giáo viên cần xác định rõ mục đích, đối tượng, nội dung và dự kiến phương pháp, phương tiện giao tiếp trước khi trực tiếp tiếp xúc với học sinh."
+        },
+        {
+          "id": 49,
+          "text": "Biểu hiện nào sau đây vi phạm nghiêm trọng nguyên tắc \"Tôn trọng nhân cách học sinh\"?",
+          "options": [
+            "Lắng nghe và khuyến khích học sinh bày tỏ ý kiến cá nhân.",
+            "Gọi học sinh bằng những từ ngữ thiếu tôn trọng, có hành vi miệt thị, xúc phạm trước tập thể.",
+            "Nhẹ nhàng phân tích và khuyên bảo khi học sinh mắc lỗi sai.",
+            "Thừa nhận và tôn trọng sự khác biệt về sở thích, năng lực của từng học sinh."
+          ],
+          "correctIndex": 1,
+          "explain": "Nguyên tắc tôn trọng yêu cầu giáo viên tuyệt đối không dùng những từ ngữ, hành vi hay cử chỉ xúc phạm đến nhân cách học sinh, không được phân biệt đối xử hoặc áp đặt thái độ trịch thượng."
+        },
+        {
+          "id": 50,
+          "text": "Theo lý thuyết về không gian giao tiếp, khoảng cách từ 0m đến 0,45m (trong tầm với tay) được gọi là gì và thường phù hợp trong hoàn cảnh nào?",
+          "options": [
+            "Khoảng cách công cộng, dùng khi nói chuyện trước đám đông.",
+            "Khoảng cách xã hội, dùng khi giao tiếp với người mới quen.",
+            "Khoảng cách thân mật, dùng cho những người có mối quan hệ thân thiết, gần gũi.",
+            "Khoảng cách cá nhân, dùng trong các buổi họp chuyên môn."
+          ],
+          "correctIndex": 2,
+          "explain": "Khoảng cách từ 0m - 0,45m là khoảng cách thân mật, thường chỉ dành cho những người có mối quan hệ gia đình, thân thiết. Trong sư phạm, khoảng cách này thỉnh thoảng áp dụng (vỗ vai, nắm tay) cần phải rất tế nhị."
+        },
+        {
+          "id": 51,
+          "text": "Khoảng cách \"công cộng\" (từ 3,5m trở lên) trong giao tiếp sư phạm thường được giáo viên sử dụng trong hoàn cảnh nào?",
+          "options": [
+            "Khi trò chuyện riêng và động viên một học sinh đang có chuyện buồn.",
+            "Khi tiếp xúc, trao đổi với một nhóm học sinh nhỏ (khoảng 3-5 em).",
+            "Khi giảng bài trước tập thể lớp hoặc nói chuyện trước đám đông học sinh.",
+            "Khi làm việc 1-1 với phụ huynh học sinh."
+          ],
+          "correctIndex": 2,
+          "explain": "Theo lý thuyết về không gian giao tiếp, khoảng cách công cộng (trên 3,5m) là khoảng cách xa, phù hợp nhất với việc giao tiếp ở đám đông, phát biểu trước tập thể lớp hoặc toàn trường."
+        },
+        {
+          "id": 52,
+          "text": "Tại sao \"Tính mẫu mực\" lại là nguyên tắc mang tính bắt buộc và xuyên suốt trong giao tiếp sư phạm của người giáo viên?",
+          "options": [
+            "Vì giáo viên là người đại diện cho pháp luật của nhà nước.",
+            "Vì công cụ lao động chủ yếu của giáo viên chính là nhân cách của họ, và học sinh có xu hướng hay bắt chước lời nói, hành vi của người thầy.",
+            "Vì Ban giám hiệu luôn giám sát chặt chẽ mọi hành vi của giáo viên.",
+            "Vì đây là cách duy nhất để duy trì trật tự và kỷ luật trong lớp học."
+          ],
+          "correctIndex": 1,
+          "explain": "Đối tượng lao động là con người, công cụ lao động là nhân cách. Học sinh, đặc biệt là ở lứa tuổi đang phát triển, rất hay quan sát và lấy thầy cô làm hình mẫu để học tập và bắt chước. Do đó, giáo viên phải luôn mẫu mực trong từng lời nói, cử chỉ, trang phục."
+        },
+        {
+          "id": 53,
+          "text": "Trong phương tiện phi ngôn ngữ, khi giáo viên muốn thể hiện sự chân thành, cởi mở và mời gọi sự hợp tác từ học sinh, giáo viên nên sử dụng cử chỉ tay như thế nào?",
+          "options": [
+            "Đút hai tay vào túi quần khi nói chuyện.",
+            "Khoanh tay chặt trước ngực.",
+            "Chỉ một ngón tay thẳng về phía học sinh.",
+            "Mở rộng lòng bàn tay, hướng lòng bàn tay lên trên hoặc ra phía trước."
+          ],
+          "correctIndex": 3,
+          "explain": "Cử chỉ mở rộng lòng bàn tay là một tín hiệu phi ngôn ngữ vô cùng tích cực, thể hiện sự tự tin, minh bạch, chân thành và không che giấu điều gì, giúp học sinh cảm thấy an tâm và sẵn sàng tương tác."
+        },
+        {
+          "id": 54,
+          "text": "Hậu quả rõ nét nhất khi giáo viên sử dụng \"Phong cách giao tiếp tiếp cận tự do\" (hành vi dễ bị chi phối bởi cảm xúc) là gì?",
+          "options": [
+            "Kích thích tối đa sự sáng tạo và năng lực độc lập của học sinh.",
+            "Xây dựng được một tập thể lớp có tính kỷ luật thép.",
+            "Gây ra sự lỏng lẻo trong kỷ luật, dễ dẫn đến tình trạng học sinh coi thường, thiếu tôn trọng giáo viên.",
+            "Làm cho học sinh cảm thấy vô cùng sợ hãi và căng thẳng."
+          ],
+          "correctIndex": 2,
+          "explain": "Phong cách tự do thiếu đi sự nhất quán và các chuẩn mực cần thiết. Giáo viên hành xử theo cảm xúc (lúc vui thì dễ dãi, buồn thì bực dọc) sẽ đánh mất uy tín, khiến học sinh \"nhờn\", không tuân thủ kỷ luật và thiếu sự tôn trọng."
+        },
+        {
+          "id": 55,
+          "text": "Trong giai đoạn \"Diễn biến giao tiếp sư phạm\", giáo viên nên sử dụng phương tiện giao tiếp nào?",
+          "options": [
+            "Chỉ sử dụng ngôn ngữ nói để giảng bài.",
+            "Chỉ sử dụng ngôn ngữ viết trên bảng để tránh nói nhiều.",
+            "Kết hợp linh hoạt và đồng bộ giữa ngôn ngữ (nói, viết) và các phương tiện phi ngôn ngữ (ánh mắt, nụ cười, điệu bộ, không gian).",
+            "Hoàn toàn dùng phương tiện phi ngôn ngữ để học sinh tự suy nghĩ."
+          ],
+          "correctIndex": 2,
+          "explain": "Giai đoạn diễn biến là lúc truyền tải kiến thức và tương tác mạnh mẽ nhất. Để đạt hiệu quả cao, giáo viên bắt buộc phải có sự phối hợp nhịp nhàng giữa lời nói, chữ viết và các cử chỉ, điệu bộ, ánh mắt bổ trợ."
+        },
+        {
+          "id": 56,
+          "text": "Vai trò của \"Dáng vẻ bề ngoài và trang phục\" đối với người giáo viên trong môi trường học đường là gì?",
+          "options": [
+            "Không có ý nghĩa gì nếu giáo viên có chuyên môn giỏi.",
+            "Tạo ấn tượng đầu tiên, tác động mạnh đến tri giác của học sinh, thể hiện sự tôn trọng nghề nghiệp và chuẩn mực văn hóa học đường.",
+            "Chỉ nhằm mục đích thể hiện gu thời trang cá nhân của người giáo viên.",
+            "Là yếu tố quyết định 100% đến năng lực giảng dạy."
+          ],
+          "correctIndex": 1,
+          "explain": "Dáng vẻ bề ngoài và trang phục tạo ra ấn tượng ban đầu cực kỳ quan trọng. Trang phục lịch sự, trang nhã không chỉ giúp giáo viên tự tin mà còn thể hiện sự tôn trọng học sinh và khẳng định uy tín nghề nghiệp."
+        },
+        {
+          "id": 57,
+          "text": "Nhận định: \"Giao tiếp sư phạm không chỉ là một khoa học mà còn là một nghệ thuật\" đề cập đến đặc điểm nào của người giáo viên?",
+          "options": [
+            "Giáo viên phải có năng khiếu bẩm sinh như một nghệ sĩ biểu diễn thực thụ.",
+            "Giáo viên luôn phải hát hoặc múa khi giảng bài.",
+            "Sự linh hoạt, khéo léo, nhạy bén và sáng tạo trong việc ứng xử, giải quyết các tình huống sư phạm đa dạng trên nền tảng các quy luật tâm lý.",
+            "Sự tự do, ngẫu hứng, không tuân theo bất kỳ nguyên tắc giáo dục nào."
+          ],
+          "correctIndex": 2,
+          "explain": "Tính khoa học nằm ở việc nắm vững kiến thức, quy luật tâm lý. Còn tính nghệ thuật chính là sự tinh tế, khéo léo, tài tình trong việc vận dụng những kiến thức đó để xử lý các tình huống sư phạm thiên biến vạn hóa một cách hiệu quả nhất."
+        },
+        {
+          "id": 58,
+          "text": "Nhận định nào dưới đây là SAI khi nói về mối quan hệ giữa giáo viên và học sinh trong giao tiếp sư phạm?",
+          "options": [
+            "Là mối quan hệ giữa chủ thể và chủ thể, có sự tác động qua lại lẫn nhau.",
+            "Là mối quan hệ hoàn toàn bình đẳng, ngang hàng như những người bạn cùng trang lứa, không cần bất kỳ ranh giới nào.",
+            "Là mối quan hệ mang tính chuẩn mực đạo đức, thể hiện truyền thống \"tôn sư trọng đạo\".",
+            "Là mối quan hệ có sự định hướng, dẫn dắt từ giáo viên nhưng vẫn phải tôn trọng cá tính của học sinh."
+          ],
+          "correctIndex": 1,
+          "explain": "Mặc dù giao tiếp sư phạm đề cao tính dân chủ, sự bình đẳng và tôn trọng nhân cách, nhưng điều này KHÔNG ĐỒNG NGHĨA với việc xóa nhòa ranh giới thầy - trò (\"cá mè một lứa\"). Giáo viên vẫn là người hướng dẫn, quản lý và học sinh vẫn phải giữ thái độ kính trọng đúng mực."
+        },
+        {
+          "id": 59,
+          "text": "Trong các mức độ của việc hình thành kỹ năng (gồm 5 mức độ), mức độ 5 \"Kỹ năng hoàn hảo\" có đặc điểm gì?",
+          "options": [
+            "Làm quen với các hành động và thực hiện theo kiểu thử - sai.",
+            "Thực hiện hành động theo một trình tự đã biết nhưng chưa linh hoạt.",
+            "Thực hiện thành thạo các thao tác trong các tình huống quen thuộc.",
+            "Vận dụng sáng tạo, thuần thục các kỹ năng vào trong những tình huống mới, khó khăn và phức tạp."
+          ],
+          "correctIndex": 3,
+          "explain": "Mức độ 5 là mức độ cao nhất (kỹ xảo, nhạy bén), khi đó cá nhân có thể vận dụng linh hoạt, tự động và sáng tạo những kỹ năng của mình để giải quyết hiệu quả các tình huống biến động phức tạp."
+        },
+        {
+          "id": 60,
+          "text": "Suy cho cùng, mục đích tối thượng và cốt lõi nhất của mọi hoạt động giao tiếp sư phạm giữa giáo viên và học sinh là gì?",
+          "options": [
+            "Giúp giáo viên truyền đạt hết nội dung trong sách giáo khoa.",
+            "Nhằm hình thành, phát triển và hoàn thiện nhân cách toàn diện của học sinh.",
+            "Xây dựng hình ảnh cá nhân xuất sắc cho người giáo viên.",
+            "Giúp học sinh duy trì sự im lặng và trật tự tuyệt đối trong giờ học."
+          ],
+          "correctIndex": 1,
+          "explain": "Mục đích lớn nhất của giáo dục nói chung và giao tiếp sư phạm nói riêng không chỉ dừng lại ở việc cung cấp thông tin, mà thông qua đó để định hướng, giáo dục và phát triển nhân cách toàn diện (đức, trí, thể, mỹ) cho người học."
+        }
+      ]
     },
     {
       "id": "exam-gtsp-ch3",
@@ -5044,7 +5765,728 @@
       "chapter": "GTSP - Chương 3",
       "title": "Ôn tập: Kỹ năng giao tiếp sư phạm",
       "time": 2400,
-      "questions": []
+      "questions": [
+        {
+          "id": 1,
+          "text": "Dưới góc độ Tâm lý học, theo tác giả Vũ Dũng, kỹ năng được định nghĩa là gì?",
+          "options": [
+            "Là những thao tác tay chân lặp đi lặp lại tạo thành thói quen vô thức.",
+            "Là năng lực vận dụng có kết quả những tri thức về phương thức hành động đã được chủ thể lĩnh hội để thực hiện những nhiệm vụ tương ứng.",
+            "Là khả năng bẩm sinh di truyền giúp con người giải quyết các khó khăn.",
+            "Là sự ghi nhớ lý thuyết một cách máy móc để trả lời câu hỏi."
+          ],
+          "correctIndex": 1,
+          "explain": "Theo từ điển Tâm lý học của Vũ Dũng, kỹ năng là \"năng lực vận dụng có kết quả những tri thức về phương thức hành động đã được chủ thể lĩnh hội để thực hiện những nhiệm vụ tương ứng\"."
+        },
+        {
+          "id": 2,
+          "text": "Đặc điểm nào dưới đây KHÔNG PHẢI là đặc điểm của kỹ năng?",
+          "options": [
+            "Kỹ năng luôn gắn liền với tính mục đích và tính ý thức.",
+            "Khi thực hiện kỹ năng, chủ thể phải sử dụng nhiều loại tri giác khác nhau để kiểm tra cao độ thao tác.",
+            "Kỹ năng chỉ là những hành động bản năng, phản xạ tự nhiên không cần ý thức.",
+            "Kỹ năng có sự thống nhất giữa tính ổn định và tính linh hoạt."
+          ],
+          "correctIndex": 2,
+          "explain": "Trong ý thức, hoạt động có tính tích cực và thường trực. Quá trình thực hiện một hành động, chủ thể thực hiện một kỹ năng nào đó thì chính chủ thể luôn sử dụng ý thức để nhận biết được các thao tác và hành động cụ thể. Kỹ năng không phải là phản xạ vô thức."
+        },
+        {
+          "id": 3,
+          "text": "Theo phân loại của K.K. Platonov và G.G. Golubev (hoặc V.P. Bexpalko), quá trình hình thành kỹ năng của con người được chia thành mấy mức độ?",
+          "options": [
+            "3 mức độ",
+            "4 mức độ",
+            "5 mức độ",
+            "6 mức độ"
+          ],
+          "correctIndex": 2,
+          "explain": "Theo quan điểm của các nhà tâm lý học này, có 5 mức độ hình thành kỹ năng từ thấp đến cao: Kỹ năng ban đầu, Kỹ năng mức thấp, Kỹ năng trung bình, Kỹ năng cao, và Kỹ năng hoàn hảo."
+        },
+        {
+          "id": 4,
+          "text": "Khi một người thực hiện hành động dựa trên nhận thức \"thử và sai\", thông qua vốn hiểu biết và kinh nghiệm cũ của mình, người đó đang ở mức độ kỹ năng nào?",
+          "options": [
+            "Mức độ 1: Kỹ năng ban đầu.",
+            "Mức độ 2: Kỹ năng mức thấp.",
+            "Mức độ 3: Kỹ năng trung bình.",
+            "Mức độ 5: Kỹ năng hoàn hảo."
+          ],
+          "correctIndex": 0,
+          "explain": "Ở mức độ 1 (Kỹ năng ban đầu), người học có hiểu biết về nội dung, và trong những tình huống cụ thể sẽ có thể thực hiện những thao tác, hành động nhất định dựa trên vốn hiểu biết, kinh nghiệm cũ, thực hiện theo kiểu thử và sai."
+        },
+        {
+          "id": 5,
+          "text": "Mức độ cao nhất của kỹ năng (Mức độ 5: Kỹ năng hoàn hảo) có biểu hiện đặc trưng nào sau đây?",
+          "options": [
+            "Chỉ thực hiện thành thạo các thao tác trong những tình huống quen thuộc.",
+            "Thực hiện hành động nhưng không đầy đủ, không linh hoạt.",
+            "Có sự vận dụng sáng tạo, người học ứng dụng một cách thành thạo các thao tác vào trong những tình huống khác nhau, khó khăn và phức tạp.",
+            "Hoàn toàn phụ thuộc vào sự hướng dẫn của người khác."
+          ],
+          "correctIndex": 2,
+          "explain": "Ở mức độ 5, người con người nắm được đầy đủ hệ thống các thao tác, biết lựa chọn hành động chuẩn xác và ứng dụng một cách thành thạo trong các tình huống khác nhau, dù là những tình huống gặp khó khăn."
+        },
+        {
+          "id": 6,
+          "text": "Theo P.Ia. Galperin, quá trình hình thành kỹ năng vận động (thực hành) trải qua mấy giai đoạn cơ bản?",
+          "options": [
+            "2 giai đoạn",
+            "3 giai đoạn",
+            "4 giai đoạn",
+            "5 giai đoạn"
+          ],
+          "correctIndex": 1,
+          "explain": "Quá trình hình thành kỹ năng ở học sinh chính là cơ chế hình thành hành động trí óc qua từng giai đoạn, cơ bản gồm 3 giai đoạn chính: Làm quen/nhận biết, Thực hiện hành động, và \"Mài bóng\" kỹ năng."
+        },
+        {
+          "id": 7,
+          "text": "Trong quá trình hình thành kỹ năng, \"Giai đoạn 1\" có nhiệm vụ chủ yếu là gì?",
+          "options": [
+            "Lặp đi lặp lại nhiều lần các thao tác thực hành.",
+            "Mài bóng để đạt được độ thuần thục, tinh vi.",
+            "Người học làm quen với vận động, phát hiện các thành phần của vận động, trình tự thực hiện và mối liên kết của chúng.",
+            "Di chuyển kỹ năng sang môi trường hoàn toàn mới."
+          ],
+          "correctIndex": 2,
+          "explain": "Giai đoạn 1 là người học làm quen với vận động và bắt đầu lĩnh hội nó. Học sinh tập trung quan sát, tiếp thu kiến thức lý thuyết, hình dung bức tranh của hành động."
+        },
+        {
+          "id": 8,
+          "text": "Khái niệm \"Kỹ năng giao tiếp\" được hiểu một cách tổng quát là gì?",
+          "options": [
+            "Là khả năng sao chép y hệt lời nói của người khác.",
+            "Là năng lực vận dụng có hiệu quả những tri thức, kinh nghiệm, phương tiện ngôn ngữ và phi ngôn ngữ vào những hoàn cảnh giao tiếp nhằm đạt mục đích.",
+            "Là khả năng lấn át đối phương trong mọi cuộc tranh luận.",
+            "Là sự tuân thủ nghiêm ngặt các quy tắc ngữ pháp khi nói."
+          ],
+          "correctIndex": 1,
+          "explain": "Kỹ năng giao tiếp là khả năng vận dụng hiệu quả các tri thức và kinh nghiệm về giao tiếp, các phương tiện ngôn ngữ và phi ngôn ngữ vào những hoàn cảnh khác nhau của quá trình giao tiếp nhằm đạt mục đích giao tiếp."
+        },
+        {
+          "id": 9,
+          "text": "Dựa trên tính chất của các hoạt động trong quá trình giao tiếp, các chuyên gia thường phân loại kỹ năng giao tiếp thành 3 nhóm cơ bản nào?",
+          "options": [
+            "Nhóm kỹ năng định hướng, Nhóm kỹ năng tiếp xúc, Nhóm kỹ năng điều khiển.",
+            "Nhóm kỹ năng nói, Nhóm kỹ năng nghe, Nhóm kỹ năng viết.",
+            "Nhóm kỹ năng ra lệnh, Nhóm kỹ năng thuyết phục, Nhóm kỹ năng nhượng bộ.",
+            "Nhóm kỹ năng nhận thức, Nhóm kỹ năng hành vi, Nhóm kỹ năng thái độ."
+          ],
+          "correctIndex": 0,
+          "explain": "Kỹ năng giao tiếp liên nhân cách (giao tiếp trực tiếp) thường được cấu thành từ: Nhóm kỹ năng định hướng (nhận biết, phán đoán), Nhóm kỹ năng tiếp xúc (tạo liên kết), và Nhóm kỹ năng điều khiển (điều chỉnh quá trình giao tiếp)."
+        },
+        {
+          "id": 10,
+          "text": "Trong các nhóm kỹ năng giao tiếp, nhóm kỹ năng nào bao gồm việc quan sát, nhạy bén nắm bắt nhu cầu, đặc điểm tâm lý của đối tượng giao tiếp trước và trong khi tiếp xúc?",
+          "options": [
+            "Nhóm kỹ năng điều khiển.",
+            "Nhóm kỹ năng định hướng.",
+            "Nhóm kỹ năng tiếp xúc.",
+            "Nhóm kỹ năng sử dụng ngôn ngữ."
+          ],
+          "correctIndex": 1,
+          "explain": "Nhóm kỹ năng định hướng đóng vai trò tìm hiểu, quan sát, định hướng trước và trong quá trình giao tiếp để phán đoán trạng thái tâm lý, nhu cầu của đối phương."
+        },
+        {
+          "id": 11,
+          "text": "Theo tác giả Nguyễn Đình Chỉnh, kỹ năng giao tiếp sư phạm được định nghĩa là gì?",
+          "options": [
+            "Là khả năng diễn đạt lưu loát các kiến thức chuyên môn trước học sinh.",
+            "Là khả năng nhận thức nhanh chóng những biểu hiện bên ngoài và những diễn biến tâm lý bên trong của học sinh, đồng thời sử dụng hợp lý các phương tiện giao tiếp để đạt mục đích giáo dục.",
+            "Là nghệ thuật sử dụng các hình phạt và phần thưởng để duy trì trật tự lớp học.",
+            "Là khả năng giao tiếp khéo léo với phụ huynh học sinh để huy động nguồn lực."
+          ],
+          "correctIndex": 1,
+          "explain": "Kỹ năng giao tiếp sư phạm là khả năng nhận thức nhanh chóng những biểu hiện bên ngoài và những diễn biến tâm lý bên trong của học sinh, đồng thời sử dụng hợp lý các phương tiện ngôn ngữ và phi ngôn ngữ, biết cách tổ chức, điều khiển quá trình giao tiếp nhằm đạt mục đích giáo dục."
+        },
+        {
+          "id": 12,
+          "text": "Dựa trên tính chất các giai đoạn giao tiếp, kỹ năng giao tiếp sư phạm được chia thành 3 nhóm cơ bản nào sau đây?",
+          "options": [
+            "Nhóm kỹ năng định hướng, Nhóm kỹ năng định vị, Nhóm kỹ năng điều khiển.",
+            "Nhóm kỹ năng nghe, Nhóm kỹ năng nói, Nhóm kỹ năng quan sát.",
+            "Nhóm kỹ năng tiếp cận, Nhóm kỹ năng giảng dạy, Nhóm kỹ năng đánh giá.",
+            "Nhóm kỹ năng thấu cảm, Nhóm kỹ năng phản hồi, Nhóm kỹ năng tạo động lực."
+          ],
+          "correctIndex": 0,
+          "explain": "Các tác giả thường phân chia kỹ năng giao tiếp sư phạm thành ba nhóm cơ bản: nhóm kỹ năng định hướng, nhóm kỹ năng định vị và nhóm kỹ năng điều khiển."
+        },
+        {
+          "id": 13,
+          "text": "\"Kỹ năng đọc trên nét mặt, cử chỉ, hành vi, lời nói của học sinh\" thuộc nhóm kỹ năng giao tiếp sư phạm nào?",
+          "options": [
+            "Nhóm kỹ năng định vị.",
+            "Nhóm kỹ năng điều khiển.",
+            "Nhóm kỹ năng định hướng.",
+            "Nhóm kỹ năng sử dụng phương tiện giao tiếp."
+          ],
+          "correctIndex": 2,
+          "explain": "Nhóm kỹ năng định hướng bao gồm: Kỹ năng đọc trên nét mặt, cử chỉ, hành vi, lời nói; Kỹ năng chuyển từ tri giác bên ngoài vào nhận biết bản chất bên trong; Kỹ năng định hướng trước và trong quá trình tiếp xúc."
+        },
+        {
+          "id": 14,
+          "text": "Trong giao tiếp sư phạm, kỹ năng nào đòi hỏi giáo viên phải \"biết đặt vị trí của mình vào vị trí của học sinh để hiểu rõ vui buồn, tạo điều kiện cho sự đồng cảm, hiểu biết lẫn nhau\"?",
+          "options": [
+            "Kỹ năng định hướng trước khi tiếp xúc.",
+            "Kỹ năng chuyển từ tri giác bên ngoài vào bản chất bên trong.",
+            "Kỹ năng định vị.",
+            "Kỹ năng điều khiển cảm xúc."
+          ],
+          "correctIndex": 2,
+          "explain": "Kỹ năng định vị là khả năng phác thảo chân dung nhân cách học sinh và đặc biệt là biết đặt vị trí của mình vào vị trí của học sinh để hiểu rõ tâm tư, tạo điều kiện cho đối tượng đồng cảm, hiểu biết lẫn nhau."
+        },
+        {
+          "id": 15,
+          "text": "\"Kỹ năng làm chủ trạng thái cảm xúc của bản thân\" (kiềm chế sự tức giận, duy trì sự bình tĩnh) thuộc nhóm kỹ năng nào của người giáo viên?",
+          "options": [
+            "Nhóm kỹ năng định hướng.",
+            "Nhóm kỹ năng định vị.",
+            "Nhóm kỹ năng điều khiển.",
+            "Nhóm kỹ năng tiếp xúc."
+          ],
+          "correctIndex": 2,
+          "explain": "Nhóm kỹ năng điều khiển bao gồm: Kỹ năng làm chủ trạng thái cảm xúc của bản thân; Kỹ năng sử dụng phương tiện giao tiếp (ngôn ngữ, phi ngôn ngữ) để thu hút, duy trì sự hứng thú của học sinh."
+        },
+        {
+          "id": 16,
+          "text": "Giao tiếp sư phạm có ảnh hưởng như thế nào đối với sự phát triển nhân cách của học sinh?",
+          "options": [
+            "Chỉ đóng vai trò cung cấp thông tin lý thuyết một chiều.",
+            "Là điều kiện, là động lực trọng tâm trong sự hình thành và phát triển nhận thức, tình cảm và hành vi của học sinh.",
+            "Không có tác động đáng kể nếu học sinh không tự học.",
+            "Chỉ ảnh hưởng đến kết quả điểm số trên lớp."
+          ],
+          "correctIndex": 1,
+          "explain": "Thông qua giao tiếp sư phạm, giáo viên thực hiện các chức năng nhận thức, xúc cảm và điều khiển hành vi, giúp học sinh tiếp thu kinh nghiệm xã hội, từ đó hình thành và hoàn thiện nhân cách (tình cảm, ý thức, hành vi) một cách toàn diện."
+        },
+        {
+          "id": 17,
+          "text": "Xét về điều kiện mục tiêu giáo dục ảnh hưởng đến giao tiếp sư phạm, đòi hỏi hiện nay đối với người giáo viên là gì?",
+          "options": [
+            "Giao tiếp theo kiểu áp đặt, rập khuôn để đảm bảo kỷ luật thép.",
+            "Quan tâm đến tính chủ thể, tính tích cực của học sinh, không gò ép theo kiểu mô hình truyền thống một chiều.",
+            "Mặc kệ học sinh tự do phát triển, không cần sự can thiệp của giáo viên.",
+            "Chỉ tập trung giao tiếp với những học sinh có thành tích xuất sắc."
+          ],
+          "correctIndex": 1,
+          "explain": "Mục tiêu giáo dục hiện nay đòi hỏi giao tiếp sư phạm không thể gò ép theo kiểu áp đặt, rập khuôn mà cần quan tâm đến tính chủ thể, tính tích cực của học sinh; hạn chế mô hình truyền thống một chiều để hướng đến tương tác đa chiều."
+        },
+        {
+          "id": 18,
+          "text": "Ở lứa tuổi nào, học sinh có đặc điểm giao tiếp nổi bật là \"Có nhu cầu mở rộng lớn giao tiếp với mình một cách bình đẳng, mong muốn người lớn xem như người đã lớn\"?",
+          "options": [
+            "Tuổi nhi đồng.",
+            "Tuổi học sinh trung học cơ sở (tuổi thiếu niên).",
+            "Tuổi sinh viên.",
+            "Tuổi mẫu giáo."
+          ],
+          "correctIndex": 1,
+          "explain": "Dựa vào bảng tóm tắt đặc điểm giao tiếp, học sinh trung học cơ sở (tuổi thiếu niên) có nhu cầu mở rộng giao tiếp, mong muốn người lớn xem mình như người đã lớn, đòi hỏi sự bình đẳng và rất nhạy cảm với thái độ áp đặt."
+        },
+        {
+          "id": 19,
+          "text": "Trong bầu không khí tâm lý lớp học, hiện tượng \"cảm xúc, tâm trạng của giáo viên (như buồn bã, vui vẻ, cáu gắt) truyền sang học sinh và ngược lại\" được gọi là hiện tượng gì?",
+          "options": [
+            "Ám thị.",
+            "Bắt chước.",
+            "Lây lan cảm xúc.",
+            "Áp lực nhóm."
+          ],
+          "correctIndex": 2,
+          "explain": "Cảm xúc, tâm trạng của giáo viên có thể lây lan sang học sinh và ngược lại (buồn lây, vui lây, mệt mỏi lây...). Đây là hiện tượng lây lan cảm xúc, có thể ảnh hưởng tích cực hoặc tiêu cực đến hiệu quả giao tiếp sư phạm."
+        },
+        {
+          "id": 20,
+          "text": "Trong giao tiếp sư phạm, việc giáo viên tác động vào tâm lý, nhận thức của học sinh bằng lời nói, cử chỉ dựa trên \"uy tín và sự tin tưởng\" để học sinh tiếp thu một cách không phê phán được gọi là hiện tượng gì?",
+          "options": [
+            "Lây lan cảm xúc.",
+            "Ám thị.",
+            "Bắt chước.",
+            "Áp lực nhóm."
+          ],
+          "correctIndex": 1,
+          "explain": "Ám thị là sự tác động trực tiếp vào tâm lý, tình cảm con người bằng lời nói, cử chỉ... dựa trên uy tín của người giao tiếp. Người giáo viên có uy tín càng cao thì khả năng ám thị (thuyết phục ngầm, định hướng tâm lý) đối với học sinh càng lớn."
+        },
+        {
+          "id": 21,
+          "text": "Theo giáo trình, hiểu một cách đầy đủ thì \"lắng nghe\" trong giao tiếp sư phạm là gì?",
+          "options": [
+            "Là việc tiếp nhận âm thanh bằng thính giác một cách đơn thuần, thụ động.",
+            "Là quá trình thu nhận thông tin qua thính giác đi kèm với trạng thái chú ý, nhằm hiểu được nội dung, tâm tư và tình cảm của người nói.",
+            "Là khả năng ghi nhớ mọi lời nói của học sinh một cách máy móc để đánh giá.",
+            "Là việc giữ im lặng tuyệt đối, chờ đợi đối phương nói xong để đến lượt mình trình bày."
+          ],
+          "correctIndex": 1,
+          "explain": "Lắng nghe không chỉ thuần túy là tiếp nhận âm thanh bằng tai, mà là một quá trình tâm lý phức tạp bao gồm việc tiếp nhận, hiểu ý nghĩa, cảm nhận tâm tư, tình cảm của người nói và có phản ứng đáp lại phù hợp."
+        },
+        {
+          "id": 22,
+          "text": "Dựa vào mức độ tập trung và thấu hiểu, các nhà Tâm lý học chia kỹ năng lắng nghe thành 5 cấp độ. Cấp độ cao nhất của kỹ năng lắng nghe là gì?",
+          "options": [
+            "Nghe chăm chú.",
+            "Nghe có chọn lọc.",
+            "Nghe thấu cảm.",
+            "Nghe giả vờ."
+          ],
+          "correctIndex": 2,
+          "explain": "Theo sự phân chia các cấp độ, cấp độ 5 - \"Nghe thấu cảm\" là mức độ cao nhất. Ở cấp độ này, người nghe đặt mình vào vị trí của người nói để thấu hiểu sâu sắc tâm tư, tình cảm và những thông điệp ẩn giấu bên trong."
+        },
+        {
+          "id": 23,
+          "text": "Trong giao tiếp sư phạm, khi thực hiện \"nghe thấu cảm\", người giáo viên KHÔNG CHỈ lắng nghe thông tin mà còn phải làm gì?",
+          "options": [
+            "Phân tích để tìm ra lỗi sai trong lập luận của học sinh.",
+            "Chăm chú ghi chép lại mọi lời nói của học sinh làm bằng chứng.",
+            "Đặt mình vào vị trí của học sinh, chú ý cả những hành vi, cử chỉ, giọng điệu để thấu hiểu tâm can của các em.",
+            "Thể hiện uy quyền để ép học sinh phải nói ra sự thật."
+          ],
+          "correctIndex": 2,
+          "explain": "Nghe thấu cảm đòi hỏi người nghe phải \"đặt mình vào vị trí của người nói\", chú ý đến các yếu tố phi ngôn ngữ (cử chỉ, nét mặt) để thấu hiểu những điều mà người nói chưa diễn đạt hết bằng lời."
+        },
+        {
+          "id": 24,
+          "text": "Đâu là một trong những rào cản tâm lý phổ biến khiến việc lắng nghe của giáo viên bị giảm hiệu quả?",
+          "options": [
+            "Luôn duy trì giao tiếp bằng mắt với học sinh.",
+            "Gợi mở để học sinh trình bày hết suy nghĩ.",
+            "Bị chi phối bởi những thành kiến, định kiến tiêu cực có từ trước đối với học sinh.",
+            "Phản ánh lại nội dung học sinh vừa nói để xác nhận."
+          ],
+          "correctIndex": 2,
+          "explain": "Những thành kiến, định kiến tiêu cực về đối tượng giao tiếp sẽ tạo ra \"bộ lọc\" sai lệch, khiến người nghe đánh giá chủ quan, tàn khốc và bác bỏ thông điệp của người nói, làm giảm hiệu quả lắng nghe."
+        },
+        {
+          "id": 25,
+          "text": "Khi học sinh đang ngập ngừng chưa dám nói, giáo viên sử dụng các câu nói như \"Cô hiểu...\", \"Em có thể nói rõ hơn được không?\" hoặc gật đầu khích lệ. Đây là biểu hiện của kỹ năng nào trong lắng nghe?",
+          "options": [
+            "Kỹ năng phản ánh lại.",
+            "Kỹ năng đặt câu hỏi đóng.",
+            "Kỹ năng gợi mở.",
+            "Kỹ năng tóm tắt vấn đề."
+          ],
+          "correctIndex": 2,
+          "explain": "Kỹ năng gợi mở là việc sử dụng những câu hỏi, những cụm từ ngắn (như \"Thế à?\", \"Cô đang nghe đây\") hoặc nét mặt, nụ cười để khuyến khích học sinh tiếp tục cởi mở và chia sẻ thông điệp."
+        },
+        {
+          "id": 26,
+          "text": "Trong giao tiếp sư phạm, kỹ năng đặt câu hỏi nhằm thực hiện các mục đích cơ bản nào?",
+          "options": [
+            "Kích thích suy nghĩ, thu thập thông tin, tìm kiếm sự đồng tình và kiểm tra mức độ thấu hiểu.",
+            "Đe dọa, dồn ép học sinh vào thế bí để khẳng định uy quyền.",
+            "Tạo ra sự căng thẳng cần thiết để học sinh phải sợ hãi giáo viên.",
+            "Kéo dài thời gian tiết học khi giáo viên chưa chuẩn bị kỹ bài giảng."
+          ],
+          "correctIndex": 0,
+          "explain": "Việc đặt câu hỏi trong sư phạm nhằm kích thích người nói, xác định vấn đề, thu thập thông tin, kiểm tra phương án giải quyết, khuyến khích sự tham gia và tìm kiếm sự đồng tình, ủng hộ."
+        },
+        {
+          "id": 27,
+          "text": "Căn cứ theo \"cách đặt câu hỏi\", hệ thống câu hỏi trong giao tiếp được chia thành 2 loại chính nào?",
+          "options": [
+            "Câu hỏi trực tiếp và câu hỏi gián tiếp.",
+            "Câu hỏi đóng và câu hỏi mở.",
+            "Câu hỏi đánh giá và câu hỏi tư duy.",
+            "Câu hỏi tu từ và câu hỏi xác nhận."
+          ],
+          "correctIndex": 1,
+          "explain": "Theo cách phân loại dựa trên cách đặt câu hỏi, câu hỏi được chia thành hai loại: câu hỏi đóng (có/không, đúng/sai) và câu hỏi mở (để người trả lời tự do bộc lộ quan điểm)."
+        },
+        {
+          "id": 28,
+          "text": "Giáo viên sử dụng loại câu hỏi nào khi muốn đi thẳng vào vấn đề, thu thập thông tin nhanh chóng (Ví dụ: \"Em thích môn học nào nhất?\", \"Tại sao em lại làm như vậy?\")?",
+          "options": [
+            "Câu hỏi đóng.",
+            "Câu hỏi gián tiếp.",
+            "Câu hỏi trực tiếp.",
+            "Câu hỏi mở mang tính tu từ."
+          ],
+          "correctIndex": 2,
+          "explain": "Dựa trên phân loại theo \"cách trả lời\", câu hỏi trực tiếp là loại câu hỏi nhắm thẳng vào vấn đề mà người hỏi quan tâm, giúp thu thập thông tin một cách nhanh chóng."
+        },
+        {
+          "id": 29,
+          "text": "Lỗi sai phổ biến nào dưới đây giáo viên CẦN TRÁNH khi sử dụng kỹ năng đặt câu hỏi trên lớp?",
+          "options": [
+            "Chuẩn bị trước các câu hỏi quan trọng cho bài giảng.",
+            "Đặt câu hỏi quá dài dòng, vòng vo hoặc hỏi \"dồn\" quá nhiều câu hỏi cùng một lúc khiến học sinh không kịp suy nghĩ.",
+            "Sử dụng đan xen giữa câu hỏi mở và câu hỏi đóng.",
+            "Dành thời gian im lặng để học sinh suy nghĩ sau khi nêu câu hỏi."
+          ],
+          "correctIndex": 1,
+          "explain": "Những sai lầm khi đặt câu hỏi bao gồm: diễn đạt quá dài dòng, hỏi dồn (hỏi liên tiếp nhiều câu), hỏi với mục đích đe dọa hoặc hỏi không đúng hoàn cảnh."
+        },
+        {
+          "id": 30,
+          "text": "Để đạt hiệu quả cao trong nghệ thuật đặt câu hỏi, nguyên tắc nào sau đây là KHÔNG HỢP LÝ?",
+          "options": [
+            "Nên bắt đầu bằng một câu hỏi dễ để tạo tâm lý thoải mái cho học sinh.",
+            "Bắt đầu bằng những câu hỏi cực khó ngay từ đầu để thử thách sự tập trung của học sinh.",
+            "Thể hiện sự kiên trì, chờ đợi một khoảng thời gian nhất định để học sinh suy nghĩ trước khi trả lời.",
+            "Sử dụng linh hoạt các loại câu hỏi cho phù hợp với hoàn cảnh và đối tượng học sinh."
+          ],
+          "correctIndex": 1,
+          "explain": "Nguyên tắc quan trọng là \"Nên bắt đầu bằng một câu hỏi dễ\". Việc đặt ngay câu hỏi khó, phức tạp sẽ tạo tâm lý phòng thủ, áp lực và e ngại cho người nghe, khiến cuộc giao tiếp trở nên bế tắc."
+        },
+        {
+          "id": 31,
+          "text": "Dưới góc độ Tâm lý học, cấu trúc của kỹ năng quản lý cảm xúc của giáo viên bao gồm hai yếu tố cơ bản nào?",
+          "options": [
+            "Khả năng nhận biết cảm xúc của học sinh và khả năng thay đổi chúng.",
+            "Khả năng tự nhận biết cảm xúc và khả năng tự điều khiển cảm xúc của bản thân.",
+            "Khả năng kìm nén cảm xúc tiêu cực và khả năng che giấu cảm xúc.",
+            "Khả năng thể hiện sự tức giận đúng lúc và khả năng xoa dịu học sinh."
+          ],
+          "correctIndex": 1,
+          "explain": "Cấu trúc của kỹ năng quản lý cảm xúc bao gồm khả năng tự nhận biết cảm xúc (nhận biết biểu hiện, nguyên nhân, hậu quả) và khả năng tự điều khiển cảm xúc (kiểm soát đúng mức độ, đúng đối tượng)."
+        },
+        {
+          "id": 32,
+          "text": "Trong các mức độ kiểm soát cảm xúc của giáo viên, mức độ nào được miêu tả là tình trạng giáo viên \"cố gắng chịu đựng, kìm nén những cảm xúc tiêu cực, bề ngoài có vẻ bình tĩnh nhưng bên trong luôn căng thẳng, dễ dẫn đến sự bùng nổ\"?",
+          "options": [
+            "Mức độ vượt tầm kiểm soát.",
+            "Mức độ trong tầm kiểm soát.",
+            "Mức độ nguy hiểm.",
+            "Mức độ vô thức."
+          ],
+          "correctIndex": 2,
+          "explain": "Mức độ nguy hiểm là lúc chủ thể không thể tập trung vào việc gì ngoài việc nghĩ đến cảm xúc đang hiện diện. Sự kìm nén quá mức khiến cảm xúc tiêu cực bị dồn nén, tạo ra sự căng thẳng tột độ và rất dễ bùng nổ thành những hành vi mất kiểm soát sau đó."
+        },
+        {
+          "id": 33,
+          "text": "Khi giáo viên đang rất tức giận vì một học sinh vi phạm kỷ luật, nhưng giáo viên biết dùng lý trí để phân tích tình huống, hít thở sâu, hạ giọng và không dùng lời lẽ xúc phạm học sinh. Đây là biểu hiện của năng lực nào?",
+          "options": [
+            "Khả năng tự điều khiển cảm xúc.",
+            "Khả năng định vị sư phạm.",
+            "Khả năng giao tiếp phi ngôn ngữ.",
+            "Khả năng tự nhận biết cảm xúc."
+          ],
+          "correctIndex": 0,
+          "explain": "Khả năng điều khiển cảm xúc là khả năng làm chủ các cảm xúc của mình, biết cách \"giải tỏa\" những cảm xúc tiêu cực, chuyển từ trạng thái căng thẳng sang điềm tĩnh để không làm ảnh hưởng đến hành vi giao tiếp sư phạm."
+        },
+        {
+          "id": 34,
+          "text": "Khái niệm \"Kỹ năng động viên học sinh\" trong giao tiếp sư phạm được hiểu chuẩn xác nhất là gì?",
+          "options": [
+            "Là khả năng thỏa mãn mọi yêu cầu và sở thích của học sinh để các em vui vẻ.",
+            "Là khả năng dùng quyền lực của giáo viên để ép buộc học sinh hoàn thành nhiệm vụ.",
+            "Là khả năng khuyến khích, hỗ trợ, kích thích học sinh có sức mạnh, có động cơ để tích cực thực hiện hoạt động theo định hướng đã xác lập.",
+            "Là khả năng luôn luôn khen ngợi học sinh trong bất kỳ hoàn cảnh nào."
+          ],
+          "correctIndex": 2,
+          "explain": "Kỹ năng động viên là khả năng khuyến khích, hỗ trợ, tạo ra động lực bên trong giúp người khác (học sinh) có sức mạnh và khao khát để vượt qua khó khăn, hướng tới mục tiêu giáo dục."
+        },
+        {
+          "id": 35,
+          "text": "Theo thuyết \"Hệ thống thứ bậc nhu cầu\" của Abraham Maslow, để động viên học sinh một cách hiệu quả, giáo viên cần tuân thủ nguyên tắc nào?",
+          "options": [
+            "Chỉ cần tập trung thỏa mãn nhu cầu cao nhất là nhu cầu tự khẳng định.",
+            "Phải nhận diện và thỏa mãn các nhu cầu ở bậc thấp (như sự an toàn, tâm sinh lý) trước, rồi mới khơi dậy và đáp ứng các nhu cầu ở bậc cao hơn.",
+            "Mọi học sinh đều có nhu cầu giống hệt nhau ở cùng một thời điểm.",
+            "Động viên chỉ có tác dụng khi sử dụng phần thưởng vật chất."
+          ],
+          "correctIndex": 1,
+          "explain": "Theo thuyết Maslow, các nhu cầu của con người được xếp theo thứ bậc từ thấp đến cao (Sinh lý -> An toàn -> Xã hội -> Tôn trọng -> Tự khẳng định). Con người thường phải được thỏa mãn các nhu cầu cấp dưới trước khi nảy sinh các nhu cầu cấp cao. Nhận diện đúng mức độ nhu cầu để đáp ứng là chìa khóa của việc động viên."
+        },
+        {
+          "id": 36,
+          "text": "Theo thuyết \"Hai nhân tố\" của Frederick Herzberg, nhân tố nào sau đây thực sự là \"nhân tố động viên\" giúp tạo ra sự thỏa mãn và thúc đẩy học sinh nỗ lực vươn lên?",
+          "options": [
+            "Điều kiện phòng học, bàn ghế, ánh sáng.",
+            "Các chính sách, nội quy của nhà trường.",
+            "Sự thành đạt, sự thừa nhận của thầy cô, tính chất công việc học tập và tinh thần trách nhiệm.",
+            "Mối quan hệ giao tiếp thông thường với bạn bè."
+          ],
+          "correctIndex": 2,
+          "explain": "Herzberg chia làm hai nhóm: Nhóm nhân tố duy trì (điều kiện vật chất, chính sách...) nếu thiếu sẽ gây bất mãn nhưng có đủ cũng không tạo ra động lực mạnh. Nhóm \"nhân tố động viên\" (sự thừa nhận, thành tựu, trách nhiệm...) mới thực sự là đòn bẩy kích thích học sinh nỗ lực vươn lên."
+        },
+        {
+          "id": 37,
+          "text": "Thuyết \"Sự công bằng\" trong nghệ thuật động viên nhấn mạnh điều gì?",
+          "options": [
+            "Mọi học sinh, dù cố gắng hay không, đều phải được nhận điểm số và phần thưởng như nhau.",
+            "Động cơ phấn đấu của học sinh bị tác động mạnh mẽ bởi nhận thức của các em về tính công bằng trong cách đối xử, đánh giá và khen thưởng của giáo viên so với những bạn khác.",
+            "Giáo viên tuyệt đối không được khen ngợi cá nhân nào trước lớp để tránh sự ghen tị.",
+            "Công bằng nghĩa là áp dụng cùng một hình phạt cho mọi lỗi lầm."
+          ],
+          "correctIndex": 1,
+          "explain": "Theo thuyết này, con người luôn có xu hướng so sánh sự đóng góp và phần thưởng của mình với người khác. Sự bất công (thiên vị) trong đánh giá của giáo viên sẽ triệt tiêu ngay lập tức động lực học tập của học sinh."
+        },
+        {
+          "id": 38,
+          "text": "Nguyên tắc \"Tránh làm tổn thương một đối tượng khác\" khi sử dụng lời khen để động viên học sinh có nghĩa là gì?",
+          "options": [
+            "Giáo viên không được khen học sinh giỏi vì sẽ làm tổn thương học sinh kém.",
+            "Lời khen ngợi một cá nhân không được sử dụng như một công cụ để so sánh, chê bai, hay hạ thấp năng lực của một cá nhân khác.",
+            "Khi khen học sinh, giáo viên phải nói thật nhỏ để những bạn khác không nghe thấy.",
+            "Phải phê bình một học sinh khác ngay sau khi khen để giữ cân bằng."
+          ],
+          "correctIndex": 1,
+          "explain": "Đây là quy tắc số 1 trong nghệ thuật khen ngợi. Việc mượn lời khen người này để \"đá xoáy\", chê bai người kia (ví dụ: \"Em A làm bài rất tốt, chả bù cho em B...\") sẽ phản tác dụng, gây ra sự đố kỵ và mất đoàn kết."
+        },
+        {
+          "id": 39,
+          "text": "Để học sinh \"tin vào lời khen\" (Quy tắc 2), giáo viên cần lưu ý điều gì nhất khi đưa ra lời khen ngợi?",
+          "options": [
+            "Dùng những từ ngữ tâng bốc, nói quá sự thật để học sinh cảm thấy tự hào.",
+            "Khen ngợi một cách chung chung: \"Em là học sinh tuyệt vời nhất lớp\".",
+            "Khen ngợi mọi lúc, mọi nơi, kể cả với những việc học sinh làm qua loa.",
+            "Khen ngợi phải cụ thể, chân thành, gắn liền với một hành vi, kết quả hoặc sự nỗ lực thực sự của học sinh."
+          ],
+          "correctIndex": 3,
+          "explain": "Lời khen chỉ có giá trị động viên khi nó chân thành và cụ thể. Việc khen ngợi thái quá, tâng bốc vô căn cứ, hoặc khen chung chung sẽ khiến học sinh nghi ngờ tính chân thực của lời khen và nghĩ rằng giáo viên đang xã giao hoặc mỉa mai."
+        },
+        {
+          "id": 40,
+          "text": "\"Việc giáo viên mỉm cười khích lệ, gật đầu đồng tình, hoặc nhẹ nhàng vỗ vai học sinh khi các em đang lúng túng trên bảng\" là hình thức động viên thông qua phương tiện nào?",
+          "options": [
+            "Động viên bằng phương tiện ngôn ngữ nói.",
+            "Động viên bằng phương tiện ngôn ngữ viết.",
+            "Động viên bằng phương tiện phi ngôn ngữ.",
+            "Động viên bằng phần thưởng vật chất."
+          ],
+          "correctIndex": 2,
+          "explain": "Sử dụng ánh mắt, nụ cười, cử chỉ, tư thế... là những yếu tố thuộc về phương tiện phi ngôn ngữ. Trong nhiều tình huống, sự khích lệ bằng cử chỉ phi ngôn ngữ còn mang lại hiệu quả động viên sâu sắc và tinh tế hơn cả lời nói."
+        },
+        {
+          "id": 41,
+          "text": "Theo quy tắc khen ngợi trong nghệ thuật động viên học sinh, việc giáo viên lặp đi lặp lại một lời khen chung chung ở mọi thời điểm sẽ dẫn đến hậu quả gì?",
+          "options": [
+            "Khích lệ mạnh mẽ sự tự tin của học sinh và tạo thói quen tốt.",
+            "Lời khen trở nên nhàm chán, mất đi giá trị, mang tính hình thức và khiến học sinh nghi ngờ tính chân thực của nó.",
+            "Giúp các học sinh khác trong lớp có động lực phấn đấu mạnh hơn.",
+            "Thể hiện sự quan tâm và đồng cảm sâu sắc của người giáo viên."
+          ],
+          "correctIndex": 1,
+          "explain": "Theo Quy tắc 3 (Khen ngợi với mức độ nhất định), những lời khen nếu bị sử dụng một cách tràn lan, lặp đi lặp lại nhiều lần sẽ trở nên nhàm chán, sáo rỗng và không còn mang lại cảm xúc tích cực hay sự tự hào cho người được khen."
+        },
+        {
+          "id": 42,
+          "text": "Thuyết \"Kỳ vọng\" của V. Vroom trong việc động viên học sinh nhấn mạnh rằng sự nỗ lực của cá nhân phụ thuộc vào hai yếu tố chính nào?",
+          "options": [
+            "Môi trường lớp học và đặc điểm lứa tuổi.",
+            "Sự khen ngợi của giáo viên và điểm số đạt được trên lớp.",
+            "Kỳ vọng về kết quả (niềm tin rằng hành động sẽ dẫn đến kết quả) và sức hấp dẫn (giá trị) của phần thưởng đối với cá nhân đó.",
+            "Hình phạt nghiêm khắc và sự giám sát của phụ huynh."
+          ],
+          "correctIndex": 2,
+          "explain": "Theo Thuyết kỳ vọng, động cơ thực hiện hành động được xác định bởi Lực lượng (sự nỗ lực) = Sức hấp dẫn của phần thưởng (Valence) x Niềm tin/kỳ vọng vào việc thực hiện hành động sẽ mang lại kết quả đó (Expectancy)."
+        },
+        {
+          "id": 43,
+          "text": "Trong môi trường lớp học, hiện tượng một học sinh thay đổi suy nghĩ, thái độ của mình để hùa theo ý kiến của đa số bạn bè dù biết điều đó có thể sai, được gọi là hiện tượng tâm lý nào?",
+          "options": [
+            "Lây lan cảm xúc.",
+            "Bắt chước.",
+            "Ám thị.",
+            "Áp lực nhóm."
+          ],
+          "correctIndex": 3,
+          "explain": "Áp lực nhóm là sự thay đổi về suy nghĩ, thái độ của cá nhân dưới ảnh hưởng của một nhóm do sợ bị cô lập hoặc muốn được hòa nhập. Hiện tượng này đôi khi tạo ra \"tâm lý a dua\", khiến học sinh từ bỏ chính kiến của mình."
+        },
+        {
+          "id": 44,
+          "text": "Theo phân loại các kiểu khí chất, học sinh mang \"Khí chất linh hoạt\" (mạnh, cân bằng, linh hoạt) thường có đặc trưng giao tiếp nào sau đây?",
+          "options": [
+            "Chậm chạp, ít bộc lộ cảm xúc ra mặt, quan hệ hẹp nhưng rất bền vững.",
+            "Hăng hái, sôi nổi, tháo vát, dễ thiết lập mối quan hệ mới nhưng đôi khi tình cảm hời hợt, dễ nhàm chán.",
+            "Nhút nhát, e dè, sống khép kín, đa sầu đa cảm và nhạy cảm với những tác động mạnh.",
+            "Nóng nảy, dễ kích động, hành động vội vàng và hay xảy ra cãi vã."
+          ],
+          "correctIndex": 1,
+          "explain": "Học sinh kiểu linh hoạt thường rất vui vẻ, lạc quan, thích nghi nhanh với môi trường mới, thích giao tiếp và dễ kết bạn. Tuy nhiên, nhược điểm của các em là tình cảm dễ thay đổi, thiếu sâu sắc và hay cả thèm chóng chán."
+        },
+        {
+          "id": 45,
+          "text": "Trong giao tiếp sư phạm, học sinh thuộc kiểu khí chất \"Nóng nảy\" (mạnh, không cân bằng) thường có ưu điểm và nhược điểm gì nổi bật?",
+          "options": [
+            "Ưu điểm là điềm tĩnh, suy nghĩ thấu đáo; nhược điểm là bảo thủ, chậm chạp.",
+            "Ưu điểm là nhiệt tình, thẳng thắn, quyết đoán; nhược điểm là hay cáu gắt, dễ bị kích động, tính tự ái cao và kìm chế cảm xúc kém.",
+            "Ưu điểm là tinh tế, sâu sắc, chu đáo; nhược điểm là rụt rè, tự ti, ngại giao tiếp.",
+            "Ưu điểm là luôn vui vẻ, lạc quan; nhược điểm là dễ từ bỏ mục tiêu khi gặp khó khăn."
+          ],
+          "correctIndex": 1,
+          "explain": "Học sinh kiểu nóng nảy mang năng lượng rất lớn, bộc trực, thẳng thắn, xông xáo nhưng lại thiếu kiên nhẫn, dễ bốc đồng, phản ứng mạnh mẽ, dễ cáu gắt và thường gặp khó khăn trong việc kiểm soát cảm xúc."
+        },
+        {
+          "id": 46,
+          "text": "Ở các cấp độ của kỹ năng lắng nghe, biểu hiện \"tỏ vẻ chú ý, nhìn người nói, thỉnh thoảng gật đầu nhưng thực chất trong đầu đang suy nghĩ về một vấn đề khác\" thuộc cấp độ nào?",
+          "options": [
+            "Không nghe.",
+            "Nghe có chọn lọc.",
+            "Nghe giả vờ.",
+            "Nghe chăm chú."
+          ],
+          "correctIndex": 2,
+          "explain": "Nghe giả vờ là kiểu lắng nghe không thực chất, người nghe dùng các biểu hiện bề ngoài để che giấu việc tâm trí mình đang xao nhãng, không thực sự tiếp thu thông điệp của người nói."
+        },
+        {
+          "id": 47,
+          "text": "Hiện tượng một học sinh vô thức hoặc có chủ ý lặp lại những hành vi, cách ăn nói, cử chỉ của một người giáo viên mà em đó ngưỡng mộ được gọi là hiện tượng gì?",
+          "options": [
+            "Lây lan cảm xúc.",
+            "Ám thị.",
+            "Bắt chước.",
+            "Đồng cảm."
+          ],
+          "correctIndex": 2,
+          "explain": "Bắt chước là việc lặp lại hành vi, cử chỉ, cách cư xử của người khác. Đặc biệt trong trường phổ thông, học sinh rất hay bắt chước các chuẩn mực, phong cách của những người giáo viên có uy tín mà các em ngưỡng mộ."
+        },
+        {
+          "id": 48,
+          "text": "Một \"bầu không khí tâm lý\" căng thẳng, giáo viên độc đoán và khắt khe sẽ dẫn đến hậu quả gì đối với học sinh trong quá trình giao tiếp sư phạm?",
+          "options": [
+            "Giúp học sinh học tập tập trung, kỷ luật và phát huy tính sáng tạo cao hơn.",
+            "Tạo ra bức tường tâm lý ngăn cách, học sinh sợ hãi, e ngại, đóng kín bản thân, tạo thái độ chống đối ngầm và giao tiếp mang tính đối phó.",
+            "Thúc đẩy sự phát triển toàn diện nhân cách và năng lực tự học của học sinh.",
+            "Giúp xây dựng uy tín tuyệt đối và sự kính trọng tự nguyện từ phía học sinh."
+          ],
+          "correctIndex": 1,
+          "explain": "Bầu không khí tâm lý đóng vai trò như \"môi trường nuôi dưỡng\" giao tiếp. Sự áp đặt, thiếu dân chủ sẽ xây dựng nên những rào cản tâm lý, khiến học sinh mất đi sự tự tin, rụt rè và không dám bộc lộ bản thân."
+        },
+        {
+          "id": 49,
+          "text": "Khi sử dụng kỹ năng đặt câu hỏi, nếu giáo viên thường xuyên sử dụng câu hỏi \"đóng\", kết quả thu được từ học sinh thường mang tính chất như thế nào?",
+          "options": [
+            "Thu thập được nhiều thông tin chi tiết, đa dạng và hiểu được cảm xúc sâu sắc của học sinh.",
+            "Kích thích mạnh mẽ sự sáng tạo, tư duy phản biện và khả năng lập luận của học sinh.",
+            "Chỉ nhận được các câu trả lời ngắn gọn mang tính xác nhận như \"Có\", \"Không\", \"Đúng\", \"Sai\", hạn chế sự bộc lộ quan điểm cá nhân.",
+            "Gợi mở ra một cuộc thảo luận sôi nổi, nhiều chiều trong lớp học."
+          ],
+          "correctIndex": 2,
+          "explain": "Câu hỏi đóng thường bắt đầu hoặc kết thúc bằng các từ để hỏi buộc người trả lời phải xác nhận thông tin (Có/Không, Đúng/Sai). Mặc dù giúp kiểm soát thời gian tốt nhưng nó không khuyến khích học sinh trình bày chi tiết hay bộc lộ tư duy."
+        },
+        {
+          "id": 50,
+          "text": "Trong nhóm kỹ năng định hướng và định vị sư phạm, việc người giáo viên tự \"nhận thức về bản thân mình\" (hiểu mình) mang lại lợi ích quan trọng nhất là gì?",
+          "options": [
+            "Giúp giáo viên dễ dàng áp đặt các tiêu chuẩn cá nhân của mình lên học sinh.",
+            "Giúp giáo viên thấy rõ điểm mạnh, điểm yếu, vị trí, vai trò của mình, từ đó làm cơ sở để tự điều chỉnh hành vi, cảm xúc và lựa chọn phương pháp giao tiếp phù hợp.",
+            "Giúp giáo viên luôn tự tin tuyệt đối và không bao giờ mắc sai lầm trong giáo dục.",
+            "Giúp giáo viên tìm ra những lỗ hổng của học sinh để đưa ra hình phạt tương xứng."
+          ],
+          "correctIndex": 1,
+          "explain": "Sự tự nhận thức (hiểu mình) là nền tảng để giao tiếp hiệu quả. Khi hiểu rõ vị trí, trách nhiệm và giới hạn của bản thân, giáo viên sẽ biết cách kiểm soát thái độ, điều chỉnh hành vi để tương tác đúng mực với học sinh."
+        },
+        {
+          "id": 51,
+          "text": "Trong các nhóm kỹ năng giao tiếp sư phạm, kỹ năng nào giúp giáo viên phác thảo được \"chân dung nhân cách\" của học sinh một cách chính xác, từ đó đặt mình vào vị trí của các em để hiểu rõ vui buồn, suy nghĩ?",
+          "options": [
+            "Kỹ năng định hướng.",
+            "Kỹ năng định vị.",
+            "Kỹ năng điều khiển.",
+            "Kỹ năng sử dụng phương tiện phi ngôn ngữ."
+          ],
+          "correctIndex": 1,
+          "explain": "Kỹ năng định vị là khả năng xây dựng mô hình tâm lý, phác thảo chân dung nhân cách học sinh đạt mức độ chính xác; đặc biệt là biết đặt vị trí của mình vào vị trí của học sinh để hiểu rõ vui, buồn cùng học sinh."
+        },
+        {
+          "id": 52,
+          "text": "Theo sơ đồ cấu trúc kỹ năng quản lý cảm xúc của giáo viên, hai thành tố cơ bản tạo nên kỹ năng này là gì?",
+          "options": [
+            "Khả năng che giấu cảm xúc và khả năng bùng nổ cảm xúc.",
+            "Khả năng nhận biết nguyên nhân và khả năng dự đoán hậu quả.",
+            "Khả năng tự nhận biết cảm xúc và khả năng tự điều khiển cảm xúc.",
+            "Khả năng lây lan cảm xúc và khả năng kìm nén cảm xúc."
+          ],
+          "correctIndex": 2,
+          "explain": "Cấu trúc của kỹ năng quản lý cảm xúc bao gồm hai khả năng cốt lõi: Khả năng tự nhận biết cảm xúc (biết biểu hiện, nguyên nhân, hậu quả) và Khả năng tự điều khiển cảm xúc (điều khiển đúng mức độ, đúng đối tượng)."
+        },
+        {
+          "id": 53,
+          "text": "Khi đối mặt với tình huống căng thẳng, nếu giáo viên không còn giữ được sự tự chủ, để cảm xúc tiêu cực bộc lộ một cách tự nhiên dẫn đến \"sự bùng nổ\" (quát tháo, hành động sai lệch). Đây là biểu hiện của mức độ kiểm soát cảm xúc nào?",
+          "options": [
+            "Mức độ kìm nén.",
+            "Mức độ nguy hiểm.",
+            "Mức độ trong tầm kiểm soát.",
+            "Mức độ vượt tầm kiểm soát."
+          ],
+          "correctIndex": 3,
+          "explain": "Ở mức độ vượt tầm kiểm soát, chủ thể không còn giữ được sự tự chủ của mình và để bộc lộ một cách hết sức tự nhiên những cảm xúc tiêu cực, dẫn đến sự bùng nổ và không tránh khỏi những hậu quả đáng tiếc."
+        },
+        {
+          "id": 54,
+          "text": "Trong phân loại các cấp độ lắng nghe, cấp độ cao nhất đòi hỏi người nghe phải \"đặt mình vào vị trí của người nói để thấu cảm, hiểu được tâm tư, tình cảm và nhu cầu của họ\" được gọi là gì?",
+          "options": [
+            "Nghe chăm chú.",
+            "Nghe có chọn lọc.",
+            "Nghe thấu cảm.",
+            "Nghe giả vờ."
+          ],
+          "correctIndex": 2,
+          "explain": "Nghe thấu cảm là cấp độ lắng nghe cao nhất, người nghe không chỉ chăm chú lắng nghe mà còn đặt mình vào vị trí của người nói để hiểu thấu đáo, sâu sắc những thông điệp, tâm tư và tình cảm của họ."
+        },
+        {
+          "id": 55,
+          "text": "Yếu tố nào sau đây được xem là rào cản tâm lý làm giảm nghiêm trọng hiệu quả của quá trình lắng nghe trong giao tiếp sư phạm?",
+          "options": [
+            "Tốc độ tư duy của người nghe nhanh hơn tốc độ nói.",
+            "Người nghe có những thành kiến, định kiến tiêu cực về người nói.",
+            "Người nghe sử dụng kỹ năng gợi mở.",
+            "Người nghe phản ánh lại nội dung câu chuyện."
+          ],
+          "correctIndex": 1,
+          "explain": "Những thành kiến, định kiến tiêu cực về đối tượng giao tiếp sẽ tạo ra những đánh giá chủ quan, tàn khốc, làm ảnh hưởng tiêu cực đến thái độ và hiệu quả lắng nghe của giáo viên."
+        },
+        {
+          "id": 56,
+          "text": "Để khuyến khích học sinh tự do bộc lộ suy nghĩ, đánh giá chủ quan và giúp giáo viên khai thác được nhiều thông tin, giáo viên nên ưu tiên sử dụng loại câu hỏi nào?",
+          "options": [
+            "Câu hỏi đóng.",
+            "Câu hỏi tu từ.",
+            "Câu hỏi mở.",
+            "Câu hỏi gián tiếp."
+          ],
+          "correctIndex": 2,
+          "explain": "Câu hỏi mở là loại câu hỏi không có phương án trả lời trước, người được hỏi có thể trả lời theo suy nghĩ, đánh giá chủ quan của mình một cách thoải mái, giúp giáo viên thu thập được nhiều thông tin hơn."
+        },
+        {
+          "id": 57,
+          "text": "Khi vận dụng kỹ năng đặt câu hỏi, nguyên tắc nào sau đây là nguyên tắc ĐÚNG để tạo hiệu quả giao tiếp tốt nhất?",
+          "options": [
+            "Nên bắt đầu bằng một câu hỏi cực khó để thử thách sự tập trung.",
+            "Nên hỏi dồn dập nhiều câu cùng lúc để học sinh phản xạ nhanh.",
+            "Chỉ sử dụng câu hỏi đóng để tiết kiệm thời gian tiết học.",
+            "Nên bắt đầu bằng một câu hỏi dễ để tạo tâm lý thoải mái cho học sinh."
+          ],
+          "correctIndex": 3,
+          "explain": "Bắt đầu bằng những câu hỏi dễ sẽ tạo tâm lý thoải mái cho người nghe, làm cho họ tự tin hơn, từ đó tạo bước đệm để dẫn dắt vào những vấn đề khó hơn."
+        },
+        {
+          "id": 58,
+          "text": "Yếu tố đầu tiên và cũng là nền tảng cốt lõi nhất để giáo viên có thể thực hiện thành công \"Kỹ năng động viên học sinh\" là gì?",
+          "options": [
+            "Sự nghiêm khắc tuyệt đối.",
+            "Sự thấu hiểu và đồng cảm.",
+            "Khả năng cung cấp phần thưởng vật chất có giá trị cao.",
+            "Việc duy trì khoảng cách quyền uy với học sinh."
+          ],
+          "correctIndex": 1,
+          "explain": "Biết thấu hiểu là yếu tố đầu tiên của kỹ năng động viên. Khi thấy một đối tượng gặp khó khăn, sự thấu cảm và hiểu rõ nguyên nhân sẽ giúp giáo viên có sự động viên kịp thời và đúng thời điểm."
+        },
+        {
+          "id": 59,
+          "text": "Khi giáo viên khen ngợi học sinh A nhưng lại mượn lời khen đó để chê bai, hạ thấp học sinh B. Việc làm này đã vi phạm quy tắc nào trong nghệ thuật động viên?",
+          "options": [
+            "Quy tắc 1: Lời khen tránh làm tổn thương một đối tượng khác.",
+            "Quy tắc 2: Làm cho đối tượng tin vào lời khen.",
+            "Quy tắc 3: Khen ngợi với mức độ nhất định.",
+            "Quy tắc 4: Khen ngợi bằng phần thưởng vật chất."
+          ],
+          "correctIndex": 0,
+          "explain": "Tránh mượn một lời khen đối với cá nhân này để bộc lộ một hàm ý chê bai, hạ nhục đối với cá nhân khác, vì điều này không mang lại động lực mà còn làm mất đi sự liên kết, gây chia rẽ cá nhân."
+        },
+        {
+          "id": 60,
+          "text": "Xét đến cùng, việc giáo viên không ngừng rèn luyện và phát triển các kỹ năng giao tiếp sư phạm (định hướng, định vị, điều khiển, lắng nghe, quản lý cảm xúc...) nhằm hướng đến mục đích cao nhất là gì?",
+          "options": [
+            "Xây dựng uy quyền tuyệt đối khiến mọi học sinh phải sợ hãi.",
+            "Nhằm đạt mục đích giáo dục, tạo điều kiện thuận lợi nhất trong quá trình hình thành và phát triển nhân cách của học sinh.",
+            "Để chứng minh năng lực vượt trội so với các đồng nghiệp khác.",
+            "Để thao túng và kiểm soát toàn bộ suy nghĩ của học sinh."
+          ],
+          "correctIndex": 1,
+          "explain": "Kỹ năng giao tiếp sư phạm là hệ thống các thao tác, cử chỉ, sự vận dụng ngôn ngữ... nhằm đạt mục đích giáo dục, tạo điều kiện thuận lợi nhất cho quá trình hình thành phẩm chất và nhân cách của học sinh."
+        }
+      ]
     },
     {
       "id": "exam-gtsp-ch4",
@@ -5052,7 +6494,728 @@
       "chapter": "GTSP - Chương 4",
       "title": "Ôn tập: Giao tiếp với các đối tượng khác",
       "time": 2400,
-      "questions": []
+      "questions": [
+        {
+          "id": 1,
+          "text": "Giao tiếp với đồng nghiệp trong trường phổ thông được xác lập dựa trên những mối quan hệ cơ bản nào?",
+          "options": [
+            "Mối quan hệ cạnh tranh và mối quan hệ thứ bậc.",
+            "Mối quan hệ tương hỗ và mối quan hệ đa dạng tâm lý.",
+            "Mối quan hệ quản lý và bị quản lý.",
+            "Mối quan hệ khách hàng và đối tác."
+          ],
+          "correctIndex": 1,
+          "explain": "Đặc điểm giao tiếp với đồng nghiệp được xác lập dựa trên hai mối quan hệ chính: mối quan hệ tương hỗ (cùng thực hiện nhiệm vụ, chung mục tiêu) và mối quan hệ đa dạng tâm lý (khác biệt văn hóa, tuổi tác, sở thích...)."
+        },
+        {
+          "id": 2,
+          "text": "Trong giao tiếp với đồng nghiệp, \"mối quan hệ tương hỗ\" mang ý nghĩa gì?",
+          "options": [
+            "Là sự hỗ trợ tài chính lẫn nhau trong cuộc sống cá nhân.",
+            "Là sự quản lý chéo lẫn nhau để đảm bảo kỷ luật nhà trường.",
+            "Là những người cùng làm một công việc giáo dục, có chung một mục tiêu và những nguyên tắc giáo dục, đòi hỏi sự hợp tác tích cực.",
+            "Là sự cạnh tranh công bằng để đạt được các danh hiệu thi đua."
+          ],
+          "correctIndex": 2,
+          "explain": "Mối quan hệ tương hỗ xuất phát từ việc giáo viên và đồng nghiệp cùng chia sẻ một môi trường làm việc, chung mục đích giáo dục học sinh, do đó cần phải phối hợp, hỗ trợ và nương tựa vào nhau."
+        },
+        {
+          "id": 3,
+          "text": "Nguyên tắc cốt lõi đầu tiên cần tuân thủ khi giao tiếp với đồng nghiệp là gì?",
+          "options": [
+            "Giao tiếp dựa trên sự tôn trọng và bình đẳng.",
+            "Giao tiếp dựa trên sự phân chia cấp bậc rõ ràng.",
+            "Giao tiếp dựa trên sự cạnh tranh lành mạnh.",
+            "Giao tiếp dựa trên việc luôn đồng tình với mọi ý kiến."
+          ],
+          "correctIndex": 0,
+          "explain": "Yêu cầu căn bản và quan trọng nhất đối với mỗi giáo viên là phải biết tôn trọng đồng nghiệp, dù người đó có tuổi đời, tuổi nghề hay trình độ như thế nào, tạo ra sự bình đẳng trong giao tiếp."
+        },
+        {
+          "id": 4,
+          "text": "Hành vi \"không bới móc những nhược điểm hay hạn chế của đồng nghiệp để giễu cợt, bêu rếu\" là biểu hiện của yêu cầu nào trong giao tiếp đồng nghiệp?",
+          "options": [
+            "Sự tích cực giúp đỡ lẫn nhau.",
+            "Sự học hỏi và chia sẻ thông tin.",
+            "Sự tôn trọng và bình đẳng.",
+            "Sự phân định trách nhiệm rõ ràng."
+          ],
+          "correctIndex": 2,
+          "explain": "Tôn trọng đồng nghiệp thể hiện ở việc không hạ thấp người khác, không lôi khuyết điểm của họ ra để chế giễu và không can thiệp thô bạo vào chuyện riêng tư của họ."
+        },
+        {
+          "id": 5,
+          "text": "Khi một đồng nghiệp chia sẻ chuyện buồn cá nhân nhưng không muốn đi sâu vào chi tiết, giáo viên nên ứng xử như thế nào cho phù hợp?",
+          "options": [
+            "Cố gắng gặng hỏi cho bằng được để thể hiện sự quan tâm sâu sắc.",
+            "Lờ đi và chuyển sang chủ đề công việc ngay lập tức.",
+            "Đem câu chuyện đó kể lại với các đồng nghiệp khác để cùng tìm cách giúp.",
+            "Tôn trọng sự riêng tư, không can thiệp sâu hay gặng hỏi nếu họ không muốn kể."
+          ],
+          "correctIndex": 3,
+          "explain": "Trong nguyên tắc tôn trọng và bình đẳng, giáo viên cần tránh tò mò quá mức, không nên can thiệp sâu vào chuyện riêng của đồng nghiệp nếu họ không chủ động chia sẻ."
+        },
+        {
+          "id": 6,
+          "text": "Việc giáo viên sẵn sàng trao đổi các tài liệu, phương pháp giảng dạy hay và kinh nghiệm quản lý lớp cho đồng nghiệp thể hiện yêu cầu nào?",
+          "options": [
+            "Giao tiếp dựa trên sự tích cực giúp đỡ lẫn nhau.",
+            "Giao tiếp dựa trên sự học hỏi và chia sẻ thông tin.",
+            "Giao tiếp mang tính cạnh tranh.",
+            "Giao tiếp thể hiện quyền uy cá nhân."
+          ],
+          "correctIndex": 1,
+          "explain": "Bất kỳ cá nhân nào cũng có những điểm tốt để người khác học tập. Việc sẵn sàng chia sẻ thông tin, kinh nghiệm chuyên môn một cách chân thành, không giấu giếm là biểu hiện của sự học hỏi và chia sẻ."
+        },
+        {
+          "id": 7,
+          "text": "Để duy trì một tập thể sư phạm đoàn kết, khi phát hiện đồng nghiệp có những sai sót trong công việc, giáo viên nên làm gì?",
+          "options": [
+            "Báo cáo ngay lên Hiệu trưởng để xử lý kỷ luật.",
+            "Phê bình gay gắt đồng nghiệp trong cuộc họp hội đồng lớn.",
+            "Im lặng bỏ qua vì \"dĩ hòa vi quý\", không muốn mất lòng.",
+            "Chọn thời điểm thích hợp, tế nhị trao đổi và góp ý chân thành để cùng nhau hoàn thiện."
+          ],
+          "correctIndex": 3,
+          "explain": "Yêu cầu \"Tích cực giúp đỡ lẫn nhau\" đòi hỏi giáo viên không che giấu khuyết điểm của nhau nhưng cũng không được chỉ trích một cách thô bạo. Cần chia sẻ, góp ý nhẹ nhàng, đúng lúc, đúng chỗ trên tinh thần xây dựng."
+        },
+        {
+          "id": 8,
+          "text": "Mối quan hệ giao tiếp giữa giáo viên và phụ huynh học sinh mang những đặc điểm gì?",
+          "options": [
+            "Mối quan hệ dựa trên sự áp đặt từ phía giáo viên.",
+            "Mối quan hệ tương tác tích cực (đối tác), mối quan hệ với \"khách hàng\" và mối quan hệ giữa các chủ thể đa dạng tâm lý.",
+            "Mối quan hệ mang tính chất gia đình, người thân.",
+            "Mối quan hệ cấp trên - cấp dưới trong giáo dục."
+          ],
+          "correctIndex": 1,
+          "explain": "Giao tiếp với phụ huynh được nhìn nhận dưới 3 góc độ: mối quan hệ tương tác tích cực (cùng chung mục tiêu giáo dục trẻ), mối quan hệ với \"khách hàng\" (phụ huynh là người sử dụng dịch vụ giáo dục), và mối quan hệ chủ thể đa dạng về tâm lý, nghề nghiệp, văn hóa."
+        },
+        {
+          "id": 9,
+          "text": "Dưới góc độ \"Phụ huynh là khách hàng\", giáo viên cần có thái độ giao tiếp như thế nào?",
+          "options": [
+            "Phục vụ vô điều kiện mọi yêu sách vô lý của phụ huynh.",
+            "Xem phụ huynh là khách hàng thân thiết, giao tiếp với thái độ tôn trọng, lắng nghe, hướng đến sự hài lòng và phối hợp hiệu quả.",
+            "Luôn giữ khoảng cách lạnh lùng để bảo vệ quyền uy của người thầy.",
+            "Coi thường những ý kiến đóng góp của phụ huynh vì họ không có chuyên môn sư phạm."
+          ],
+          "correctIndex": 1,
+          "explain": "Xem phụ huynh là \"khách hàng\" nghĩa là giáo viên cần cung cấp \"dịch vụ giáo dục\" tốt nhất, biết lắng nghe phản hồi, hướng đến sự đồng thuận và hài lòng của hai bên để đạt mục tiêu chung."
+        },
+        {
+          "id": 10,
+          "text": "Khi tiếp xúc với phụ huynh, giáo viên có thể gặp phải những bậc phụ huynh có trình độ học vấn, điều kiện kinh tế, hoặc nghề nghiệp rất khác nhau. Điều này phản ánh đặc điểm nào trong giao tiếp với phụ huynh?",
+          "options": [
+            "Giao tiếp trên mối quan hệ tương tác tích cực.",
+            "Giao tiếp với tư cách người quản lý.",
+            "Giao tiếp trên mối quan hệ giữa những chủ thể có sự đa dạng về tâm lý và vị thế xã hội.",
+            "Giao tiếp dựa trên sự đồng nhất về văn hóa."
+          ],
+          "correctIndex": 2,
+          "explain": "Đặc điểm nổi bật khi tiếp xúc phụ huynh là sự đa dạng. Mỗi gia đình có hoàn cảnh, văn hóa, chuẩn mực giá trị khác nhau, đòi hỏi giáo viên phải linh hoạt, thấu hiểu đặc điểm tâm lý của từng đối tượng để có cách ứng xử phù hợp."
+        },
+        {
+          "id": 11,
+          "text": "Khi giao tiếp với phụ huynh trên cơ sở \"mối quan hệ tương tác tích cực\", mục tiêu chung lớn nhất mà cả giáo viên và phụ huynh cùng hướng tới là gì?",
+          "options": [
+            "Đảm bảo học sinh đạt thành tích thi đua cao nhất cho nhà trường.",
+            "Phát triển hài hòa và toàn diện nhân cách của học sinh.",
+            "Thay đổi toàn bộ nội quy của trường theo ý muốn của gia đình.",
+            "Tránh né mọi rắc rối liên quan đến kỷ luật học sinh."
+          ],
+          "correctIndex": 1,
+          "explain": "Giáo viên và phụ huynh cùng có chung sự thống nhất lớn nhất là phát triển hài hòa và toàn diện nhân cách của học sinh. Từ những yêu cầu đầu tiên trong công tác giáo dục, sự phối hợp đồng bộ giữa hai phía là điều kiện tất yếu để đạt được mục tiêu này."
+        },
+        {
+          "id": 12,
+          "text": "Tại sao khi tiếp xúc với phụ huynh, giáo viên cần đặc biệt chú ý đến tính \"linh hoạt, mềm dẻo\" thay vì áp dụng một khuôn mẫu giao tiếp duy nhất?",
+          "options": [
+            "Vì mỗi gia đình có hoàn cảnh, văn hóa, giá trị lịch sử, điều kiện kinh tế và nghề nghiệp rất đa dạng, khác biệt nhau.",
+            "Vì giáo viên cần thể hiện uy quyền thống trị trước phụ huynh.",
+            "Vì quy định của Bộ Giáo dục liên tục thay đổi mỗi ngày.",
+            "Vì giáo viên không có đủ thời gian để chuẩn bị trước."
+          ],
+          "correctIndex": 0,
+          "explain": "Phụ huynh là những chủ thể rất đa dạng về tâm lý, nghề nghiệp, văn hóa gia đình, tri thức... Điều này ảnh hưởng lớn đến việc tiếp nhận thông tin. Giáo viên cần nhận thức được sự khác biệt này để có phương pháp tiếp cận linh hoạt, phù hợp với từng hoàn cảnh."
+        },
+        {
+          "id": 13,
+          "text": "Trong các yêu cầu khi giao tiếp với phụ huynh, việc \"biết đối tác của mình là ai, họ có điểm mạnh, điểm yếu gì, họ kỳ vọng gì ở con cái họ\" thuộc về yêu cầu nào của người giáo viên?",
+          "options": [
+            "Luôn luôn bày tỏ thiện chí với phụ huynh.",
+            "Thể hiện sự quan tâm đến phụ huynh.",
+            "Thấu hiểu tâm lý của phụ huynh.",
+            "Tôn trọng và ứng xử đắc nhân tâm."
+          ],
+          "correctIndex": 2,
+          "explain": "Hiểu rõ tâm lý phụ huynh là yếu tố đầu tiên. Trong giao tiếp, cần phải biết đối tác của mình là ai, họ có những khó khăn, mong đợi, nhu cầu gì đối với việc học của con em mình, từ đó giáo viên sẽ biết cách xây dựng niềm tin và sự hợp tác."
+        },
+        {
+          "id": 14,
+          "text": "Hành vi \"không tranh luận, cướp lời, sẵn sàng nhận lỗi nếu thiếu sót\" của giáo viên khi trao đổi với phụ huynh là biểu hiện của yêu cầu nào?",
+          "options": [
+            "Giáo viên nên tôn trọng và ứng xử đắc nhân tâm với phụ huynh.",
+            "Giáo viên thấu hiểu tâm lý phụ huynh.",
+            "Giáo viên duy trì mối quan hệ khách hàng.",
+            "Giáo viên thể hiện khoảng cách quyền uy."
+          ],
+          "correctIndex": 0,
+          "explain": "Ứng xử đắc nhân tâm thể hiện ở thái độ cởi mở, thiện chí, biết lắng nghe, không tranh luận hơn thua, không khẳng định quyền uy một cách trịch thượng, và biết nhận lỗi nếu có sai sót."
+        },
+        {
+          "id": 15,
+          "text": "Một chi tiết giao tiếp nhỏ nhưng lại là \"chìa khóa\" đầu tiên để thể hiện sự quan tâm, tạo thiện cảm mạnh mẽ đối với phụ huynh học sinh là gì?",
+          "options": [
+            "Việc hứa hẹn sẽ cho học sinh điểm cao.",
+            "Việc nhớ chính xác tên của phụ huynh khi xưng hô.",
+            "Việc tặng quà cáp cho phụ huynh.",
+            "Việc bỏ qua mọi khuyết điểm của học sinh để phụ huynh vui."
+          ],
+          "correctIndex": 1,
+          "explain": "Thể hiện sự quan tâm đến phụ huynh đầu tiên có thể thấy ở chỗ nhớ tên phụ huynh. Việc xưng hô đúng tên riêng trong cuộc nói chuyện sẽ tạo ra cảm giác gần gũi, thân thiện và xóa bỏ sự xa cách so với cách gọi chung chung như \"bác\", \"anh/chị\"."
+        },
+        {
+          "id": 16,
+          "text": "Ban giám hiệu nhà trường quản lý, đánh giá và tương tác với giáo viên chủ yếu trên hai phương diện cơ bản nào?",
+          "options": [
+            "Quản lý tài chính cá nhân và quản lý đời sống.",
+            "Quản lý về mặt chuyên môn và quản lý về mặt hành chính.",
+            "Quản lý sự phát triển thể chất và quản lý nhận thức.",
+            "Quản lý cơ sở vật chất và thiết bị dạy học."
+          ],
+          "correctIndex": 1,
+          "explain": "Trong môi trường trường phổ thông, Ban giám hiệu thực hiện hai nhiệm vụ chính đối với giáo viên: quản lý về mặt chuyên môn (công tác giảng dạy, dự giờ, hồ sơ sổ sách) và quản lý về mặt hành chính (tuân thủ kỷ luật, chính sách, quy chế lao động)."
+        },
+        {
+          "id": 17,
+          "text": "Theo tác giả giáo trình, khi giao tiếp với lãnh đạo (Ban giám hiệu), \"nguyên tắc vàng\" mà giáo viên luôn cần khắc ghi là gì?",
+          "options": [
+            "Nguyên tắc im lặng phục tùng.",
+            "Nguyên tắc tranh luận bảo vệ cái tôi đến cùng.",
+            "Nguyên tắc luôn luôn lắng nghe.",
+            "Nguyên tắc tạo khoảng cách an toàn tuyệt đối."
+          ],
+          "correctIndex": 2,
+          "explain": "\"Nguyên tắc vàng trong giao tiếp với lãnh đạo là lắng nghe. Kỹ năng lắng nghe là cách thức thể hiện sự trân trọng, ham học hỏi và tuân thủ ý kiến lãnh đạo\", giúp giáo viên nắm bắt được chỉ đạo và rút kinh nghiệm."
+        },
+        {
+          "id": 18,
+          "text": "Khi có những thắc mắc, bất đồng ý kiến hoặc cần đề xuất ý tưởng mới, cách hành xử văn hóa nhất của giáo viên đối với Ban giám hiệu là gì?",
+          "options": [
+            "Vượt cấp, khiếu nại lên cấp cao hơn (Phòng/Sở Giáo dục) để giải quyết ngay.",
+            "Tôn trọng cấp bậc trong tổ chức, trình bày ý kiến trực tiếp một cách khéo léo, tế nhị với cấp quản lý trực tiếp.",
+            "Bàn tán, phàn nàn sau lưng với các đồng nghiệp khác để tạo áp lực dư luận.",
+            "Phản ứng gay gắt và từ chối nhận nhiệm vụ."
+          ],
+          "correctIndex": 1,
+          "explain": "\"Hãy tôn trọng cấp bậc trong tổ chức... Cần tránh những hành vi xì xầm hay chê bai cấp trên sau lưng. Nếu có ý kiến cần trao đổi thì giao tiếp trực tiếp một cách khéo léo và có văn hóa\"."
+        },
+        {
+          "id": 19,
+          "text": "Khi Ban giám hiệu phê bình hoặc chỉ ra những sai sót trong công việc (như giáo án chưa tốt, quản lý lớp lỏng lẻo), thái độ đúng đắn nhất của giáo viên là gì?",
+          "options": [
+            "Tỏ thái độ bất mãn và ngay lập tức tìm cách đổ lỗi cho hoàn cảnh.",
+            "Tiếp thu phê bình một cách khách quan, cầu thị, sửa chữa và không nên để bụng.",
+            "Ghi hận trong lòng và tìm cơ hội \"trả đũa\" người đã báo cáo sự việc.",
+            "Nghỉ việc để bảo vệ lòng tự trọng."
+          ],
+          "correctIndex": 1,
+          "explain": "\"Nên tiếp thu phê bình của cấp trên một cách khách quan... Lãnh đạo phê bình chúng ta phần lớn để chúng ta làm việc tốt hơn. Do đó, giáo viên hãy coi sự phê bình này là điều bình thường, không nên để bụng và cần rút kinh nghiệm nghiêm túc\"."
+        },
+        {
+          "id": 20,
+          "text": "Khi gặp một tình huống phụ huynh đang trong trạng thái bức xúc, nóng giận vì hiểu lầm một vấn đề của con ở lớp, hành động ưu tiên số một của giáo viên để xử lý khủng hoảng là gì?",
+          "options": [
+            "Lập tức mời bảo vệ đến đuổi phụ huynh ra khỏi trường.",
+            "Tranh cãi kịch liệt, lớn tiếng át đi lời của phụ huynh để chứng minh mình đúng.",
+            "Giữ bình tĩnh, kiên nhẫn lắng nghe để phụ huynh trút hết sự bực tức, sau đó dùng lời lẽ ôn hòa để phân tích, giải thích.",
+            "Bỏ đi chỗ khác, từ chối giao tiếp."
+          ],
+          "correctIndex": 2,
+          "explain": "Trong giao tiếp đắc nhân tâm, khi đối phương đang nóng giận, điều tối kỵ là tranh cãi. Việc giáo viên bình tĩnh, lắng nghe những \"cơn giận\" sẽ giúp đối tác hạ nhiệt, sau đó sự giải thích, chia sẻ tận tình mới có thể được phụ huynh tiếp nhận một cách thấu đáo và khoa học."
+        },
+        {
+          "id": 21,
+          "text": "Nguyên tắc chung cơ bản nhất khi giáo viên giao tiếp với các nhân viên trong trường phổ thông (nhân viên bảo vệ, lao công, thư viện...) là gì?",
+          "options": [
+            "Phân rõ cấp bậc quản lý và bị quản lý để dễ làm việc.",
+            "Thể hiện thái độ tôn trọng, đúng mực, tuyệt đối không được có thái độ cửa quyền, hách dịch hay coi thường.",
+            "Chỉ giao tiếp khi có việc cần nhờ vả và luôn giữ khoảng cách lạnh lùng.",
+            "Coi họ như những người phục vụ cá nhân của mình."
+          ],
+          "correctIndex": 1,
+          "explain": "Trong môi trường giáo dục, mọi nhân viên đều đóng góp vào sự vận hành của nhà trường. Giáo viên cần thể hiện sự tôn trọng, bình đẳng, thân thiện và tuyệt đối tránh thái độ cửa quyền, hách dịch."
+        },
+        {
+          "id": 22,
+          "text": "Khi giao tiếp với nhân viên bảo vệ của trường, giáo viên cần đặc biệt lưu ý điều gì để thể hiện sự chuẩn mực?",
+          "options": [
+            "Tự do ra vào trường không cần tuân theo nội quy vì giáo viên có đặc quyền.",
+            "Coi nhân viên bảo vệ là cấp dưới và có quyền ra lệnh cho họ.",
+            "Tôn trọng và tuân thủ các hướng dẫn của bảo vệ về nội quy an ninh, giờ giấc, để xe nhằm đảm bảo trật tự trường học.",
+            "Tránh né tiếp xúc để không bị nhắc nhở."
+          ],
+          "correctIndex": 2,
+          "explain": "Bảo vệ là người phụ trách an ninh, phòng chống cháy nổ và tài sản của trường. Giáo viên cần tôn trọng hướng dẫn của họ (như để xe đúng nơi, ra vào đúng giờ) để đảm bảo an ninh và làm gương cho học sinh."
+        },
+        {
+          "id": 23,
+          "text": "Đối với nhân viên văn thư, giáo vụ, nguyên nhân chủ yếu nào dễ gây ra những ách tắc hoặc phiền hà trong quá trình giáo viên giao tiếp, phối hợp công việc?",
+          "options": [
+            "Sự khác biệt về tuổi tác.",
+            "Giáo viên có thái độ thiếu lịch sự, hách dịch hoặc không tuân thủ đúng các quy trình, thủ tục hành chính khi nhận/trả hồ sơ, giấy tờ.",
+            "Nhân viên văn thư thường ghen tị với giáo viên.",
+            "Giáo viên không tặng quà cho nhân viên văn thư."
+          ],
+          "correctIndex": 1,
+          "explain": "Đặc thù của văn thư là làm việc với sổ sách, công văn, giấy tờ hành chính. Giáo viên cần lịch sự, nhẹ nhàng và tuân thủ đúng các nguyên tắc hành chính để công việc được trôi chảy, tránh gây khó khăn cho văn thư."
+        },
+        {
+          "id": 24,
+          "text": "Sự va chạm, mâu thuẫn dễ xảy ra nhất giữa giáo viên và nhân viên kế toán, thủ quỹ thường bắt nguồn từ đâu?",
+          "options": [
+            "Sự bất đồng về phương pháp giảng dạy trên lớp.",
+            "Khác biệt về độ tuổi và giới tính.",
+            "Sự thiếu hiểu biết hoặc giáo viên thiếu kiên nhẫn, không tuân thủ các nguyên tắc, thủ tục hành chính, quy định về hóa đơn, chứng từ tài chính.",
+            "Việc nhân viên kế toán thường xuyên can thiệp vào chuyên môn của giáo viên."
+          ],
+          "correctIndex": 2,
+          "explain": "Nhiệm vụ của kế toán liên quan đến chế độ, chính sách, tiền lương và chứng từ hợp lệ. Sự nguyên tắc của họ đôi khi làm giáo viên khó chịu, nhưng giáo viên cần phải thấu hiểu, tôn trọng và tuân thủ đúng quy định tài chính thay vì phàn nàn."
+        },
+        {
+          "id": 25,
+          "text": "Để xây dựng mối quan hệ tốt đẹp với nhân viên thư viện, giáo viên nên thực hiện hành động nào sau đây?",
+          "options": [
+            "Tự ý lấy sách không qua thủ tục ghi chép để tiết kiệm thời gian.",
+            "Tuân thủ đúng nội quy của thư viện, tôn trọng những quy định mượn, trả sách và chia sẻ nhu cầu tài liệu một cách thân thiện, cởi mở.",
+            "Coi thư viện là phòng nghỉ ngơi cá nhân và thoải mái trò chuyện ồn ào.",
+            "Chỉ trích nhân viên thư viện nếu không tìm ngay được cuốn sách mình cần."
+          ],
+          "correctIndex": 1,
+          "explain": "Nhân viên thư viện quản lý kho tàng tri thức của trường. Giáo viên cần tôn trọng nội quy thư viện, thân thiện, trả sách đúng hạn và lịch sự khi có nhu cầu tìm kiếm tài liệu chuyên môn."
+        },
+        {
+          "id": 26,
+          "text": "Khi có học sinh gặp vấn đề sức khỏe trong giờ học, thái độ đúng đắn của giáo viên khi giao tiếp và làm việc với nhân viên y tế học đường là gì?",
+          "options": [
+            "Tự ý sơ cứu theo cảm tính và bỏ qua vai trò của nhân viên y tế.",
+            "Giao toàn bộ trách nhiệm cho nhân viên y tế và không quan tâm nữa.",
+            "Tôn trọng ý kiến chuyên môn của nhân viên y tế, phối hợp chặt chẽ để cùng chăm sóc sức khỏe cho học sinh.",
+            "Chỉ đạo nhân viên y tế phải làm theo ý mình vì mình là giáo viên chủ nhiệm."
+          ],
+          "correctIndex": 2,
+          "explain": "Nhân viên y tế có chuyên môn về chăm sóc sức khỏe. Giáo viên cần tôn trọng ý kiến y khoa của họ, đồng thời phối hợp chặt chẽ, cung cấp thông tin tình trạng của học sinh để giải quyết sự cố an toàn nhất."
+        },
+        {
+          "id": 27,
+          "text": "Việc giáo viên chủ động chào hỏi thân thiện, tôn trọng công sức lao động và thường xuyên nhắc nhở học sinh giữ gìn vệ sinh chung thể hiện kỹ năng giao tiếp tốt với đối tượng nào?",
+          "options": [
+            "Ban giám hiệu.",
+            "Nhân viên thư viện.",
+            "Nhân viên tạp vụ / lao công.",
+            "Đồng nghiệp bộ môn."
+          ],
+          "correctIndex": 2,
+          "explain": "Nhân viên tạp vụ chịu trách nhiệm về vệ sinh cảnh quan trường học. Giáo viên cần tôn trọng công sức của họ bằng thái độ thân thiện và giáo dục học sinh không xả rác bừa bãi."
+        },
+        {
+          "id": 28,
+          "text": "Theo góc nhìn từ gốc ngôn ngữ Latinh trước Công nguyên, từ \"Văn hóa\" (Cultus) ban đầu mang ý nghĩa đen là gì?",
+          "options": [
+            "Nghệ thuật giao tiếp ứng xử.",
+            "Sự vun trồng, chăm sóc cây cối, hoa màu.",
+            "Những quy định của luật pháp và nhà nước.",
+            "Sự phát triển của máy móc kỹ thuật."
+          ],
+          "correctIndex": 1,
+          "explain": "Từ \"văn hóa\" (culture) bắt nguồn từ chữ Latinh là \"Cultus\", nghĩa nguyên thủy là sự vun trồng, chăm sóc cây cối (nông nghiệp). Sau đó nó được mở rộng nghĩa bóng thành sự vun trồng, giáo dục và phát triển tâm hồn, trí tuệ con người."
+        },
+        {
+          "id": 29,
+          "text": "Khái niệm \"Văn hóa giao tiếp sư phạm\" được định nghĩa một cách tổng quát là gì?",
+          "options": [
+            "Là khả năng nói chuyện lưu loát và hài hước của giáo viên trước đám đông học sinh.",
+            "Là mức độ sử dụng các từ ngữ chuyên ngành phức tạp trong giảng dạy.",
+            "Là tổng hợp những giá trị (chuẩn mực, nguyên tắc...) được giáo viên vận dụng một cách sáng tạo, nhuần nhuyễn vào trong cách đối nhân xử thế nhằm đạt mục đích giáo dục.",
+            "Là việc giáo viên luôn tuân thủ các nghi thức xã giao một cách cứng nhắc."
+          ],
+          "correctIndex": 2,
+          "explain": "Văn hóa giao tiếp sư phạm là sự thể hiện ở mức độ tinh vi, nhuần nhuyễn và sáng tạo các chuẩn mực, nguyên tắc giao tiếp vào thái độ, lời nói, hành vi ứng xử của giáo viên nhằm mang lại hiệu quả giáo dục."
+        },
+        {
+          "id": 30,
+          "text": "Đặc điểm nổi bật nào dưới đây thể hiện đúng nhất bản chất của văn hóa giao tiếp sư phạm?",
+          "options": [
+            "Tính độc đoán và áp đặt một chiều từ phía giáo viên.",
+            "Chỉ coi trọng kết quả học tập, bỏ qua yếu tố cảm xúc.",
+            "Khuyến khích sự tự do tuyệt đối, không cần các quy định kỷ luật.",
+            "Sự hài hòa giữa Lý với Tình; Hài hòa giữa Nội tâm và Biểu hiện bên ngoài; Hài hòa giữa cái Chung và cái Riêng."
+          ],
+          "correctIndex": 3,
+          "explain": "Văn hóa giao tiếp sư phạm mang đặc điểm nổi bật là sự hài hòa. Việc xử lý các tình huống sư phạm cần có cái \"lý\" (kỷ luật, chuẩn mực) nhưng cũng phải thấm đẫm cái \"tình\" (sự bao dung, thấu hiểu), sự đồng nhất giữa nội tâm chân thành và biểu hiện tinh tế ra bên ngoài."
+        },
+        {
+          "id": 31,
+          "text": "Theo giáo trình, vai trò của văn hóa giao tiếp sư phạm thể hiện ở 3 khía cạnh cơ bản nào?",
+          "options": [
+            "Quản lý hành vi, trừng phạt sai lầm và thiết lập kỷ luật.",
+            "Thúc đẩy quá trình nhận thức; Khơi thông thái độ - tình cảm; Hun đúc ý chí - hành động.",
+            "Phát triển thể chất, phát triển trí tuệ và bồi dưỡng năng khiếu.",
+            "Xây dựng thương hiệu cá nhân, mở rộng quan hệ và thăng tiến nghề nghiệp."
+          ],
+          "correctIndex": 1,
+          "explain": "Văn hóa giao tiếp sư phạm đóng vai trò cốt lõi trong việc: (1) Thúc đẩy trí não, giúp người học sáng dạ, nhanh nhạy hơn; (2) Khơi thông tình cảm, giúp người học yêu đời, hòa nhập; (3) Hun đúc ý chí, kích thích người học nỗ lực vươn lên."
+        },
+        {
+          "id": 32,
+          "text": "Trong giáo dục, khái niệm \"Làm thầy = Làm gương\" được hiểu như thế nào khi xét về góc độ văn hóa giao tiếp?",
+          "options": [
+            "Giáo viên phải luôn giữ thái độ nghiêm khắc để học sinh sợ hãi và phục tùng.",
+            "Giáo viên không bao giờ được phép thừa nhận mình sai trước mặt học sinh.",
+            "Giáo viên phải là một mô hình mẫu mực trong từng lời nói, cử chỉ, vì học sinh có xu hướng học hỏi thông qua việc quan sát và bắt chước hành vi của người thầy.",
+            "Giáo viên chỉ cần chú trọng vào việc truyền đạt kiến thức chuyên môn, không cần quan tâm đến cách ứng xử."
+          ],
+          "correctIndex": 2,
+          "explain": "Trẻ em học hỏi rất nhiều qua cơ chế bắt chước. Do đó, \"Làm thầy = Làm gương\" nghĩa là người thầy phải là một tấm gương sáng, chuẩn mực trong giao tiếp, ứng xử để \"đánh thức\" và kích thích những điều tốt đẹp bên trong người học."
+        },
+        {
+          "id": 33,
+          "text": "Dựa trên Bảng 4.1 về các nhiệm vụ xây dựng văn hóa giao tiếp sư phạm, nhiệm vụ \"Tâm công\" có nghĩa là gì?",
+          "options": [
+            "Tấn công vào ý chí và hành động của đối tượng.",
+            "Tấn công vào tư duy logic và lý trí của đối tượng.",
+            "Tấn công vào trái tim, cảm xúc, thái độ của đối tượng nhằm cảm hóa, thuyết phục và chuyển hóa thái độ của họ theo hướng tích cực.",
+            "Tấn công vào lòng tự trọng để học sinh cảm thấy xấu hổ mà thay đổi."
+          ],
+          "correctIndex": 2,
+          "explain": "Nhiệm vụ \"Tâm công\" (chinh phục trái tim) là việc dùng sự đồng cảm, thuyết phục bằng lý luận và tình cảm chân thành để cảm hóa thái độ của đối phương, làm cho đối tác \"khâm phục, khẩu phục\"."
+        },
+        {
+          "id": 34,
+          "text": "Song song với \"Tâm công\", nhiệm vụ \"Chí công\" trong Bảng 4.1 hướng tới mục tiêu gì?",
+          "options": [
+            "Tấn công vào ý chí - hành động của đối tác nhằm khích lệ, động viên và thúc đẩy họ rèn luyện kỹ năng, biến nhận thức thành hành động thực tiễn.",
+            "Ép buộc học sinh tuân thủ các quy định một cách máy móc.",
+            "Giao thật nhiều bài tập để rèn luyện trí nhớ.",
+            "Xây dựng các nội quy, chế tài xử phạt nghiêm khắc trong lớp học."
+          ],
+          "correctIndex": 0,
+          "explain": "Nhiệm vụ \"Chí công\" (chinh phục ý chí) là việc khích lệ, khen thưởng và kích thích tưởng tượng, định hướng đối tượng dám hành động, dám rèn luyện kỹ năng giao tiếp có văn hóa trong thực tiễn."
+        },
+        {
+          "id": 35,
+          "text": "Nguyên tắc \"Giáo dục là một quá trình, đảm bảo theo một trình tự nghiêm túc\" đòi hỏi người giáo viên khi xây dựng văn hóa giao tiếp phải làm gì?",
+          "options": [
+            "Nóng vội, bắt ép học sinh phải thay đổi thái độ ngay lập tức sau một lời nhắc nhở.",
+            "Bỏ qua các bước cơ bản để nhanh chóng đạt được kết quả cuối cùng.",
+            "Tuân thủ trình tự từ cung cấp kiến thức, hình thành thái độ đến rèn luyện kỹ năng, hiểu rằng mọi sự thay đổi đều cần có thời gian và sự kiên trì.",
+            "Giao toàn bộ việc giáo dục văn hóa giao tiếp cho gia đình học sinh."
+          ],
+          "correctIndex": 2,
+          "explain": "Văn hóa không thể hình thành một sớm một chiều. Giáo viên cần kiên nhẫn, đi từ việc cung cấp lý thuyết, khơi dậy cảm xúc đến rèn luyện hành động. Sự nóng vội, đốt cháy giai đoạn sẽ dễ dẫn đến thất bại."
+        },
+        {
+          "id": 36,
+          "text": "Nhận định \"Văn hóa thuộc tính âm, mà âm thì phân hóa mạnh. Do đó, văn hóa phải có tính đa dạng\" có ý nghĩa ứng dụng gì trong môi trường học đường?",
+          "options": [
+            "Yêu cầu mọi học sinh phải tuân theo một khuôn mẫu ứng xử duy nhất, hành động giống hệt nhau như máy móc.",
+            "Xây dựng văn hóa giao tiếp phải tôn trọng bản sắc riêng, cho phép mỗi cá nhân thể hiện sự sáng tạo và khác biệt, miễn là vẫn đảm bảo tính thẩm mỹ và chuẩn mực chung.",
+            "Cho phép học sinh tự do phá vỡ mọi quy tắc kỷ luật của nhà trường.",
+            "Khẳng định rằng văn hóa phương Đông luôn tốt hơn văn hóa phương Tây."
+          ],
+          "correctIndex": 1,
+          "explain": "Mọi cá nhân đều có cái \"tôi\" riêng. Xây dựng văn hóa giao tiếp không có nghĩa là đúc mọi người vào một khuôn mẫu cứng nhắc, mà phải tôn trọng bản sắc cá nhân, khuyến khích sự đa dạng dựa trên nền tảng của cái Đẹp và cái Thiện."
+        },
+        {
+          "id": 37,
+          "text": "Yêu cầu \"Xây dựng nội dung văn hóa giao tiếp sư phạm mang tính thiết thực\" nhấn mạnh điều gì?",
+          "options": [
+            "Nội dung giao tiếp phải phù hợp, hấp dẫn, đáp ứng những đòi hỏi của thực tiễn hoạt động sư phạm và cuộc sống, không nên nói những điều lý thuyết sáo rỗng.",
+            "Chỉ nên giảng dạy về lịch sử và các triết lý cổ đại.",
+            "Bỏ qua các môn học văn hóa để tập trung dạy kỹ năng mềm.",
+            "Giáo viên chỉ cần đưa ra các mệnh lệnh và học sinh phải thực hiện mà không cần hiểu lý do."
+          ],
+          "correctIndex": 0,
+          "explain": "Việc giáo dục văn hóa giao tiếp không thể chỉ là những lý thuyết suông, mà nội dung phải gắn liền với môi trường thực tế (trong lớp học, ngoài sân trường...), hấp dẫn, phù hợp với tâm sinh lý của đối tượng."
+        },
+        {
+          "id": 38,
+          "text": "Nền tảng cốt lõi và quan trọng nhất để xây dựng thành công văn hóa giao tiếp sư phạm trong nhà trường là gì?",
+          "options": [
+            "Hệ thống cơ sở vật chất, trang thiết bị công nghệ hiện đại.",
+            "Khả năng hùng biện xuất sắc của Ban giám hiệu.",
+            "Nền tảng của sự yêu thương và tôn trọng con người.",
+            "Các biện pháp kỷ luật bằng đòn roi và hình phạt nặng."
+          ],
+          "correctIndex": 2,
+          "explain": "Môi trường giáo dục chỉ thực sự có văn hóa khi hành vi, lời nói và cách ứng xử được xây dựng trên nền tảng tình yêu thương, sự bao dung và tôn trọng đối tượng. Đây là cơ sở cốt lõi để loại trừ mọi hình thức bạo lực và sự xúc phạm nhân phẩm."
+        },
+        {
+          "id": 39,
+          "text": "Để hướng dẫn học sinh hình thành thói quen giao tiếp có văn hóa, ai là người phải đóng vai trò \"những tấm gương sáng\" và mẫu mực đầu tiên trong trường phổ thông?",
+          "options": [
+            "Chỉ có giáo viên chủ nhiệm.",
+            "Mỗi giáo viên, nhà quản lý giáo dục và cán bộ, nhân viên trong trường.",
+            "Chỉ có những học sinh xuất sắc, cán bộ lớp.",
+            "Hội phụ huynh học sinh."
+          ],
+          "correctIndex": 1,
+          "explain": "Học sinh học hỏi thông qua việc quan sát môi trường xung quanh. Do đó, từ Hiệu trưởng, giáo viên cho đến nhân viên bảo vệ, lao công... đều phải là những tấm gương sống động về sự tôn trọng và văn hóa ứng xử để học sinh noi theo."
+        },
+        {
+          "id": 40,
+          "text": "Việc \"giúp học sinh làm chủ các phương tiện giao tiếp (ngôn ngữ và phi ngôn ngữ)\" mang lại lợi ích gì cho các em?",
+          "options": [
+            "Giúp học sinh học cách che giấu cảm xúc thật của mình để đối phó với giáo viên.",
+            "Là nền tảng để hình thành văn hóa giao tiếp, giúp các em tự tin, bao dung, hòa ái và biết ứng xử phù hợp, đẹp đẽ trong các tình huống thực tiễn.",
+            "Giúp học sinh có khả năng tranh luận để giành phần thắng trong mọi cuộc cãi vã.",
+            "Làm cho học sinh chỉ chú trọng vào hình thức bề ngoài mà quên đi nội dung bên trong."
+          ],
+          "correctIndex": 1,
+          "explain": "Việc nắm vững và làm chủ phương tiện giao tiếp (biết nói lời hay ý đẹp, biết kiểm soát nét mặt, nụ cười...) giúp học sinh tự tin, hiểu được người khác và từ đó hình thành một nhân cách khỏe mạnh, hòa ái trong đời sống xã hội."
+        },
+        {
+          "id": 41,
+          "text": "Khẳng định nào sau đây là ĐÚNG khi nói về mối quan hệ giữa \"môi trường văn hóa giao tiếp trong nhà trường\" và \"môi trường sư phạm\"?",
+          "options": [
+            "Là hai khái niệm hoàn toàn trái ngược nhau.",
+            "Môi trường văn hóa giao tiếp trong nhà trường chính là môi trường sư phạm.",
+            "Môi trường sư phạm chỉ bao gồm hệ thống cơ sở vật chất, không bao gồm yếu tố văn hóa.",
+            "Môi trường văn hóa chỉ tồn tại trong các hoạt động ngoại khóa, không tồn tại trong giờ học."
+          ],
+          "correctIndex": 1,
+          "explain": "Theo giáo trình, \"Tóm lại, môi trường văn hóa giao tiếp trong nhà trường chính là môi trường sư phạm.\" Mọi hoạt động giao tiếp, ứng xử trong môi trường đó phải mang tính chuẩn mực, giáo dục để tạo ra một môi trường học đường lý tưởng."
+        },
+        {
+          "id": 42,
+          "text": "Khi xây dựng văn hóa giao tiếp sư phạm, việc \"giúp học sinh làm chủ các phương tiện giao tiếp\" đặc biệt nhấn mạnh đến việc nhà trường cần quan tâm tới vai trò của yếu tố nào?",
+          "options": [
+            "Ngôn ngữ và nghệ thuật.",
+            "Mạng xã hội và internet.",
+            "Sách giáo khoa và tài liệu in ấn.",
+            "Thiết bị trình chiếu và máy tính."
+          ],
+          "correctIndex": 0,
+          "explain": "Đặc biệt, nhà trường cần quan tâm đến vai trò của ngôn ngữ và nghệ thuật vì \"Nghệ thuật là hình thức cao nhất của hoạt động giao tiếp\". Việc giáo dục nghệ thuật không chỉ bồi dưỡng tâm hồn mà còn giúp học sinh giao tiếp tinh tế hơn."
+        },
+        {
+          "id": 43,
+          "text": "Theo quan điểm xây dựng văn hóa giao tiếp sư phạm, hậu quả lớn nhất khi một giáo viên thường xuyên sử dụng những lời nói la mắng, phàn nàn, cáu giận đối với học sinh là gì?",
+          "options": [
+            "Giúp học sinh tiến bộ nhanh chóng vì sợ hãi giáo viên.",
+            "Thể hiện được uy quyền tuyệt đối và năng lực quản lý lớp xuất sắc của giáo viên.",
+            "Làm thui chột nhân cách của học sinh, khiến học sinh mất tự tin, nảy sinh thái độ chống đối hoặc sợ hãi.",
+            "Xây dựng được kỷ luật thép cho nhà trường."
+          ],
+          "correctIndex": 2,
+          "explain": "Việc giáo viên la mắng, cáu giận chỉ mang lại \"cái lợi\" duy nhất là giải tỏa cơn giận của cá nhân giáo viên, nhưng lại gây hại lớn cho học sinh: làm trẻ mất bình tĩnh, sợ hãi, tổn thương tâm lý và làm thui chột nhân cách."
+        },
+        {
+          "id": 44,
+          "text": "Khi một phụ huynh đến trường trong trạng thái nóng giận, bức xúc vì hiểu lầm một sự việc liên quan đến con mình ở lớp, nguyên tắc giao tiếp đắc nhân tâm đầu tiên mà giáo viên cần áp dụng là gì?",
+          "options": [
+            "Lập tức phản bác, lớn tiếng tranh luận để bảo vệ danh dự của bản thân.",
+            "Báo cáo ngay cho bảo vệ để mời phụ huynh ra khỏi trường.",
+            "Lắng nghe, giữ bình tĩnh, không tranh luận cướp lời, chờ phụ huynh bộc lộ hết bức xúc rồi mới ôn tồn giải thích.",
+            "Từ chối tiếp chuyện và bỏ đi nơi khác."
+          ],
+          "correctIndex": 2,
+          "explain": "Giáo viên không nên tranh luận, cướp lời, hay khẳng định hơn thiệt với phụ huynh khi xảy ra những điều phiền lòng. Cần bình tĩnh lắng nghe để phụ huynh hạ hỏa, sau đó mới tìm cách khắc phục và tạo sự đồng thuận."
+        },
+        {
+          "id": 45,
+          "text": "Trong giao tiếp với đồng nghiệp, yêu cầu \"Tôn trọng cá tính, sự riêng tư của đồng nghiệp\" đòi hỏi giáo viên tuyệt đối KHÔNG ĐƯỢC làm điều gì?",
+          "options": [
+            "Chủ động chia sẻ kinh nghiệm giảng dạy và tài liệu chuyên môn.",
+            "Can thiệp sâu vào chuyện riêng của đồng nghiệp, dò hỏi hoặc bàn tán về những chuyện cá nhân mà họ không muốn kể.",
+            "Đóng góp ý kiến chuyên môn một cách thẳng thắn trong các buổi họp tổ.",
+            "Cùng nhau tham gia các hoạt động ngoại khóa của nhà trường."
+          ],
+          "correctIndex": 1,
+          "explain": "Tôn trọng đồng nghiệp có nghĩa là không bới móc nhược điểm, không chê bai và đặc biệt là đừng can thiệp sâu vào chuyện riêng của đồng nghiệp, không dò hỏi hay tò mò những điều họ không muốn nói."
+        },
+        {
+          "id": 46,
+          "text": "Một giáo viên vì vội nộp báo cáo đã lớn tiếng yêu cầu nhân viên văn thư phải đóng dấu ngay một văn bản cá nhân mà chưa qua sự phê duyệt của Hiệu trưởng, dẫn đến cự cãi. Theo giáo trình, giáo viên này đã vi phạm nguyên tắc cơ bản nào khi giao tiếp với nhân viên văn thư?",
+          "options": [
+            "Không sử dụng nghệ thuật khen ngợi để lấy lòng nhân viên.",
+            "Thiếu sự tôn trọng đối với các quy trình, thủ tục hành chính và chức trách công việc của nhân viên văn thư.",
+            "Không phân định rõ ai là cấp trên, ai là cấp dưới.",
+            "Không biết cách sử dụng phương tiện giao tiếp phi ngôn ngữ."
+          ],
+          "correctIndex": 1,
+          "explain": "Nhân viên văn thư quản lý sổ sách, con dấu theo quy định hành chính chặt chẽ. Việc giáo viên hách dịch, ép buộc làm sai nguyên tắc sẽ gây khó khăn, ách tắc và thể hiện sự thiếu tôn trọng đối với công việc của họ."
+        },
+        {
+          "id": 47,
+          "text": "Việc giao tiếp giữa giáo viên với Ban giám hiệu nhà trường bản chất là hình thức giao tiếp được xác lập trên mối quan hệ nào?",
+          "options": [
+            "Quan hệ đối tác bình đẳng hoàn toàn, không phân biệt chức vụ.",
+            "Quan hệ giữa người quản lý và người bị quản lý (cấp trên - cấp dưới).",
+            "Quan hệ giữa khách hàng và nhà cung cấp dịch vụ giáo dục.",
+            "Quan hệ cạnh tranh vị trí công tác."
+          ],
+          "correctIndex": 1,
+          "explain": "Mối quan hệ giao tiếp với Ban giám hiệu mang tính chất phục tùng, đây vừa là mối quan hệ giữa những đồng nghiệp với nhau nhưng đặc trưng nổi bật nhất là mối quan hệ giữa người quản lý và người bị quản lý theo quy chế của tổ chức."
+        },
+        {
+          "id": 48,
+          "text": "Theo UNESCO, khái niệm \"Văn hóa\" được định nghĩa một cách tổng quát và rộng lớn nhất là gì?",
+          "options": [
+            "Chỉ là trình độ học vấn và các bằng cấp của một cá nhân trong xã hội.",
+            "Là một tổng thể phức hợp các đặc trưng diện mạo về tinh thần, vật chất, tri thức, tình cảm... khắc họa nên bản sắc của một cộng đồng, quốc gia.",
+            "Chỉ bao gồm các tác phẩm văn học, nghệ thuật và di sản kiến trúc cổ.",
+            "Là những quy định pháp luật mang tính bắt buộc của một nhà nước."
+          ],
+          "correctIndex": 1,
+          "explain": "Theo UNESCO, \"Văn hóa là một tổng thể phức hợp các đặc trưng diện mạo về tinh thần, vật chất, tri thức, tình cảm... khắc họa nên bản sắc của một cộng đồng, gia đình, làng xóm, quốc gia, xã hội...\", bao gồm cả nghệ thuật, lối sống, quyền con người, hệ giá trị, truyền thống."
+        },
+        {
+          "id": 49,
+          "text": "Theo E. Schein, văn hóa tổ chức được biểu hiện qua 3 cấp độ. Trong đó, cấp độ dễ quan sát nhất (Mức độ chế tác) bao gồm những yếu tố nào?",
+          "options": [
+            "Các giá trị cốt lõi và niềm tin sâu sắc không thể thay đổi.",
+            "Hình ảnh bố trí cơ quan, kiến trúc, công nghệ, dấu hiệu, nghi thức, lịch sử và những hành vi có thể quan sát được từ bên ngoài.",
+            "Những giả thuyết cơ bản ẩn sâu trong tiềm thức của mỗi cá nhân.",
+            "Sự phát triển về mặt sinh lý của các thành viên."
+          ],
+          "correctIndex": 1,
+          "explain": "Mức độ chế tác là khía cạnh rõ nét nhất về văn hóa và có thể dễ dàng nhận thấy, bao gồm hình ảnh bố trí cơ quan, nhà xưởng, công nghệ, dấu hiệu, nghi thức, hành vi ứng xử bề ngoài có thể quan sát được."
+        },
+        {
+          "id": 50,
+          "text": "Theo mô hình phối hợp đồng thời ba nhiệm vụ để xây dựng văn hóa giao tiếp sư phạm (Trí công - Tâm công - Chí công), nhiệm vụ \"Trí công\" tập trung vào việc gì?",
+          "options": [
+            "Tấn công, tác động vào lý trí của đối tác bằng cách dùng lý luận, nguyên tắc, khoa học để thuyết phục, làm cho đối tác \"khâm phục, khẩu phục\".",
+            "Tấn công vào cảm xúc, thái độ, sự đồng cảm để cảm hóa đối tượng.",
+            "Tấn công vào ý chí và hành động để thúc đẩy đối tượng rèn luyện.",
+            "Sử dụng hình phạt nghiêm khắc để buộc đối tượng phải ghi nhớ nội quy."
+          ],
+          "correctIndex": 0,
+          "explain": "Trong thế \"chân vạc\" của giáo dục văn hóa giao tiếp, \"Trí công\" là việc dùng lý luận, nguyên tắc khoa học tác động vào nhận thức, lý trí để thuyết phục. \"Tâm công\" tác động vào tình cảm để cảm hóa. \"Chí công\" tác động vào ý chí để thúc đẩy hành động."
+        },
+        {
+          "id": 51,
+          "text": "Theo mô hình của E. Schein về văn hóa tổ chức, cấp độ sâu nhất, khó nhận biết nhất nhưng lại mang tính quyết định chi phối suy nghĩ, tình cảm và hành vi của các thành viên là cấp độ nào?",
+          "options": [
+            "Mức độ chế tác (những biểu hiện hữu hình).",
+            "Mức độ giá trị (các giá trị được tuyên bố).",
+            "Mức độ của các giả định ngầm định (những niềm tin, nhận thức ăn sâu vào tiềm thức).",
+            "Mức độ của các quy định văn bản pháp luật."
+          ],
+          "correctIndex": 2,
+          "explain": "Theo E. Schein, văn hóa tổ chức có 3 cấp độ. Cấp độ sâu nhất là \"Mức độ các giả định\". Đây là những niềm tin, nhận thức, suy nghĩ và tình cảm ăn sâu trong tiềm thức, mặc nhiên được công nhận và rất khó thay đổi, quyết định cách các thành viên hành động."
+        },
+        {
+          "id": 52,
+          "text": "Đặc điểm nổi bật thể hiện bản chất của văn hóa giao tiếp sư phạm là \"Sự hài hòa\". Sự hài hòa này KHÔNG bao gồm yếu tố nào dưới đây?",
+          "options": [
+            "Hài hòa giữa Lý với Tình.",
+            "Hài hòa giữa Nội tâm và Biểu hiện bên ngoài.",
+            "Hài hòa giữa Lợi ích cá nhân và Lợi ích nhóm phái.",
+            "Hài hòa giữa Cái chung với Cái riêng."
+          ],
+          "correctIndex": 2,
+          "explain": "Theo giáo trình, đặc điểm của văn hóa giao tiếp sư phạm thể hiện ở 3 sự hài hòa cốt lõi: Hài hòa giữa Lý với Tình; Hài hòa giữa Nội tâm với Biểu hiện bên ngoài; và Hài hòa giữa Cái chung (tập thể) với Cái riêng (cá nhân). Lợi ích nhóm phái không thuộc về chuẩn mực văn hóa sư phạm."
+        },
+        {
+          "id": 53,
+          "text": "Nguyên tắc \"Giáo dục là một quá trình, đảm bảo theo một trình tự nghiêm túc\" trong việc xây dựng văn hóa giao tiếp sư phạm bắt buộc phải đi qua các bước nào theo thứ tự?",
+          "options": [
+            "Rèn luyện kỹ năng -> Hình thành thái độ -> Cung cấp kiến thức.",
+            "Cung cấp kiến thức -> Hình thành thái độ -> Rèn luyện kỹ năng/hành vi.",
+            "Đưa ra hình phạt -> Rèn luyện kỹ năng -> Thưởng động viên.",
+            "Cung cấp kiến thức -> Đánh giá điểm số -> Rèn luyện hành vi."
+          ],
+          "correctIndex": 1,
+          "explain": "Giáo dục văn hóa không thể nóng vội. Trình tự giáo dục đi từ cung cấp kiến thức (nhận thức), đến hình thành thái độ (cảm xúc), và cuối cùng là rèn luyện kỹ năng, hành vi (hành động). Mỗi bước đều cần thời gian để thẩm thấu và thay đổi."
+        },
+        {
+          "id": 54,
+          "text": "Trong việc xây dựng văn hóa giao tiếp sư phạm, nhận định \"Văn hóa thuộc tính âm, mà âm thì phân hóa mạnh\" đòi hỏi nhà trường phải tuân thủ nguyên tắc gì?",
+          "options": [
+            "Phải áp đặt một khuôn mẫu ứng xử duy nhất cho tất cả giáo viên và học sinh.",
+            "Phải đảm bảo tính đa dạng, tôn trọng bản sắc và phong cách cá nhân của từng người trên nền tảng những chuẩn mực chung.",
+            "Cần loại bỏ hoàn toàn các quy định, nội quy của nhà trường để phát huy sự tự do.",
+            "Phải phân chia học sinh thành các nhóm văn hóa khác nhau để dễ quản lý."
+          ],
+          "correctIndex": 1,
+          "explain": "Vì văn hóa có tính phân hóa mạnh nên nó đòi hỏi sự đa dạng. Xây dựng văn hóa không phải là đúc mọi người vào một cái khuôn cứng nhắc, mà phải tôn trọng sự khác biệt, cá tính riêng của mỗi người, miễn là vẫn hướng đến cái Chân - Thiện - Mỹ chung."
+        },
+        {
+          "id": 55,
+          "text": "Việc một giáo viên thường xuyên lăng mạ, phàn nàn, cáu giận với học sinh được xem là hành vi vi phạm nghiêm trọng yêu cầu cơ bản nào trong xây dựng văn hóa giao tiếp sư phạm?",
+          "options": [
+            "Xây dựng nội dung văn hóa giao tiếp mang tính thiết thực.",
+            "Giúp học sinh làm chủ các phương tiện giao tiếp.",
+            "Xây dựng văn hóa giao tiếp sư phạm dựa trên nền tảng của sự yêu thương và tôn trọng con người.",
+            "Phối hợp đồng bộ ba nhiệm vụ Trí công - Tâm công - Chí công."
+          ],
+          "correctIndex": 2,
+          "explain": "Môi trường giáo dục là nơi tuyệt đối không tồn tại hành vi bạo hành, sự giận dỗi và ngôn từ phản giáo dục. Sự lăng mạ, cáu giận của giáo viên đối với học sinh là vi phạm nền tảng cốt lõi của văn hóa giao tiếp: sự yêu thương và tôn trọng nhân phẩm con người."
+        },
+        {
+          "id": 56,
+          "text": "Câu tục ngữ \"Học ăn, học nói, học gói, học mở\" được nhắc đến trong giáo trình nhằm nhấn mạnh yêu cầu nào khi xây dựng nội dung văn hóa giao tiếp cho học sinh?",
+          "options": [
+            "Nội dung giáo dục văn hóa phải mang tính triết học, vĩ mô và hàn lâm.",
+            "Nội dung giáo dục văn hóa phải tập trung vào việc dạy các môn nghệ thuật.",
+            "Nội dung giáo dục văn hóa phải mang tính thiết thực, bắt đầu từ những lời ăn, tiếng nói, phép tắc ứng xử cơ bản và phù hợp nhất trong đời sống hàng ngày.",
+            "Nội dung giáo dục phải do phụ huynh tự chịu trách nhiệm truyền đạt."
+          ],
+          "correctIndex": 2,
+          "explain": "Việc giáo dục văn hóa giao tiếp phải mang tính thiết thực, đi từ những điều nhỏ nhất, gần gũi nhất như cách ăn, cách nói, cách chào hỏi, thưa gửi... để học sinh có thể áp dụng trực tiếp vào môi trường sống hiện tại và tương lai."
+        },
+        {
+          "id": 57,
+          "text": "Trong giao tiếp với phụ huynh học sinh, việc giáo viên \"chấp nhận những điểm dị biệt về văn hóa, truyền thống\" của gia đình học sinh nhằm mục đích chủ yếu nào?",
+          "options": [
+            "Để giáo viên không phải chịu trách nhiệm về kết quả học tập của học sinh.",
+            "Nhằm tránh sự áp đặt chủ quan, tôn trọng sự đa dạng để tìm được tiếng nói chung, từ đó có biện pháp phối hợp giáo dục phù hợp nhất cho từng học sinh.",
+            "Để lấy lòng phụ huynh và nhận được sự ủng hộ về vật chất.",
+            "Nhằm tách biệt học sinh đó ra khỏi các hoạt động chung của lớp."
+          ],
+          "correctIndex": 1,
+          "explain": "Mỗi gia đình có hoàn cảnh, văn hóa, nếp sống khác nhau. Việc chấp nhận sự dị biệt giúp giáo viên không áp đặt tiêu chuẩn của mình lên phụ huynh, từ đó thấu hiểu và chọn cách tiếp cận, giáo dục hiệu quả, nhân văn nhất đối với mỗi em."
+        },
+        {
+          "id": 58,
+          "text": "Khi giao tiếp với Ban giám hiệu, nếu có sự mâu thuẫn, bất đồng ý kiến hoặc nhận được lời phê bình chưa thỏa đáng, cách hành xử có văn hóa nhất của giáo viên là gì?",
+          "options": [
+            "Bàn tán, nói xấu sau lưng lãnh đạo để tạo áp lực dư luận trong trường.",
+            "Nổi nóng, phản ứng gay gắt và từ chối mọi nhiệm vụ được giao.",
+            "Tôn trọng cấp bậc, giữ bình tĩnh, gặp gỡ giao tiếp trực tiếp một cách khéo léo, tế nhị để trình bày ý kiến thẳng thắn, xây dựng.",
+            "Im lặng chịu đựng, hoàn toàn không phản hồi gì nhưng làm việc với thái độ chống đối ngầm."
+          ],
+          "correctIndex": 2,
+          "explain": "Xung đột là điều khó tránh, nhưng văn hóa giao tiếp yêu cầu giáo viên phải tôn trọng tổ chức, không bàn tán xì xầm sau lưng, mà nên mạnh dạn trao đổi trực tiếp với lãnh đạo một cách khéo léo, tôn trọng và có tính xây dựng."
+        },
+        {
+          "id": 59,
+          "text": "Khi làm việc với các nhân viên phòng ban (y tế, thư viện, kế toán, văn thư, bảo vệ...), sai lầm lớn nhất làm phá vỡ văn hóa giao tiếp mà giáo viên hay mắc phải là gì?",
+          "options": [
+            "Tỏ thái độ trân trọng và biết ơn công sức của họ.",
+            "Tuân thủ nghiêm ngặt các quy định, nội quy của từng phòng ban.",
+            "Mang tâm lý \"giáo viên là trung tâm\", có thái độ cửa quyền, hách dịch, coi thường chuyên môn và không tuân thủ quy trình thủ tục của các nhân viên này.",
+            "Thường xuyên chào hỏi thân thiện mỗi khi gặp mặt."
+          ],
+          "correctIndex": 2,
+          "explain": "Mọi nhân viên trong trường đều đóng góp vào hoạt động giáo dục chung. Việc giáo viên có thái độ hách dịch, cửa quyền, thiếu tôn trọng đặc thù công việc của họ (như ép văn thư đóng dấu sai quy định, cáu gắt với kế toán...) là vi phạm nghiêm trọng văn hóa giao tiếp."
+        },
+        {
+          "id": 60,
+          "text": "Điền từ còn thiếu vào nhận định kết luận của giáo trình: \"Tóm lại, một môi trường văn hóa giao tiếp trong nhà trường chính là một ....................\"",
+          "options": [
+            "Môi trường cạnh tranh khốc liệt.",
+            "Môi trường sư phạm (lành mạnh, nơi giáo dục con người).",
+            "Môi trường quản lý hành chính cứng nhắc.",
+            "Môi trường kinh doanh giáo dục."
+          ],
+          "correctIndex": 1,
+          "explain": "Theo tổng kết của tác giả: \"Tóm lại, môi trường văn hóa giao tiếp trong nhà trường chính là môi trường sư phạm.\" Xây dựng văn hóa giao tiếp cũng chính là xây dựng một môi trường giáo dục lý tưởng, nơi học sinh được phát triển toàn diện nhân cách, đạo đức và trí tuệ."
+        }
+      ]
     },
     {
       "id": "exam-final-1",
