@@ -7226,14 +7226,483 @@
       "questions": [
         {
           "id": 1,
-          "text": "Sự hình thành kỹ xảo mang lại ý nghĩa gì cho hoạt động học tập?",
+          "text": "Đối tượng nghiên cứu cốt lõi của Tâm lý học giáo dục là gì?",
           "options": [
-            "Làm tăng sự mệt mỏi",
-            "Giải phóng ý thức khỏi các thao tác kỹ thuật",
-            "Giảm khả năng tư duy",
-            "Làm cho hành động chậm lại"
+            "Người dạy và người học.",
+            "Các phương pháp giảng dạy hiện đại.",
+            "Các quy luật nảy sinh, biến đổi, phát triển của các hiện tượng tâm lý trong quá trình dạy học, giáo dục.",
+            "Cơ sở vật chất và công nghệ giáo dục."
           ],
-          "correctIndex": 1
+          "correctIndex": 2,
+          "explain": "Đối tượng của Tâm lý học giáo dục là các quy luật nảy sinh, biến đổi, phát triển của các hiện tượng tâm lý trong quá trình dạy học và giáo dục."
+        },
+        {
+          "id": 2,
+          "text": "Phương pháp nghiên cứu nào trong Tâm lý học giáo dục tập trung vào việc mô tả mối liên hệ giữa hai hay nhiều biến số để đưa ra dự báo?",
+          "options": [
+            "Phương pháp nghiên cứu trường hợp.",
+            "Phương pháp nghiên cứu tương quan.",
+            "Phương pháp thực nghiệm.",
+            "Phương pháp quan sát."
+          ],
+          "correctIndex": 1,
+          "explain": "Nghiên cứu tương quan giúp mô tả mối liên hệ giữa hai hay nhiều biến số để đưa ra dự báo về sự biến thiên."
+        },
+        {
+          "id": 3,
+          "text": "\"Cùng một lứa tuổi nhưng tốc độ và mức độ phát triển tâm lý của các cá nhân lại không đều nhau\". Hiện tượng này phản ánh quy luật nào của sự phát triển tâm lý?",
+          "options": [
+            "Quy luật toàn vẹn.",
+            "Quy luật không đồng đều (xét giữa các cá nhân).",
+            "Quy luật mềm dẻo và bù trừ.",
+            "Quy luật phủ định của phủ định."
+          ],
+          "correctIndex": 1,
+          "explain": "Cùng một lứa tuổi nhưng tốc độ phát triển khác nhau là biểu hiện của quy luật không đồng đều xét giữa các cá nhân."
+        },
+        {
+          "id": 4,
+          "text": "Theo L.S. Vygotsky, vùng phát triển gần nhất (ZPD) được hiểu là:",
+          "options": [
+            "Trình độ phát triển mà trẻ có thể tự mình giải quyết nhiệm vụ.",
+            "Khoảng cách giữa khả năng trẻ tự giải quyết vấn đề và khả năng giải quyết vấn đề dưới sự hướng dẫn của người lớn.",
+            "Sự thay đổi tình huống xã hội của sự phát triển.",
+            "Sự phát sinh xã hội của các dạng hành vi cấp cao."
+          ],
+          "correctIndex": 1,
+          "explain": "Thuyết Vùng phát triển gần nhất (ZPD) của Vygotsky là khoảng cách giữa khả năng tự giải quyết và khả năng khi có sự hướng dẫn."
+        },
+        {
+          "id": 5,
+          "text": "Hoạt động chủ đạo của lứa tuổi học sinh trung học cơ sở (tuổi thiếu niên) là gì?",
+          "options": [
+            "Hoạt động vui chơi.",
+            "Hoạt động học tập - hướng nghiệp.",
+            "Hoạt động giao tiếp cá nhân thân tình (giao lưu bè bạn).",
+            "Hoạt động xã hội."
+          ],
+          "correctIndex": 2,
+          "explain": "Hoạt động chủ đạo của thiếu niên là hoạt động giao tiếp, cụ thể là giao lưu bè bạn mang tính cá nhân thân tình."
+        },
+        {
+          "id": 6,
+          "text": "Nét cấu tạo tâm lý mới trung tâm trong nhân cách của lứa tuổi thiếu niên là gì?",
+          "options": [
+            "Tư duy trừu tượng.",
+            "Xu hướng nghề nghiệp.",
+            "Khả năng tự đánh giá lại các giá trị.",
+            "Cảm giác mình là người lớn."
+          ],
+          "correctIndex": 3,
+          "explain": "Cảm giác mình là người lớn là nét cấu tạo tâm lý mới trung tâm, nổi bật nhất của tuổi thiếu niên."
+        },
+        {
+          "id": 7,
+          "text": "Hoạt động chủ đạo của lứa tuổi học sinh trung học phổ thông (đầu thanh niên) là gì?",
+          "options": [
+            "Hoạt động xã hội.",
+            "Hoạt động giao lưu kết bạn tâm tình.",
+            "Hoạt động học tập - hướng nghiệp.",
+            "Hoạt động vui chơi giải trí."
+          ],
+          "correctIndex": 2,
+          "explain": "Hoạt động chủ đạo của tuổi đầu thanh niên (THPT) là hoạt động học tập - hướng nghiệp."
+        },
+        {
+          "id": 8,
+          "text": "Mục đích cốt lõi của hoạt động dạy là gì?",
+          "options": [
+            "Truyền đạt tất cả kinh nghiệm lịch sử loài người.",
+            "Giúp người học lĩnh hội nền văn hóa xã hội, tạo ra sự phát triển tâm lý và hình thành nhân cách.",
+            "Hướng tới việc tái tạo tri thức cho người dạy.",
+            "Quản lý và đánh giá năng lực của người học."
+          ],
+          "correctIndex": 1,
+          "explain": "Mục đích của hoạt động dạy là tổ chức, điều khiển giúp người học lĩnh hội nền văn hóa xã hội, từ đó phát triển tâm lý và nhân cách."
+        },
+        {
+          "id": 9,
+          "text": "Động cơ học tập nào sau đây được đánh giá là tối ưu nhất theo quan điểm sư phạm?",
+          "options": [
+            "Động cơ quan hệ xã hội.",
+            "Động cơ thi cử, điểm số.",
+            "Động cơ hoàn thiện tri thức.",
+            "Động cơ khen thưởng."
+          ],
+          "correctIndex": 2,
+          "explain": "Động cơ hoàn thiện tri thức (động cơ bên trong) là loại động cơ học tập tối ưu nhất theo quan điểm sư phạm, tạo ra sự say mê và bền vững."
+        },
+        {
+          "id": 10,
+          "text": "Trong các bước hình thành khái niệm khoa học cho học sinh, bước đầu tiên giáo viên cần thực hiện là gì?",
+          "options": [
+            "Tổ chức cho học sinh hành động trên đối tượng.",
+            "Vận dụng định nghĩa.",
+            "Làm nảy sinh nhu cầu nhận thức ở học sinh.",
+            "Hệ thống hóa khái niệm."
+          ],
+          "correctIndex": 2,
+          "explain": "Bước 1 trong quy trình là phải làm nảy sinh nhu cầu nhận thức ở học sinh (tạo tình huống có vấn đề)."
+        },
+        {
+          "id": 11,
+          "text": "Tiêu chí nào KHÔNG được dùng để đánh giá một hành vi đạo đức?",
+          "options": [
+            "Tính tự giác.",
+            "Tính có ích.",
+            "Tính hợp pháp.",
+            "Tính không vụ lợi."
+          ],
+          "correctIndex": 2,
+          "explain": "Hành vi đạo đức được đánh giá qua 3 tiêu chí: tính tự giác, tính có ích và tính không vụ lợi. Tính hợp pháp không phải là tiêu chí đánh giá cốt lõi của tâm lý học đạo đức."
+        },
+        {
+          "id": 12,
+          "text": "Trong cấu trúc tâm lý của hành vi đạo đức, yếu tố nào là sức mạnh tinh thần giúp con người vượt qua khó khăn để thực hiện đến cùng hành vi đạo đức?",
+          "options": [
+            "Tri thức đạo đức.",
+            "Tình cảm đạo đức.",
+            "Ý chí đạo đức.",
+            "Thói quen đạo đức."
+          ],
+          "correctIndex": 2,
+          "explain": "Ý chí đạo đức (nghị lực đạo đức) là sức mạnh tinh thần giúp con người vượt qua mọi khó khăn để thực hiện đến cùng hành vi."
+        },
+        {
+          "id": 13,
+          "text": "Bước đầu tiên trong quy trình 6 bước hình thành giá trị và định hướng giá trị trong trường học là gì?",
+          "options": [
+            "So sánh và làm nổi bật sự khác biệt.",
+            "Xác định và làm rõ các giá trị.",
+            "Xem xét các phương án.",
+            "Xây dựng kế hoạch hành động."
+          ],
+          "correctIndex": 1,
+          "explain": "Bước đầu tiên để hình thành giá trị là \"Xác định và làm rõ các giá trị\" để học sinh phát hiện những gì là quan trọng."
+        },
+        {
+          "id": 14,
+          "text": "Bản chất của hoạt động hỗ trợ tâm lý học đường là gì?",
+          "options": [
+            "Hướng đến việc chữa trị bệnh tâm thần cho những học sinh cá biệt.",
+            "Hướng đến việc chăm sóc sức khỏe tâm thần cho tất cả các thành viên trong nhà trường.",
+            "Chỉ tập trung vào việc định hướng nghề nghiệp cho học sinh cuối cấp.",
+            "Thay thế hoàn toàn vai trò giáo dục của gia đình."
+          ],
+          "correctIndex": 1,
+          "explain": "Hỗ trợ tâm lý học đường hướng đến việc chăm sóc sức khoẻ tâm thần cho tất cả các thành viên trong nhà trường (kể cả giáo viên, học sinh, phụ huynh)."
+        },
+        {
+          "id": 15,
+          "text": "Trong 4 cấp độ mạng lưới hỗ trợ tâm lý học đường, cấp độ 2 (Can thiệp tập trung) dành cho đối tượng nào?",
+          "options": [
+            "Phần lớn học sinh trong trường.",
+            "Nhóm học sinh có nguy cơ, chưa đáp ứng với các dịch vụ phòng ngừa phổ quát.",
+            "Học sinh có khó khăn nghiêm trọng về sức khỏe tâm thần (trầm cảm, bắt nạt).",
+            "Học sinh cần chuyển đến các cơ sở y tế trị liệu bên ngoài."
+          ],
+          "correctIndex": 1,
+          "explain": "Cấp độ 2 (Can thiệp tập trung) dành cho nhóm học sinh có nguy cơ, chưa đáp ứng với phòng ngừa phổ quát, có khó khăn trong học tập hoặc thái độ cư xử."
+        },
+        {
+          "id": 16,
+          "text": "Phản ứng tâm lý của cá nhân trong các tình huống học đường mà họ cho là có tính đe dọa (ví dụ: sợ bị điểm kém, sợ thi cử) được gọi là hiện tượng gì?",
+          "options": [
+            "Lo âu học đường.",
+            "Trầm cảm tuổi vị thành niên.",
+            "Rối loạn lo âu.",
+            "Bắt chước."
+          ],
+          "correctIndex": 0,
+          "explain": "Lo âu học đường là phản ứng tâm lý khi cá nhân đối mặt với tình huống học đường mà họ cho là có tính đe dọa (thi cử, điểm kém)."
+        },
+        {
+          "id": 17,
+          "text": "Theo A. Bandura (Mô hình học tập nhận thức xã hội), một hành vi có thể được hình thành thông qua con đường nào ngoài việc huấn luyện trực tiếp?",
+          "options": [
+            "Dùng phần thưởng và hình phạt.",
+            "Quan sát và bắt chước hành vi của người làm mẫu.",
+            "Xây dựng cấu trúc nhận thức từ bên trong.",
+            "Phản xạ có điều kiện."
+          ],
+          "correctIndex": 1,
+          "explain": "Thuyết nhận thức xã hội của Bandura nhấn mạnh hành vi có thể được hình thành dựa trên quan sát và bắt chước hành vi của người khác."
+        },
+        {
+          "id": 18,
+          "text": "Phương pháp \"Thử và sai\", cùng với việc sử dụng \"củng cố và trách phạt\" là đặc trưng của mô hình dạy học nào?",
+          "options": [
+            "Mô hình dạy học thông báo.",
+            "Mô hình dạy học điều kiện hóa cổ điển.",
+            "Mô hình dạy học hành vi tạo tác (Skinner).",
+            "Mô hình học tập khám phá."
+          ],
+          "correctIndex": 2,
+          "explain": "Dạy học bằng phương pháp thử - sai kết hợp với cơ chế củng cố và trách phạt là nền tảng của mô hình dạy học tạo tác do Skinner đề xuất."
+        },
+        {
+          "id": 19,
+          "text": "Việc giáo viên thiết kế không gian lớp học để đảm bảo có thể quan sát bao quát toàn bộ học sinh nhằm mục đích chính là gì?",
+          "options": [
+            "Để học sinh sợ hãi và không dám nói chuyện.",
+            "Tạo sự hỗ trợ tối đa, quản lý lớp hiệu quả và tăng cường thời gian học tập thực sự.",
+            "Thể hiện uy quyền của người thầy.",
+            "Giảm bớt thời gian di chuyển của giáo viên."
+          ],
+          "correctIndex": 1,
+          "explain": "Thiết kế không gian hợp lý giúp giáo viên quan sát tốt, từ đó hỗ trợ tối đa, quản lý hiệu quả và tăng thời gian cam kết học tập của người học."
+        },
+        {
+          "id": 20,
+          "text": "Trí tuệ cảm xúc (EQ) của người học có thể được phát triển thông qua phương pháp nào?",
+          "options": [
+            "Rèn luyện tư duy logic toán học.",
+            "Tích hợp giáo dục cảm xúc vào các môn học và dạy kỹ năng hợp tác nhóm.",
+            "Yêu cầu học sinh ghi nhớ thật nhiều sự kiện lịch sử.",
+            "Tạo ra môi trường cạnh tranh khốc liệt để học sinh phấn đấu."
+          ],
+          "correctIndex": 1,
+          "explain": "Trí tuệ cảm xúc có thể phát triển thông qua việc tích hợp giáo dục cảm xúc vào các môn học và dạy học sinh làm việc, hợp tác nhóm."
+        },
+        {
+          "id": 21,
+          "text": "Khái niệm giao tiếp sư phạm được hiểu đầy đủ nhất là gì?",
+          "options": [
+            "Sự tiếp xúc tâm lý giữa giáo viên và học sinh nhằm truyền đạt tri thức và phát triển nhân cách toàn diện ở người học.",
+            "Quá trình giáo viên truyền đạt kiến thức một chiều cho học sinh.",
+            "Sự trao đổi thông tin giữa nhà trường và phụ huynh.",
+            "Quá trình giải quyết các thủ tục hành chính trong trường học."
+          ],
+          "correctIndex": 0,
+          "explain": "Giao tiếp sư phạm là sự tiếp xúc tâm lý giữa giáo viên và học sinh nhằm mục đích truyền đạt tri thức và phát triển nhân cách."
+        },
+        {
+          "id": 22,
+          "text": "Trong hoạt động giáo dục, công cụ lao động chủ yếu của người giáo viên để tác động đến học sinh là gì?",
+          "options": [
+            "Cơ sở vật chất của nhà trường.",
+            "Nhân cách của chính người giáo viên.",
+            "Hệ thống giáo án điện tử.",
+            "Các nội quy, quy định kỷ luật."
+          ],
+          "correctIndex": 1,
+          "explain": "Công cụ lao động chủ yếu của nghề giáo chính là nhân cách của người giáo viên."
+        },
+        {
+          "id": 23,
+          "text": "Khi giáo viên luôn nhìn thấy điểm mạnh của học sinh, khích lệ và tin tưởng vào sự tiến bộ của các em, giáo viên đó đang tuân thủ nguyên tắc nào trong giao tiếp sư phạm?",
+          "options": [
+            "Nguyên tắc tính mẫu mực.",
+            "Nguyên tắc tôn trọng nhân cách.",
+            "Nguyên tắc có thiện ý.",
+            "Nguyên tắc dân chủ."
+          ],
+          "correctIndex": 2,
+          "explain": "Nguyên tắc thiện ý thể hiện ở việc giáo viên luôn nhìn thấy điểm mạnh, khích lệ và tin tưởng vào khả năng vươn lên của học sinh."
+        },
+        {
+          "id": 24,
+          "text": "Việc giáo viên biết \"đặt mình vào vị trí của học sinh để hiểu rõ suy nghĩ, tình cảm và hoàn cảnh của các em\" là biểu hiện của nguyên tắc nào?",
+          "options": [
+            "Đồng cảm trong giao tiếp sư phạm.",
+            "Thiện ý trong giao tiếp sư phạm.",
+            "Mẫu mực trong giao tiếp sư phạm.",
+            "Tôn trọng trong giao tiếp sư phạm."
+          ],
+          "correctIndex": 0,
+          "explain": "Đồng cảm là việc giáo viên biết đặt mình vào vị trí của học sinh để thấu hiểu suy nghĩ, tình cảm và hoàn cảnh của các em."
+        },
+        {
+          "id": 25,
+          "text": "Phong cách giao tiếp sư phạm nào tạo ra bầu không khí bình đẳng, thoải mái, giáo viên chú ý đến đặc điểm tâm lý cá nhân của từng học sinh?",
+          "options": [
+            "Phong cách độc đoán.",
+            "Phong cách tự do.",
+            "Phong cách dân chủ.",
+            "Phong cách linh hoạt."
+          ],
+          "correctIndex": 2,
+          "explain": "Phong cách dân chủ mang lại bầu không khí bình đẳng, thoải mái, giáo viên chú ý đến nhu cầu và đặc điểm tâm lý cá nhân của học sinh."
+        },
+        {
+          "id": 26,
+          "text": "Trong các loại phương tiện phi ngôn ngữ, kiểu nhìn nào của giáo viên thể hiện sự nghiêm túc, tạo uy quyền khiến người đối diện cảm thấy áp lực?",
+          "options": [
+            "Nhìn vào vùng tam giác giữa hai mắt và miệng.",
+            "Nhìn vào vùng tam giác từ hai mắt xuống ngực.",
+            "Nhìn vào vùng tam giác giữa hai mắt và trán.",
+            "Không nhìn trực tiếp vào học sinh."
+          ],
+          "correctIndex": 2,
+          "explain": "Nhìn vào vùng tam giác giữa hai mắt và trán được gọi là kiểu nhìn quyền uy, tạo ra áp lực và sự nghiêm túc."
+        },
+        {
+          "id": 27,
+          "text": "Giai đoạn nào được xem là trọng tâm của quá trình giao tiếp sư phạm, nơi diễn ra sự trao đổi thông tin qua lại và bộc lộ năng lực sư phạm của giáo viên?",
+          "options": [
+            "Giai đoạn định hướng trước khi tiếp xúc.",
+            "Giai đoạn mở đầu giao tiếp.",
+            "Giai đoạn diễn biến giao tiếp.",
+            "Giai đoạn kết thúc giao tiếp."
+          ],
+          "correctIndex": 2,
+          "explain": "Giai đoạn diễn biến giao tiếp là trọng tâm, nơi giáo viên điều khiển, truyền đạt kiến thức và tương tác trực tiếp với học sinh."
+        },
+        {
+          "id": 28,
+          "text": "\"Nghe thấu cảm\" (cấp độ lắng nghe cao nhất) đòi hỏi người giáo viên phải làm gì?",
+          "options": [
+            "Chỉ chăm chú ghi chép lại mọi lời nói của học sinh.",
+            "Phân tích để tìm ra lỗi sai trong lập luận của học sinh.",
+            "Đặt mình vào vị trí của học sinh, chú ý cả ngôn ngữ và phi ngôn ngữ để thấu hiểu tâm can của các em.",
+            "Nghe có chọn lọc những thông tin quan trọng."
+          ],
+          "correctIndex": 2,
+          "explain": "Nghe thấu cảm là cấp độ nghe cao nhất, đòi hỏi đặt mình vào vị trí người nói và thấu hiểu cả tâm tư tình cảm ẩn sau ngôn ngữ và phi ngôn ngữ."
+        },
+        {
+          "id": 29,
+          "text": "Lỗi sai phổ biến nào giáo viên CẦN TRÁNH khi sử dụng kỹ năng đặt câu hỏi?",
+          "options": [
+            "Nên bắt đầu bằng một câu hỏi dễ.",
+            "Sử dụng linh hoạt các loại câu hỏi đóng và mở.",
+            "Đặt câu hỏi quá dài dòng hoặc hỏi \"dồn\" nhiều câu cùng một lúc.",
+            "Dành thời gian im lặng để học sinh suy nghĩ sau khi hỏi."
+          ],
+          "correctIndex": 2,
+          "explain": "Hỏi dồn dập, quá dài dòng, vòng vo là những sai lầm khi đặt câu hỏi làm học sinh rơi vào thế bị động, mất tập trung."
+        },
+        {
+          "id": 30,
+          "text": "Theo Abraham Maslow, để động viên học sinh một cách hiệu quả, giáo viên cần lưu ý điều gì?",
+          "options": [
+            "Chỉ cần thỏa mãn nhu cầu tự khẳng định.",
+            "Phải nhận diện và thỏa mãn các nhu cầu ở bậc thấp (an toàn, sinh lý) trước khi khơi dậy nhu cầu ở bậc cao.",
+            "Mọi học sinh đều có nhu cầu giống hệt nhau.",
+            "Chỉ sử dụng phần thưởng vật chất."
+          ],
+          "correctIndex": 1,
+          "explain": "Thuyết nhu cầu của Maslow chỉ ra rằng con người thường phải được thỏa mãn các nhu cầu ở bậc thấp (sinh lý, an toàn) trước khi tiến tới các nhu cầu bậc cao."
+        },
+        {
+          "id": 31,
+          "text": "Việc giáo viên dùng những lời khen lặp đi lặp lại một cách chung chung (ví dụ: \"Em làm rất tốt\") ở mọi thời điểm sẽ dẫn đến hậu quả gì?",
+          "options": [
+            "Khích lệ mạnh mẽ sự tự tin của học sinh.",
+            "Lời khen trở nên nhàm chán, mất giá trị và học sinh nghi ngờ tính chân thực của nó.",
+            "Tạo ra sự đố kỵ lớn trong lớp.",
+            "Giúp học sinh học tập tiến bộ vượt bậc."
+          ],
+          "correctIndex": 1,
+          "explain": "Khen ngợi lặp đi lặp lại một cách chung chung sẽ vi phạm quy tắc khen với mức độ nhất định, làm lời khen trở nên sáo rỗng, nhàm chán."
+        },
+        {
+          "id": 32,
+          "text": "Hiện tượng một học sinh thay đổi suy nghĩ, thái độ của mình hùa theo số đông để không bị cô lập được gọi là hiện tượng tâm lý nào?",
+          "options": [
+            "Ám thị.",
+            "Lây lan cảm xúc.",
+            "Áp lực nhóm.",
+            "Bắt chước."
+          ],
+          "correctIndex": 2,
+          "explain": "Áp lực nhóm khiến một cá nhân phải thay đổi suy nghĩ, thái độ hùa theo số đông để tránh bị cô lập (Lý thuyết tâm lý học hành vi nhóm)."
+        },
+        {
+          "id": 33,
+          "text": "Khi giao tiếp với đồng nghiệp, nguyên tắc cốt lõi đầu tiên cần tuân thủ là gì?",
+          "options": [
+            "Giao tiếp dựa trên sự tôn trọng và bình đẳng.",
+            "Giao tiếp dựa trên sự phân chia cấp bậc rõ ràng.",
+            "Giao tiếp mang tính cạnh tranh.",
+            "Giao tiếp để ra lệnh."
+          ],
+          "correctIndex": 0,
+          "explain": "Giao tiếp với đồng nghiệp luôn phải dựa trên nguyên tắc đầu tiên là sự tôn trọng và bình đẳng."
+        },
+        {
+          "id": 34,
+          "text": "Dưới góc độ \"Phụ huynh là khách hàng\", thái độ đúng đắn của giáo viên là gì?",
+          "options": [
+            "Phục vụ vô điều kiện mọi yêu cầu vô lý.",
+            "Giao tiếp với thái độ tôn trọng, lắng nghe, hướng đến sự hài lòng và phối hợp giáo dục hiệu quả.",
+            "Giữ khoảng cách lạnh lùng để bảo vệ quyền uy.",
+            "Bỏ qua ý kiến của phụ huynh vì họ không có chuyên môn."
+          ],
+          "correctIndex": 1,
+          "explain": "Coi phụ huynh là khách hàng nghĩa là giáo viên cần cung cấp dịch vụ tốt, biết lắng nghe phản hồi, hướng đến sự hài lòng và hợp tác."
+        },
+        {
+          "id": 35,
+          "text": "\"Nguyên tắc vàng\" khi giáo viên giao tiếp với Ban giám hiệu nhà trường là gì?",
+          "options": [
+            "Nguyên tắc im lặng tuyệt đối.",
+            "Nguyên tắc tranh luận đến cùng.",
+            "Nguyên tắc luôn luôn lắng nghe và tiếp thu khách quan.",
+            "Nguyên tắc làm việc vượt cấp."
+          ],
+          "correctIndex": 2,
+          "explain": "\"Nguyên tắc vàng\" đối với lãnh đạo, ban giám hiệu là phải biết lắng nghe, tiếp thu khách quan để cải thiện công việc."
+        },
+        {
+          "id": 36,
+          "text": "Lỗi giao tiếp nào dễ gây ra mâu thuẫn nhất giữa giáo viên và nhân viên kế toán/văn thư trong trường học?",
+          "options": [
+            "Sự khác biệt về trình độ chuyên môn.",
+            "Giáo viên hách dịch, thiếu kiên nhẫn và không tuân thủ các quy trình, thủ tục hành chính.",
+            "Không thường xuyên tặng quà cáp.",
+            "Bất đồng về phương pháp giảng dạy."
+          ],
+          "correctIndex": 1,
+          "explain": "Đặc thù của văn thư/kế toán là nguyên tắc sổ sách. Giáo viên tỏ thái độ cửa quyền, không tuân thủ thủ tục hành chính sẽ làm phá vỡ văn hóa giao tiếp và gây ách tắc."
+        },
+        {
+          "id": 37,
+          "text": "Nền tảng cốt lõi nhất để xây dựng thành công văn hóa giao tiếp sư phạm trong nhà trường là gì?",
+          "options": [
+            "Nền tảng của sự yêu thương và tôn trọng con người.",
+            "Hệ thống quy định xử phạt nghiêm khắc.",
+            "Cơ sở vật chất và công nghệ hiện đại.",
+            "Các hoạt động ngoại khóa liên tục."
+          ],
+          "correctIndex": 0,
+          "explain": "Nền tảng cốt lõi của văn hóa giao tiếp sư phạm là được xây dựng dựa trên sự yêu thương và tôn trọng con người."
+        },
+        {
+          "id": 38,
+          "text": "Nhiệm vụ \"Tâm công\" trong xây dựng văn hóa giao tiếp sư phạm mang ý nghĩa gì?",
+          "options": [
+            "Tác động vào lý trí để thuyết phục.",
+            "Tác động vào ý chí để thúc đẩy rèn luyện.",
+            "Tác động vào trái tim, cảm xúc, sự đồng cảm để cảm hóa thái độ của đối tượng.",
+            "Xây dựng các chế tài xử phạt hành chính."
+          ],
+          "correctIndex": 2,
+          "explain": "Trong 3 nhiệm vụ Trí công - Tâm công - Chí công, \"Tâm công\" là đánh vào trái tim, cảm xúc để cảm hóa và thay đổi thái độ của người học."
+        },
+        {
+          "id": 39,
+          "text": "Văn hóa giao tiếp sư phạm mang đặc trưng nổi bật nhất là \"Sự hài hòa\". Sự hài hòa này bao gồm: Hài hòa giữa Lý với Tình; Hài hòa giữa cái Chung với cái Riêng; và hài hòa giữa yếu tố nào nữa?",
+          "options": [
+            "Giữa Lợi ích và Trách nhiệm.",
+            "Giữa Nội tâm và Biểu hiện bên ngoài.",
+            "Giữa Truyền thống và Hiện đại.",
+            "Giữa Thưởng và Phạt."
+          ],
+          "correctIndex": 1,
+          "explain": "Đặc điểm của văn hóa giao tiếp sư phạm là 3 sự hài hòa: Lý với Tình, Nội tâm với Biểu hiện bên ngoài, Cái chung với Cái riêng."
+        },
+        {
+          "id": 40,
+          "text": "Một giáo viên thường xuyên lăng mạ, cáu giận với học sinh là vi phạm nghiêm trọng vào nền tảng nào của môi trường giáo dục?",
+          "options": [
+            "Nền tảng chuyên môn học thuật.",
+            "Nền tảng yêu thương và tôn trọng nhân phẩm con người.",
+            "Nền tảng công nghệ thông tin.",
+            "Nền tảng tự do cá nhân."
+          ],
+          "correctIndex": 1,
+          "explain": "Lăng mạ, cáu giận xúc phạm học sinh là hành vi phản giáo dục, vi phạm nền tảng cốt lõi là sự yêu thương và tôn trọng nhân phẩm con người."
         }
       ]
     }
